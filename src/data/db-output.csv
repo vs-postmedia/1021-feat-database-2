@@ -1,0 +1,1726 @@
+id,name,age,person_state,location_last_seen_suburb,sex,aboriginal,last_seen_year
+5afcde6200800d23f7c2c083,Jessica Anuroff,22,missing,Burnaby,female,Yes,2011
+5afcde6200800d23f7c2c17f,Kyle Xavier Yellowbird,21,deceased,Surrey,male,Yes,2013
+5afcde6200800d23f7c2c180,William Lim (Billy) Woo,55,deceased,Squamish,male,No,2011
+5afcde6200800d23f7c2c181,Yee Wong,80,deceased,Vancouver,male,No,2013
+5afcde6200800d23f7c2c182,Craig Widdifield,28,deceased,Surrey,male,No,2013
+5afcde6200800d23f7c2c185,Victoria Kathleen Fawkes,42,deceased,Chilliwack,female,No,2005
+5afcde6200800d23f7c2c186,Charndev Tumber,30,deceased,Abbotsford,male,No,2006
+5afcde6200800d23f7c2c187,Vandale Smith,46,deceased,Surrey,male,No,2010
+5afcde6200800d23f7c2c189,William Wayne Cloud,19,deceased,Vancouver,male,Yes,2009
+5afcde6200800d23f7c2c18a,Theodore Williamson,54,deceased,Vancouver,male,No,2010
+5afcde6200800d23f7c2c18b,Clement Antoine Valentine,24,deceased,Abbotsford,male,No,2003
+5afcde6200800d23f7c2c18c,Mark Berry,44,deceased,Surrey,male,No,2013
+5afcde6200800d23f7c2c18d,Gerpal Singh Dosanjh,27,deceased,Vancouver,male,No,2004
+5afcde6200800d23f7c2c18e,Tony Robertson,51,deceased,Vancouver,male,No,2005
+5afcde6200800d23f7c2c18f,Anthony Klimchuk,38,deceased,New Westminster,male,No,2005
+5afcde6200800d23f7c2c190,Timothy Jones,28,deceased,Mission,male,No,2007
+5afcde6200800d23f7c2c191,Matthew Rheaume,39,deceased,Burnaby,male,No,2006
+5afcde6200800d23f7c2c192,Violet Herman,39,deceased,Vancouver,female,Yes,2002
+5afcde6200800d23f7c2c195,Dung Quoc Tran,18,deceased,Surrey,male,No,2002
+5afcde6200800d23f7c2c196,Wai Ling Tommy Wong,43,deceased,Richmond,male,No,2002
+5afcde6200800d23f7c2c197,Benjamin Granger,27,deceased,Vancouver,male,No,2004
+5afcde6200800d23f7c2c198,James Munro,Unknown,deceased,Burnaby,male,No,2007
+5afcde6200800d23f7c2c199,Yulian Limantoro,18,deceased,Surrey,male,No,2006
+5afcde6200800d23f7c2c19a,Riasat Khan,69,deceased,Surrey,male,No,2003
+5afcde6200800d23f7c2c19b,Janice Shore,45,deceased,Surrey,female,No,Unknown
+5afcde6200800d23f7c2c19c,Juel Ross Stanton,41,deceased,Vancouver,male,No,2010
+5afcde6200800d23f7c2c19d,Gurmit Singh Dhak,32,deceased,Burnaby,male,No,2010
+5afcde6200800d23f7c2c19e,Edward Roy Bailey,36,deceased,New Westminster,male,Yes,2007
+5afcde6200800d23f7c2c1a0,Ronal Shakeel Raj,31,deceased,Vancouver,male,No,2007
+5afcde6200800d23f7c2c1a1,Ali Abhari,25,deceased,Vancouver,male,No,2007
+5afcde6200800d23f7c2c1a2,Paul Luke Phelan,43,deceased,Surrey,male,No,2010
+5afcde6200800d23f7c2c1a3,Christopher Michael Howey,23,deceased,Burnaby,male,No,2004
+5afcde6200800d23f7c2c1a4,Dean Mohamed Elshamy,Unknown,deceased,Vancouver,male,No,2012
+5afcde6200800d23f7c2c1a5,Balwinder Uppal,43,deceased,Surrey,male,No,2011
+5afcde6200800d23f7c2c1a6,Lisa Arlene Francis,41,deceased,Vancouver,female,No,2009
+5afcde6200800d23f7c2c1a7,John William Hanna,25,deceased,Burnaby,male,No,2009
+5afcde6200800d23f7c2c1a8,Bobby Digeorgio,24,deceased,Abbotsford,male,No,2009
+5afcde6200800d23f7c2c1a9,Jessica Illes,23,deceased,Abbotsford,female,No,2009
+5afcde6200800d23f7c2c1aa,Gurpreet Singh (Garry) Bassi,23,deceased,Surrey,male,No,2008
+5afcde6200800d23f7c2c1ab,Charity Cassell,28,deceased,Surrey,female,No,2004
+5afcde6200800d23f7c2c1b0,Crystal Peggy Baker,35,deceased,Burnaby,female,Yes,2002
+5afcde6200800d23f7c2c1b4,Yao Heng (Ricky) Chou,54,deceased,Burnaby,male,No,2009
+5afcde6200800d23f7c2c1b5,Luis Alonso Euceda Torres,53,deceased,Surrey,male,No,2011
+5afcde6200800d23f7c2c1b6,Wendy Ladner-Beaudry,53,deceased,Vancouver,female,No,2009
+5afcde6200800d23f7c2c1b7,Donald Robert Reid,51,deceased,Surrey,male,No,2010
+5afcde6200800d23f7c2c1b8,Thavone Narong,49,deceased,Abbotsford,male,No,2010
+5afcde6200800d23f7c2c1ba,David Edward Bourgeois,41,deceased,Vancouver,male,No,2012
+5afcde6200800d23f7c2c1bb,Betty Yan,39,deceased,Richmond,female,No,2009
+5afcde6200800d23f7c2c1bc,Thuy Yen (Jenny) Vu,38,deceased,Vancouver,female,No,2011
+5afcde6200800d23f7c2c1bd,Jagdip Singh Johal,37,deceased,Vancouver,male,No,2012
+5afcde6200800d23f7c2c1be,Jaswant (Billy) Rai,36,deceased,Abbotsford,male,No,Unknown
+5afcde6200800d23f7c2c1bf,Justine Nethaniel Po,36,deceased,Richmond,male,No,2012
+5afcde6200800d23f7c2c1c1,Selvin Krishna,36,deceased,Maple Ridge,male,No,2012
+5afcde6200800d23f7c2c1c2,Karver Jesse Morford,35,deceased,chiliwack,male,No,2010
+5afcde6200800d23f7c2c1c3,Christopher Roy Whitmee,34,deceased,Surrey,male,No,2009
+5afcde6200800d23f7c2c1c5,Yilmaz Kuruoglu,33,deceased,Vancouver,male,No,Unknown
+5afcde6200800d23f7c2c1c6,Hong Wei Yin,33,deceased,Burnaby,female,No,2009
+5afcde6200800d23f7c2c1c7,Chhminder Singh (Shinda) Gill,32,deceased,Surrey,male,No,Unknown
+5afcde6200800d23f7c2c1c8,Harchie Tupas Onas,31,deceased,Burnaby,male,No,2010
+5afcde6200800d23f7c2c1c9,Jimmy Chau,31,deceased,NA,male,No,2011
+5afcde6200800d23f7c2c1ca,Manbir Singh Kajla,30,deceased,Surrey,male,No,2011
+5afcde6200800d23f7c2c1cb,Cory Stephen (Konkin) Talson,30,deceased,Maple Ridge,male,No,Unknown
+5afcde6200800d23f7c2c1cc,Craig Michael Hall,29,deceased,Vancouver,male,No,2010
+5afcde6200800d23f7c2c1cd,Axel Curtis,29,deceased,Vancouver,male,No,2011
+5afcde6200800d23f7c2c1cf,Steven Nicholas Dodd,27,deceased,Surrey,male,No,2009
+5afcde6200800d23f7c2c1d0,Alex (Buffalo) Nunez,27,deceased,NA,male,No,2009
+5afcde6200800d23f7c2c1d1,Sunil Mall,27,deceased,Vancouver,male,No,2009
+5afcde6200800d23f7c2c1d2,Chu Ka Chang,27,deceased,Burnaby,male,No,2009
+5afcde6200800d23f7c2c1d3,Milad Saffari,27,deceased,Coquitlam,male,No,2010
+5afcde6200800d23f7c2c1d5,Kevin Valentyne,24,missing,Vancouver,male,No,2013
+5afcde6200800d23f7c2c1d6,Nicholas Gordon Smith,24,deceased,Vancouver,male,No,2009
+5afcde6200800d23f7c2c1d8,Lionel Yisheng Tan,Unknown,deceased,Vancouver,male,No,Unknown
+5afcde6200800d23f7c2c1da,Christopher James Krake,Unknown,deceased,Coquitlam,male,No,Unknown
+5afcde6200800d23f7c2c1e3,Peter Gay Jong (Smokie) Chan,20,deceased,Burnaby,male,No,2008
+5afcde6200800d23f7c2c1e7,Devon Allaire-Bell,19,deceased,Surrey,male,No,2011
+5afcde6200800d23f7c2c1e9,Joseph Randay,18,deceased,Abbotsford,male,No,2005
+5afcde6200800d23f7c2c1ea,Dilsher Gill,17,deceased,Abbotsford,male,No,2005
+5afcde6200800d23f7c2c1ec,Syamac Gafary,32,deceased,Vancouver,male,No,2007
+5afcde6200800d23f7c2c1ef,Michelle Webster,44,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2c1f0,Gurpreet Dhaliwal,24,deceased,Surrey,male,No,2006
+5afcde6200800d23f7c2c1f3,Rajinder (Raj) Soomel,35,deceased,Vancouver,male,No,2009
+5afcde6200800d23f7c2c1f4,Mark Stuart Twyford,56,deceased,Surrey,male,No,2002
+5afcde6200800d23f7c2c1f5,Apollo-Lyn Simpson,28,deceased,Surrey,male,No,2011
+5afcde6200800d23f7c2c1f6,Gurpreet Singh Sidhu,21,deceased,Surrey,male,No,2008
+5afcde6200800d23f7c2c1f8,Harpreet Singh (Hapi) Sandhu,21,deceased,Vancouver,male,No,2011
+5afcde6200800d23f7c2c1fb,Rostam Poulad-Noshiravan,69,deceased,Vancouver,male,No,2013
+5afcde6200800d23f7c2c1fc,Ron Stewart,40,deceased,Vancouver,male,No,2005
+5afcde6200800d23f7c2c1fd,Rodger Luu,20,deceased,Kamloops,male,No,2006
+5afcde6200800d23f7c2c1fe,Gary Henry Blackburn,52,deceased,Richmond,male,No,Unknown
+5afcde6200800d23f7c2c200,Richard Bezanson,64,deceased,Vancouver,male,No,Unknown
+5afcde6200800d23f7c2c201,Richard Arthur Bell,29,deceased,NA,male,No,Unknown
+5afcde6200800d23f7c2c202,Ricardo Francis Scarpino,37,deceased,Vancouver,male,Yes,2008
+5afcde6200800d23f7c2c203,Gilles Andre Lepage,38,deceased,Vancouver,male,No,2008
+5afcde6200800d23f7c2c204,Evan Edgar Garber,59,deceased,Vancouver,male,No,2006
+5afcde6200800d23f7c2c205,Satwant Singh Bains,35,deceased,Surrey,male,No,2013
+5afcde6200800d23f7c2c206,Sheldon Floyd Herrling,32,deceased,Chilliwack,male,No,Unknown
+5afcde6200800d23f7c2c207,Nelson Leonidas Ramirez Guerrero,33,deceased,New Westminster,male,No,Unknown
+5afcde6200800d23f7c2c209,Pritpal Singh Virk,19,deceased,Vancouver,male,No,2008
+5afcde6200800d23f7c2c20a,Henry Braun,59,deceased,Maple Ridge,male,No,Unknown
+5afcde6200800d23f7c2c20c,Inderjit Singh (Andy) Rai,23,deceased,Surrey,male,No,2005
+5afcde6200800d23f7c2c20d,La Van Truong Phan,32,deceased,Vancouver,male,No,2013
+5afcde6200800d23f7c2c20e,Rachel Pernosky,18,deceased,Mission,female,No,2013
+5afcde6200800d23f7c2c20f,Kham Phang Chanthalangsy,25,deceased,Burnaby,male,No,2005
+5afcde6200800d23f7c2c211,Issaac Wiu Bhanban,Unknown,deceased,Vancouver,male,No,2010
+5afcde6200800d23f7c2c212,Christopher James Pammenter,46,deceased,Surrey,male,No,Unknown
+5afcde6200800d23f7c2c214,James Edward (Jed) O'toole,29,deceased,Vancouver,male,No,2008
+5afcde6200800d23f7c2c215,Milad Nournia,26,deceased,Vancouver,male,No,2011
+5afcde6200800d23f7c2c217,Hesam Abdolhossein-Zadeh,23,deceased,Vancouver,male,No,2004
+5afcde6200800d23f7c2c218,Jaskaran Singh Chima,25,deceased,New Westminster,male,No,Unknown
+5afcde6200800d23f7c2c219,Daniel Dayton,28,deceased,Surrey,male,No,Unknown
+5afcde6200800d23f7c2c21a,Neena Mohammed,51,deceased,New Westminster,female,No,Unknown
+5afcde6200800d23f7c2c21b,Rakesh Ratnam Naidu,34,deceased,Vancouver,male,No,Unknown
+5afcde6200800d23f7c2c21d,Jeri Leah Reimer,44,missing,Mission,female,No,2014
+5afcde6200800d23f7c2c21e,Miguel Rodriguez,33,deceased,Vancouver,male,No,Unknown
+5afcde6200800d23f7c2c21f,Michelle Choiniere,24,deceased,Vancouver,female,Yes,2005
+5afcde6200800d23f7c2c220,Michael Yung Ming Wong,32,deceased,Vancouver,male,No,2005
+5afcde6200800d23f7c2c221,Michael Minh Tien Ngo,22,deceased,Vancouver,male,No,2006
+5afcde6200800d23f7c2c222,Michael Ly,22,deceased,Burnaby,male,No,2002
+5afcde6200800d23f7c2c223,Duane Harvey Meyer,41,deceased,Abbotsford,male,No,2008
+5afcde6200800d23f7c2c224,Shane Alan Messent,24,deceased,Vancouver,male,No,2009
+5afcde6200800d23f7c2c225,Scott Ashley Mcmillan,55,deceased,Surrey,male,No,2013
+5afcde6200800d23f7c2c226,John Edward Mcgiveron,33,deceased,Surrey,male,No,2013
+5afcde6200800d23f7c2c227,Bruce Mayo,25,deceased,Langley,male,No,2012
+5afcde6200800d23f7c2c228,Patrick Martin,41,deceased,Surrey,male,No,2012
+5afcde6200800d23f7c2c229,Mark James Thrower,35,deceased,Richmond,male,No,2005
+5afcde6200800d23f7c2c22a,Mark Allen Bowe,40,deceased,Vancouver,male,No,2006
+5afcde6200800d23f7c2c22c,Marcel Ouellette,63,deceased,Vancouver,male,No,2006
+5afcde6200800d23f7c2c22d,Thomas Mantel,30,deceased,Burnaby,male,No,2012
+5afcde6200800d23f7c2c22e,Malkit Singh Manhas,58,deceased,Delta,male,No,2002
+5afcde6200800d23f7c2c22f,Vahid Mahanian,35,deceased,Vancouver,male,No,2011
+5afcde6200800d23f7c2c231,Randynesh Raman (Randy) Naicker,34,deceased,Port Moody,male,No,2012
+5afcde6200800d23f7c2c232,Tommy Ho Sing Chan,30,deceased,Vancouver,male,No,2006
+5afcde6200800d23f7c2c233,Lisa Ann Zielke,41,deceased,Surrey,female,No,2013
+5afcde6200800d23f7c2c234,Lin Wah Sam,59,deceased,Vancouver,male,No,2010
+5afcde6200800d23f7c2c235,Lawrence Soon Lim,19,deceased,Vancouver,male,No,2005
+5afcde6200800d23f7c2c236,Stephen Leone,27,deceased,Surrey,male,No,2011
+5afcde6200800d23f7c2c237,Van Phuc (Jimmy) Le,26,deceased,Surrey,male,No,2008
+5afcde6200800d23f7c2c238,Laurence Chow,22,deceased,Richmond,male,No,2004
+5afcde6200800d23f7c2c239,Uy Van Nguyen,25,deceased,Langley,male,No,2005
+5afcde6200800d23f7c2c23a,Kyle Richard Wong,20,deceased,Vancouver,male,No,2008
+5afcde6200800d23f7c2c23b,Kyle Clifford Marud,19,deceased,Langley Township,male,No,2007
+5afcde6200800d23f7c2c23d,Kirk Robert Holifield,35,deceased,Richmond,male,No,2007
+5afcde6200800d23f7c2c23e,Huzaifa (Kiana) Akhtar,17,deceased,Surrey,male,No,2010
+5afcde6200800d23f7c2c23f,Khammone (Kham) Phommavong,59,deceased,Surrey,male,No,2011
+5afcde6200800d23f7c2c241,Kevin Edwin Kornun,Unknown,deceased,Vancouver,male,No,2004
+5afcde6200800d23f7c2c242,Korey Tyler Kelly,25,deceased,Langley,male,No,2012
+5afcde6200800d23f7c2c243,Kelly Rideout,35,missing,Chilliwack,female,No,2011
+5afcde6200800d23f7c2c245,Michael Allen Sing,23,deceased,Surrey,male,No,2008
+5afcde6200800d23f7c2c246,John Popovich,32,deceased,Vancouver,male,No,2003
+5afcde6200800d23f7c2c247,John Anthony (Jj) Johnson,31,deceased,Vancouver,male,No,2003
+5afcde6200800d23f7c2c248,Joseph Allan (Joey) Markel,32,deceased,Port Moody,male,No,2012
+5afcde6200800d23f7c2c249,Nhant Truong (Joe) Tran,23,deceased,Surrey,male,No,2008
+5afcde6200800d23f7c2c24a,Ryan Darryl Joaquin,27,deceased,Richmond,male,No,2007
+5afcde6200800d23f7c2c24b,Jeff Cornell,31,deceased,Pitt Meadows,male,No,2008
+5afcde6200800d23f7c2c24c,James Po Ho Cheung,45,deceased,Vancouver,male,No,2007
+5afcde6200800d23f7c2c24d,Denis Laizer Jablonsky,30,deceased,Burnaby,male,No,2008
+5afcde6200800d23f7c2c24e,Van Em Huynh,25,deceased,Vancouver,male,No,2008
+5afcde6200800d23f7c2c24f,Herman Dhillon,Unknown,deceased,Vancouver,male,No,2004
+5afcde6200800d23f7c2c250,Hartinder Singh (Harry) Gill,26,deceased,Abbotsford,male,No,2004
+5afcde6200800d23f7c2c251,Harjeet Singh Ghoman,23,deceased,Vancouver,male,No,2004
+5afcde6200800d23f7c2c253,Hardev Singh Sidhu,27,deceased,Surrey,male,No,2005
+5afcde6200800d23f7c2c255,Harkhinder Hans,28,deceased,Surrey,male,No,2008
+5afcde6200800d23f7c2c256,Patrick Hamilton,28,deceased,Victoria,male,No,2008
+5afcde6200800d23f7c2c258,Manjinder Singh (Manny) Hairan,29,deceased,Surrey,male,No,2013
+5afcde6200800d23f7c2c25a,Gurnam Singh Johal,41,deceased,Surrey,male,No,2008
+5afcde6200800d23f7c2c25b,Gurbinder Singh (Bin) Toor,35,deceased,Port Moody,male,No,2012
+5afcde6200800d23f7c2c25d,Michael Gordon,33,deceased,Chilliwack,male,No,2008
+5afcde6200800d23f7c2c25e,Claudio Andres Gomez,25,deceased,Abbotsford,male,No,2003
+5afcde6200800d23f7c2c25f,Glen Anthony,25,deceased,Surrey,male,No,2006
+5afcde6200800d23f7c2c260,Adrian Gilpin,35,deceased,Burnaby,male,No,2008
+5afcde6200800d23f7c2c261,Michael Andrew Gibbon,38,deceased,Agassiz,male,No,2008
+5afcde6200800d23f7c2c263,Phillip Narinder (Phil) Hothi,Unknown,deceased,Vancouver,male,No,2004
+5afcde6200800d23f7c2c266,James Ward Erickson,25,deceased,Surrey,male,No,2009
+5afcde6200800d23f7c2c268,Elliston (Ian) Lee Liscombe,28,deceased,Vancouver,male,No,2005
+5afcde6200800d23f7c2c26a,Edward Stephen Mowers,46,deceased,Vancouver,male,No,2005
+5afcde6200800d23f7c2c26b,Sheldon Bluecloud,29,deceased,Abbotsford,male,No,2006
+5afcde6200800d23f7c2c26c,Tyler Dziwak,24,deceased,Abbotsford,male,No,2010
+5afcde6200800d23f7c2c26d,Dylan Becker,38,deceased,Surrey,male,No,2007
+5afcde6200800d23f7c2c26e,Donna Allardyce,29,deceased,Mission,female,No,2003
+5afcde6200800d23f7c2c26f,Hiep Vinh Do,51,deceased,Vancouver,male,No,2007
+5afcde6200800d23f7c2c270,Manjot Singh Dhillon,27,deceased,Surrey,male,No,2013
+5afcde6200800d23f7c2c272,Randall Davis,51,deceased,Surrey,male,No,2010
+5afcde6200800d23f7c2c273,David Mitchell,25,deceased,Surrey,male,No,2006
+5afcde6200800d23f7c2c274,Mahmoud Alkhalil,19,deceased,Vancouver,male,No,2003
+5afcde6200800d23f7c2c276,Darrell Vance Shanoss,39,deceased,Agassiz,male,No,2003
+5afcde6200800d23f7c2c277,Robbie Kandola,31,deceased,Vancouver,male,No,2002
+5afcde6200800d23f7c2c278,Andrew Michael (Drew) Cilliers,26,deceased,Surrey,male,No,2009
+5afcde6200800d23f7c2c279,Roxanne Flora Charlie,26,deceased,Surrey,female,Yes,2009
+5afcde6200800d23f7c2c27b,Yau Chung (Aaron) Chan,25,deceased,Vancouver,male,No,2008
+5afcde6200800d23f7c2c27c,Harpreet Chahal,25,deceased,Abbotsford,male,No,2013
+5afcde6200800d23f7c2c27e,Geordie Wesley Carlow,33,deceased,Surrey,male,No,2013
+5afcde6200800d23f7c2c280,Hung Van Bui,27,deceased,Vancouver,male,No,2008
+5afcde6200800d23f7c2c282,Bryan Braumberger,18,missing,Coquitlam,male,No,2007
+5afcde6200800d23f7c2c283,Regina Brazil,62,deceased,Delta,female,No,2010
+5afcde6200800d23f7c2c285,Sukhjinder Singh (Baboo/Sukhvir) Sohal,39,deceased,Surrey,male,No,2005
+5afcde6200800d23f7c2c286,Jatinder Singh Natt,22,deceased,Surrey,male,No,2005
+5afcde6200800d23f7c2c287,Edward Billy,20,deceased,Vancouver,male,No,2013
+5afcde6200800d23f7c2c288,Jeremy Bettan,38,deceased,Langley,male,No,2011
+5afcde6200800d23f7c2c289,Bhupinder Singh Benning,27,deceased,Burnaby,male,No,2021
+5afcde6200800d23f7c2c28a,Sean Beaver,27,deceased,Surrey,male,No,2012
+5afcde6200800d23f7c2c28b,Baljinder Singh Atwal,22,deceased,Vancouver,male,No,2006
+5afcde6200800d23f7c2c28c,Raphael Baldini,21,deceased,Surrey,male,No,2021
+5afcde6200800d23f7c2c28d,Julie Paskall,53,deceased,Surrey,female,No,2013
+5afcde6200800d23f7c2c28e,Zachary Ferland,19,deceased,Vancouver,male,No,2007
+5afcde6200800d23f7c2c28f,Viet Hoan Nguyen,26,deceased,Vancouver,male,No,2007
+5afcde6200800d23f7c2c290,April Peregooda,51,deceased,Maple Ridge,female,No,2013
+5afcde6200800d23f7c2c291,"Alfred ""Fred"" Walcott",22,deceased,Northeast Coquitlam,male,No,2008
+5afcde6200800d23f7c2c292,Phouvong Phommaviset,26,deceased,Vancouver,male,No,2002
+5afcde6200800d23f7c2c293,Abenaas Jaswal,Unknown,deceased,Vancouver,female,No,2002
+5afcde6200800d23f7c2c294,Chi Wai Liao,Unknown,deceased,Vancouver,male,No,2008
+5afcde6200800d23f7c2c295,Gurwinder Singh Bath,36,deceased,Surrey,male,No,2003
+5afcde6200800d23f7c2c296,Ryan Crawford Mcleod,51,deceased,Coquitlam,male,No,2005
+5afcde6200800d23f7c2c29b,Jake Brian Kermond,19,deceased,Whistler,male,No,2015
+5afcde6200800d23f7c2c29c,Samantha Jane Paul,25,deceased,Kamloops,female,Yes,2013
+5afcde6200800d23f7c2c29d,Tammy Eileen Penner,42,missing,Chilliwack,female,No,2005
+5afcde6200800d23f7c2c29e,Lisa Gavin,21,deceased,Vancouver,female,No,1988
+5afcde6200800d23f7c2c2a0,Rhonda Gaynor,Unknown,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2c2a3,Helena George,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c2a6,Mary Madeline George,25,missing,Prince George,female,Yes,2005
+5afcde6200800d23f7c2c2a7,Norma George,32,deceased,Vancouver,female,Yes,1992
+5afcde6200800d23f7c2c2ab,Candace Giebel,21,missing,Vancouver,female,No,2002
+5afcde6200800d23f7c2c2b5,Diane Gudmundson,24,deceased,Vancouver,female,No,1979
+5afcde6200800d23f7c2c2b8,Michele Gurney,Unknown,missing,Vancouver,female,Yes,1998
+5afcde6200800d23f7c2c2bd,Tiffany Drew,27,deceased,Vancouver,female,No,1999
+5afcde6200800d23f7c2c2bf,Gisele Duckham,56,deceased,Peachland,female,No,Unknown
+5afcde6200800d23f7c2c2c0,Lisa Dudley,37,deceased,Richmond,female,No,Unknown
+5afcde6200800d23f7c2c2c1,Susan Duff,12,deceased,Penticton,female,No,1979
+5afcde6200800d23f7c2c2c2,Elaine Dumba,34,missing,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2c2c5,Ann Durrant,20,deceased,Vancouver,female,No,1972
+5afcde6200800d23f7c2c2c6,Agda Easingwood,65,deceased,Port Coquitlam,female,No,1993
+5afcde6200800d23f7c2c2c7,Sheila Egan,20,missing,Vancouver,female,No,1998
+5afcde6200800d23f7c2c2cc,Diane Evelyn Ellison,39,deceased,Salmon Arm,female,No,Unknown
+5afcde6200800d23f7c2c2d0,Cynthia Feliks,47,deceased,Vancouver,female,Yes,1997
+5afcde6200800d23f7c2c2d1,Jerry Ferguson,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c2d3,Roberta Ferguson,19,missing,Fraser Valley,female,Yes,1988
+5afcde6200800d23f7c2c2d5,Colleen Findlay,39,deceased,Agassiz,female,No,2002
+5afcde6200800d23f7c2c2d6,Jennifer Cusworth,19,deceased,Kelowna,female,Yes,1993
+5afcde6200800d23f7c2c2d8,Corrine Dagnault,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c2da,Joanne Marie Pedersen,10,missing,Chilliwack,female,Yes,1983
+5afcde6200800d23f7c2c2db,Deena Braem,17,deceased,Quesnel,female,Yes,1999
+5afcde6200800d23f7c2c2dd,Ellen Marlene Rouse,22,missing,Vancouver,female,No,1975
+5afcde6200800d23f7c2c2de,Govind (George) Subramanian,42,missing,Vancouver,male,No,1974
+5afcde6200800d23f7c2c2df,James Patrick Ault,17,missing,Vancouver,male,No,1970
+5afcde6200800d23f7c2c2e0,Randy Whitcher,58,missing,Richmond,male,No,2017
+5afcde6200800d23f7c2c2e1,Dominic Neron,28,missing,Penticton,male,No,2017
+5afcde6200800d23f7c2c2e2,Ashley Bourgeault,31,deceased,Penticton,female,No,2017
+5afcde6200800d23f7c2c2e3,Chad Thomas Quaw,21,missing,Prince George,male,Yes,2017
+5afcde6200800d23f7c2c2e5,Michael Marshall,46,missing,Fort St. John,male,No,2017
+5afcde6200800d23f7c2c2e9,Luke Neville,48,missing,Spences Bridge,male,No,2017
+5afcde6200800d23f7c2c2ed,Gino Attila Mezei,41,missing,Vancouver,male,No,1996
+5afcde6200800d23f7c2c2ef,Tracy Genereaux,18,deceased,Vernon,female,No,2017
+5afcde6200800d23f7c2c2f1,Terrence Strynadka,63,deceased,Victoria,male,No,2016
+5afcde6200800d23f7c2c2f2,Jim (James) Roberts,81,missing,Qualicum Beach,male,No,2016
+5afcde6200800d23f7c2c2f3,Ruth Kilgore,61,deceased,Victoria,female,No,2016
+5afcde6200800d23f7c2c2fb,Orville Laplante,49,missing,Vancouver,male,Yes,2012
+5afcde6200800d23f7c2c2fc,Nicole Hoar,25,missing,Prince George,female,No,2002
+5afcde6200800d23f7c2c2fd,Brian Faughnan,35,missing,Whistler,male,No,2002
+5afcde6200800d23f7c2c2fe,Jafar Imenpour,74,missing,Port Coquitlam,male,No,2011
+5afcde6200800d23f7c2c2ff,Anne Marie Potton,24,deceased,Whistler,female,No,1994
+5afcde6200800d23f7c2c300,Jesokah Adkens,17,missing,Sooke,female,No,2001
+5afcde6200800d23f7c2c303,Michael Dunahee,4,missing,Victoria,male,No,1991
+5afcde6200800d23f7c2c304,Darren Fortier,21,missing,Port Hardy,male,No,1998
+5afcde6200800d23f7c2c305,Roderic Paul Maynard,54,missing,NA,male,No,2012
+5afcde6200800d23f7c2c307,Lindsey Nicholls,14,missing,Comox Valley,female,No,1993
+5afcde6200800d23f7c2c308,Linda Christian Pedersen,24,missing,Victoria,female,No,1981
+5afcde6200800d23f7c2c309,Robert Michael Slaughter,43,missing,Esquimalt,male,No,2009
+5afcde6200800d23f7c2c30a,Julia Strobach,26,missing,Courtenay,female,No,2013
+5afcde6200800d23f7c2c30b,Lisa Young,21,deceased,Nanaimo,female,Yes,2002
+5afcde6200800d23f7c2c30d,Shin Ik Noh,64,missing,Coquitlam,male,No,2013
+5afcde6200800d23f7c2c30e,Joseph Andrews,10,missing,Prince George,male,No,2002
+5afcde6200800d23f7c2c30f,Richard Milner,44,missing,Vancouver Island,male,No,2003
+5afcde6200800d23f7c2c310,Jacqueline Bob,41,missing,Nemaiah Valley,female,Yes,2004
+5afcde6200800d23f7c2c311,Rhody Lake,80,missing,Sechelt,female,No,2005
+5afcde6200800d23f7c2c316,Jonathan Jette,34,missing,Lytton,male,No,2010
+5afcde6200800d23f7c2c317,Rachael Anne Bagnall,25,missing,Lytton,female,No,2010
+5afcde6200800d23f7c2c319,Barry Blain Seymour,32,missing,Prince George,male,Yes,2012
+5afcde6200800d23f7c2c31a,Gui Feng Tong,66,missing,Burnaby,female,No,2013
+5afcde6200800d23f7c2c31c,Raymond Salmen,66,deceased,NA,male,No,2013
+5afcde6200800d23f7c2c31e,Lavern Boettger,78,missing,Vavenby,male,No,2013
+5afcde6200800d23f7c2c31f,Terrance Landon,57,missing,Kelowna,male,No,2013
+5afcde6200800d23f7c2c320,Robin Penwarn,59,missing,NA,female,No,2014
+5afcde6200800d23f7c2c321,Sylvia Apps,69,missing,Vancouver Island,female,No,2014
+5afcde6200800d23f7c2c322,Richard Norman,58,missing,Parksville,male,No,2015
+5afcde6200800d23f7c2c323,Neville Jewell,52,missing,NA,male,No,2015
+5afcde6200800d23f7c2c325,Debbie Blair,65,missing,NA,female,No,2016
+5afcde6200800d23f7c2c326,Roy Tin Hou Lee,43,missing,NA,male,No,2016
+5afcde6200800d23f7c2c328,Sophie Dowsley,34,deceased,Agassiz,female,No,2017
+5afcde6200800d23f7c2c32a,Pamela Darlington,19,deceased,Kamloops,female,Yes,1973
+5afcde6200800d23f7c2c32b,Gale Weys,19,deceased,Clearwater,female,No,1973
+5afcde6200800d23f7c2c32c,Maureen Mosie,33,deceased,Salmon Arm,female,Yes,1981
+5afcde6200800d23f7c2c32d,Micheline Pare,18,deceased,Fort St John,female,Yes,1970
+5afcde6200800d23f7c2c32e,Monica Ignas,15,deceased,thornhill,female,No,1974
+5afcde6200800d23f7c2c32f,Alberta Williams,24,deceased,Prince Rupert,female,Yes,1989
+5afcde6200800d23f7c2c331,Ramona Wilson,16,deceased,Smithers,female,Yes,1994
+5afcde6200800d23f7c2c332,Roxanne Thiara,15,deceased,Prince George,female,Yes,1994
+5afcde6200800d23f7c2c335,Tamara Chipman,22,missing,Prince Rupert,female,Yes,2005
+5afcde6200800d23f7c2c338,Helena Edna Tomat,17,deceased,NA,female,Yes,1989
+5afcde6200800d23f7c2c339,Rebecca Guno,23,missing,Vancouver,female,Yes,1983
+5afcde6200800d23f7c2c33c,Glenn Fry,37,missing,North Delta,male,No,2000
+5afcde6200800d23f7c2c33d,Elaine Allenbach,20,missing,Vancouver,female,No,1986
+5afcde6200800d23f7c2c33e,Sheryl Donahue,25,missing,Vancouver,female,No,1985
+5afcde6200800d23f7c2c33f,Rachel Turley,20,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2c341,Donna Rose Kiss,25,deceased,Surrey,female,Yes,Unknown
+5afcde6200800d23f7c2c343,Carol Davis,28,deceased,Burnaby,female,Yes,Unknown
+5afcde6200800d23f7c2c345,Doreen Jack,26,missing,Prince George,female,Yes,1989
+5afcde6200800d23f7c2c346,Ronald Jack,26,missing,Prince George,male,Yes,1989
+5afcde6200800d23f7c2c347,Russell Jack,9,missing,Prince George,male,Yes,1989
+5afcde6200800d23f7c2c348,Ryan Jack,4,missing,Prince George,male,Yes,1989
+5afcde6200800d23f7c2c349,Ingrid Antoinette Soet,30,missing,Vancouver,female,Yes,1989
+5afcde6200800d23f7c2c34a,Helen Frost,17,missing,Prince George,female,No,1970
+5afcde6200800d23f7c2c350,Lucas Degerness,14,missing,Prince George,male,No,2007
+5afcde6200800d23f7c2c351,Pablo Guerra,17,missing,Vancouver,male,No,2004
+5afcde6200800d23f7c2c352,Sahil Sharma,20,missing,Surrey,male,No,2008
+5afcde6200800d23f7c2c354,Verna Simard,50,deceased,Vancouver,female,Yes,2011
+5afcde6200800d23f7c2c358,Ashley Machiskinic,22,deceased,Vancouver,female,Yes,2010
+5afcde6200800d23f7c2c35a,Caitlin Potts,27,missing,Kelowna,female,Yes,2016
+5afcde6200800d23f7c2c35b,Delores Brown,19,deceased,Chemainus,female,Yes,2015
+5afcde6200800d23f7c2c35d,Immaculate Basil,26,missing,Leo Creek,female,Yes,2013
+5afcde6200800d23f7c2c35e,Destiny Tom,21,deceased,Fraser,female,Yes,2013
+5afcde6200800d23f7c2c35f,Angeline Pete,28,missing,North Vancouver,female,Yes,2011
+5afcde6200800d23f7c2c360,Abigail Patrice Andrews,28,missing,Fort St. John,female,Yes,2010
+5afcde6200800d23f7c2c362,Patricia Ann Quinn,33,missing,Lytton,female,Yes,2008
+5afcde6200800d23f7c2c364,Donna Taylor,36,deceased,Dawson Creek,female,Yes,Unknown
+5afcde6200800d23f7c2c368,Thelma Pete,53,deceased,Kamloops,female,Yes,2004
+5afcde6200800d23f7c2c369,Eva Mitchell,83,missing,Pouce Coupe,female,Yes,2004
+5afcde6200800d23f7c2c36a,Ramona Shular,37,missing,Fort St. John,female,Yes,2003
+5afcde6200800d23f7c2c36c,Savannah Hall,3,deceased,Vancouver,female,Yes,2001
+5afcde6200800d23f7c2c36e,Lora Banman,23,deceased,Nanaimo,female,Yes,1999
+5afcde6200800d23f7c2c36f,Amanda Simpson,4,deceased,Prince George,female,Yes,1999
+5afcde6200800d23f7c2c373,Cassandra Antone,20,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c376,Loretta Capot-Blanc,31,deceased,Fort Nelson,female,Yes,1997
+5afcde6200800d23f7c2c378,Diane Stewart,42,deceased,NA,female,Yes,1996
+5afcde6200800d23f7c2c37a,Mary Lidguerre,30,deceased,Vancouver,female,Yes,1995
+5afcde6200800d23f7c2c37d,Wendy Poole,20,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2c37e,Margaret Vedan,41,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2c380,Janette Basil,33,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2c383,Patricia Wadhams,21,deceased,Vancouver,female,Yes,1977
+5afcde6200800d23f7c2c384,Belinda Williams,24,missing,Mission,female,Yes,1976
+5afcde6200800d23f7c2c385,Velma Duncan,18,missing,Williams Lake,female,Yes,1972
+5afcde6200800d23f7c2c386,Selina Wallace,19,missing,Quadra Island,female,Yes,1971
+5afcde6200800d23f7c2c389,Emma Dixon,53,missing,Hope,female,Yes,1964
+5afcde6200800d23f7c2c38a,Marlene Abigosis,25,missing,Vancouver,female,Yes,1983
+5afcde6200800d23f7c2c38b,Sereena Abotsway,29,deceased,Vancouver,female,Yes,2001
+5afcde6200800d23f7c2c38c,Sharon Abraham,39,deceased,Vancouver,female,Yes,2000
+5afcde6200800d23f7c2c391,Sandra Amos,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c394,Sigrun Arnd,18,deceased,Coquitlam,female,No,1981
+5afcde6200800d23f7c2c396,Sharon Arrance,37,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c397,Angela Arseneault,17,missing,Burnaby,female,Yes,1994
+5afcde6200800d23f7c2c398,Laverna Avigan,43,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c39c,Eva Baker,29,missing,NA,female,No,2022
+5afcde6200800d23f7c2c39d,Karen Baker,20,deceased,Vancouver,female,Yes,1986
+5afcde6200800d23f7c2c39e,Sherry Baker,25,missing,Vancouver,female,No,1993
+5afcde6200800d23f7c2c3a4,Karen Batke,39,missing,NA,female,No,2007
+5afcde6200800d23f7c2c3a8,Cynthia Beck,33,deceased,Vancouver,female,No,1997
+5afcde6200800d23f7c2c3ab,Christine Billy,Unknown,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2c3ac,Verna Bjerky,16,missing,Hope,female,No,1981
+5afcde6200800d23f7c2c3af,Yvonne Boen,33,deceased,Surrey,female,Yes,2001
+5afcde6200800d23f7c2c3b2,Andrea Borhaven,27,deceased,Vancover,female,Yes,1997
+5afcde6200800d23f7c2c3b3,Heather Bottomley,25,deceased,Vancouver,female,Yes,2001
+5afcde6200800d23f7c2c3b4,Genevieve Bouchard,26,missing,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2c3b7,Diana Bowers,47,missing,Vernon,female,Yes,2005
+5afcde6200800d23f7c2c3ba,Kristin Gurholt,34,deceased,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2c3bc,Thandi Swaranjit,24,deceased,Aldergrove,female,No,1990
+5afcde6200800d23f7c2c3bd,Janetta Swart,76,deceased,Nanaimo,female,No,Unknown
+5afcde6200800d23f7c2c3c0,Linda Tatrai,18,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c3c2,Traci Genereaux,18,deceased,Vernon,female,No,2017
+5afcde6200800d23f7c2c3c3,Danielle Larue,24,deceased,Vancouver,female,Yes,2002
+5afcde6200800d23f7c2c3c4,Samuel Amos Quatell,19,missing,Heriot Bay,male,Yes,1983
+5afcde6200800d23f7c2c3c5,Patrick Ratto,43,missing,Burnaby,male,No,2006
+5afcde6200800d23f7c2c3c6,Jo-Anne Marie Pederson,10,missing,Chilliwack,female,No,1983
+5afcde6200800d23f7c2c3c8,David Christian,27,deceased,Whistler,male,No,2012
+5afcde6200800d23f7c2c3c9,Adam Moore,26,deceased,Prince Rupert,male,No,2013
+5afcde6200800d23f7c2c3ca,Natasha Montgomery,23,deceased,Prince George,female,Yes,2010
+5afcde6200800d23f7c2c3cd,Stephen Marshall,54,missing,Vancouver,male,No,2012
+5afcde6200800d23f7c2c3ce,Joseph Dumont,45,missing,NA,male,No,Unknown
+5afcde6200800d23f7c2c3cf,Perry Sebastian Jr.,28,missing,Burns Lake,male,Yes,2011
+5afcde6200800d23f7c2c3d0,Tam Pham,22,missing,Vancouver,male,No,2012
+5afcde6200800d23f7c2c3d1,Rbeccah Ankersen,15,missing,Nanaimo,female,No,2011
+5afcde6200800d23f7c2c3d2,Ryan Racette,30,missing,Nanaimo,male,No,2011
+5afcde6200800d23f7c2c3d3,Mandeep Bal,24,missing,Surrey,male,No,2011
+5afcde6200800d23f7c2c3d5,Shayne Robinson,40,missing,Celista,male,No,2010
+5afcde6200800d23f7c2c3d6,Jill Stuchenko,35,deceased,Prince George,female,No,2009
+5afcde6200800d23f7c2c3d7,John Fadden,62,missing,Vancouver,male,No,2011
+5afcde6200800d23f7c2c3d8,Samantha Lange,22,missing,Surrey,female,No,2011
+5afcde6200800d23f7c2c3d9,Nicole Bell,31,missing,Malakwa,female,No,2017
+5afcde6200800d23f7c2c3da,Darwin Greyeyes,55,missing,Nelson,male,Yes,2017
+5afcde6200800d23f7c2c3df,San Li Liao,54,missing,Surrey,female,No,2017
+5afcde6200800d23f7c2c3e2,Ashley Simpson,32,missing,Salmon Arm,female,No,2016
+5afcde6200800d23f7c2c3e3,Ronald Merner,56,deceased,Oak Bay,male,No,2017
+5afcde6200800d23f7c2c3e4,Sajed Ghaffari-Marandi,31,deceased,Coquitlam,male,No,2016
+5afcde6200800d23f7c2c3e5,Louis Gonick,21,missing,Vancouver,male,No,2017
+5afcde6200800d23f7c2c3e7,Debra Kumar,60,missing,Abbotsford,female,No,2017
+5afcde6200800d23f7c2c3ea,Trevor Oakley,34,deceased,Port Alberni,male,No,2017
+5afcde6200800d23f7c2c3eb,Skylar Pelletier,41,missing,Chilliwack,male,No,2017
+5afcde6200800d23f7c2c3ec,Leo Remy,59,missing,Castlegar,male,No,2017
+5afcde6200800d23f7c2c3ed,Michael Widner,39,deceased,Sooke,male,No,2017
+5afcde6200800d23f7c2c3ee,Joseph Kellington,24,deceased,Abbotsford,male,No,2017
+5afcde6200800d23f7c2c3ef,Roy Lee,43,missing,Vancouver,male,No,2016
+5afcde6200800d23f7c2c3f0,Chun Sen Lam,64,missing,Vancouver,male,No,2016
+5afcde6200800d23f7c2c3f1,Marie Stuart,38,missing,Abbotsford,female,No,2016
+5afcde6200800d23f7c2c3f3,Amanpreet Dhillon,35,missing,Vancouver,male,No,2015
+5afcde6200800d23f7c2c3f5,Dana Barlow,66,deceased,Mission,female,No,2016
+5afcde6200800d23f7c2c3f6,Mihai Vornicu,44,missing,Willams Lake,male,No,2016
+5afcde6200800d23f7c2c3f7,Marie Olarte,58,missing,Williams Lake,female,No,2016
+5afcde6200800d23f7c2c3f9,Joshua Chamanya,17,missing,Richmond,male,No,2016
+5afcde6200800d23f7c2c3fc,Deanna Mildred Wertz,46,missing,Enderby,female,Yes,2016
+5afcde6200800d23f7c2c3fd,Jeremy Wellman,32,deceased,Fernie,male,No,2016
+5afcde6200800d23f7c2c3fe,Ida Cragnolini,70,deceased,Trail,female,No,2016
+5afcde6200800d23f7c2c3ff,Florence Leung,32,deceased,Vancouver,female,No,2016
+5afcde6200800d23f7c2c401,Oliver Mora Zamarripa,19,deceased,Vancouver,male,No,2016
+5afcde6200800d23f7c2c402,Joshua Jeffs,23,missing,Revelstoke,male,No,2013
+5afcde6200800d23f7c2c403,Leigh Luyt,37,deceased,Vancouver,male,No,2016
+5afcde6200800d23f7c2c404,Joseph Pierce,31,missing,Swartz Bay,male,No,2016
+5afcde6200800d23f7c2c405,Kevin Phillips,49,missing,Vancouver,male,No,2016
+5afcde6200800d23f7c2c406,Tyler Erhardt,29,missing,Chilliwack,male,No,2016
+5afcde6200800d23f7c2c408,Gordon Sagoo,50,missing,Chilliwack,male,No,2016
+5afcde6200800d23f7c2c409,Natsumi Kogawa,30,deceased,Vancouver,female,No,2016
+5afcde6200800d23f7c2c40a,Jason Knight,40,missing,Victoria,male,No,2016
+5afcde6200800d23f7c2c40b,Deanna Desjarlais,27,deceased,Vancouver,female,Yes,2016
+5afcde6200800d23f7c2c40f,Clayton Cassidy,59,deceased,Cache Creek,male,No,2017
+5afcde6200800d23f7c2c412,Melanie Thompson,36,missing,Vancouver,female,No,2010
+5afcde6200800d23f7c2c413,Scott Korry,26,missing,North Vancouver,male,No,2010
+5afcde6200800d23f7c2c414,David Hayward,29,missing,Vancouver,male,No,2010
+5afcde6200800d23f7c2c415,Jon-Michael Preece,54,missing,Vancouver,male,No,2010
+5afcde6200800d23f7c2c416,Pierre Parkinson,41,missing,Vancouver,male,No,2009
+5afcde6200800d23f7c2c417,Christopher Hargitt,35,missing,Vancouver,male,No,2008
+5afcde6200800d23f7c2c418,Kevin Siluch,42,missing,Vancouver,male,No,2005
+5afcde6200800d23f7c2c419,Tiffany Andrews,27,deceased,Vancouver,female,No,2005
+5afcde6200800d23f7c2c41b,Oleg Babenko,38,missing,Vancouver,male,No,2004
+5afcde6200800d23f7c2c41c,Peter Geub,47,missing,Vancouver,male,No,2004
+5afcde6200800d23f7c2c41e,Randal Gary,50,missing,Vancouver,male,No,2003
+5afcde6200800d23f7c2c41f,Robert Hoffman,24,missing,Vancouver,male,No,2002
+5afcde6200800d23f7c2c420,Siu-Ying Yeung,Unknown,missing,Vancouver,male,No,2002
+5afcde6200800d23f7c2c421,Robert Meagher,40,missing,Vancouver,male,No,2001
+5afcde6200800d23f7c2c422,Gordon Fowlie,48,missing,Vancouver,male,No,2001
+5afcde6200800d23f7c2c425,Charles Trottier,30,missing,Vancouver,male,No,1996
+5afcde6200800d23f7c2c426,Todd Fraser,29,missing,vancouver,male,No,1998
+5afcde6200800d23f7c2c427,James Herron,40,missing,Vancouver,male,No,1998
+5afcde6200800d23f7c2c428,Markus Gerle,Unknown,missing,Vancouver,male,No,1996
+5afcde6200800d23f7c2c429,Patrick Graham,40,missing,Vancouver,male,No,1995
+5afcde6200800d23f7c2c42a,Arthur Thomas,28,missing,Vancouver,male,No,1995
+5afcde6200800d23f7c2c42b,Horst Sowa,55,missing,Vancouver,male,No,1994
+5afcde6200800d23f7c2c42d,Randolph Ford,Unknown,missing,Vancouver,male,No,1994
+5afcde6200800d23f7c2c42e,John James,34,missing,Vancouver,male,No,1993
+5afcde6200800d23f7c2c42f,Carl Ellingsen,79,missing,Vancouver,male,No,1993
+5afcde6200800d23f7c2c431,Gong Wu,34,missing,Vancouver,male,No,1992
+5afcde6200800d23f7c2c433,Harbax Singh,29,missing,Vancouver,female,No,1992
+5afcde6200800d23f7c2c434,Gerald Pittao,41,missing,Vancouver,male,No,1991
+5afcde6200800d23f7c2c435,Paul Douglas,29,missing,Vancouver,male,No,1990
+5afcde6200800d23f7c2c436,Jeffrey Russell,31,missing,Vancouver,male,No,1989
+5afcde6200800d23f7c2c437,Kum Lee,64,missing,Vancouver,male,No,1989
+5afcde6200800d23f7c2c438,Thomas Parkhouse,58,missing,Vancouver,male,No,1989
+5afcde6200800d23f7c2c43a,Michael Lee,36,missing,Vancouver,male,No,1987
+5afcde6200800d23f7c2c43b,David Harrington,28,missing,Vancouver,male,No,1986
+5afcde6200800d23f7c2c43c,Amy Pierre,31,missing,Vancouver,female,No,1981
+5afcde6200800d23f7c2c43e,Carlo Hernandez,20,missing,Vancouver,male,No,1976
+5afcde6200800d23f7c2c446,Robert Kinnee,56,missing,Revelstoke,male,No,2014
+5afcde6200800d23f7c2c4b8,Linda May Scott,29,missing,Vancouver,female,Yes,2000
+5afcde6200800d23f7c2c4e9,Justin Pichoch,28,missing,Williams Lake,male,No,2019
+5afcde6200800d23f7c2c539,Ian Henry,26,missing,Cowichin,male,Yes,2015
+5afcde6200800d23f7c2c78d,Peggy Favel,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c7c7,Derek Dyson,19,deceased,Prince Rupert,male,No,Unknown
+5afcde6200800d23f7c2c7f5,Cheryl Johnson,23,deceased,NA,female,Yes,2001
+5afcde6200800d23f7c2c855,Kimberlee Dumais,1,deceased,Prince Rupert,female,No,1990
+5afcde6200800d23f7c2c856,Gloria Duneult,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c858,Vikki Ferrando,30,deceased,Vancouver Island,female,Yes,Unknown
+5afcde6200800d23f7c2c85a,Michelle Fiddick,39,deceased,Vancouver,female,Yes,1996
+5afcde6200800d23f7c2c85f,Helene Flanders,38,deceased,Vancouver,female,Yes,1982
+5afcde6200800d23f7c2c861,Amanda Flett,Unknown,missing,NA,female,Yes,1993
+5afcde6200800d23f7c2c864,Debra Foley,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c869,Ruth Anderson,Unknown,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2c86a,Patricia Andrew,Unknown,deceased,Vancouver,female,Yes,1985
+5afcde6200800d23f7c2c86e,Gurpreet Atwal,30,deceased,Surrey,female,No,2013
+5afcde6200800d23f7c2c86f,Katherine August,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c877,Ada Brown,41,deceased,Prince George,female,Yes,2001
+5afcde6200800d23f7c2c87e,Lynda Brown,15,missing,NA,female,No,Unknown
+5afcde6200800d23f7c2c88a,Brenda Bryman,12,missing,NA,female,No,1961
+5afcde6200800d23f7c2c88d,Vanessa Buckner,27,deceased,Vancouver,female,Yes,1987
+5afcde6200800d23f7c2c88e,Marlene Buffalo-Hudson,23,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c88f,Julie Buffie,29,missing,"New Westminster,",female,No,1982
+5afcde6200800d23f7c2c892,Sarah Bui,15,missing,Abbotsford,female,No,Unknown
+5afcde6200800d23f7c2c89f,Pamela Cameron,16,deceased,Surrey,female,No,1994
+5afcde6200800d23f7c2c8a4,Roxanne Campbell,38,deceased,Terrace,female,Yes,2002
+5afcde6200800d23f7c2c8a8,Bernadette Campo,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c8ac,Carol Cardinal,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c8b1,Michela Cardinal,12,missing,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c8c1,Kim Casimer,21,deceased,Penticton,female,Yes,Unknown
+5afcde6200800d23f7c2c8cb,Annie Cedar,Unknown,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2c8d2,Rajwar Chahal,25,deceased,Vernon,female,No,1996
+5afcde6200800d23f7c2c8d4,Jewel Challand,2,deceased,Black creek,female,Yes,1997
+5afcde6200800d23f7c2c8db,Barbara Charles,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c8df,Chassidy Charlie,17,deceased,Burns Lake,female,Yes,2011
+5afcde6200800d23f7c2c8e0,Mary Ann Charlie,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c8e1,Sherry Charlie,1,deceased,Nanaimo,female,Yes,2002
+5afcde6200800d23f7c2c8e4,Connie Chartrand,23,deceased,NA,female,Yes,1981
+5afcde6200800d23f7c2c8e5,Donna Chartrand,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c8e7,Louise Chartrand,17,deceased,Maple Ridge,female,Yes,1981
+5afcde6200800d23f7c2c8e8,Sadie Chartrand,Unknown,missing,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c8ef,Yanyun Chen,61,missing,Richmond,female,No,2013
+5afcde6200800d23f7c2c8f0,Tara Chequis,21,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2c8fc,Connie Christenson,27,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c902,Kum Chun,59,deceased,Victoria,female,No,2007
+5afcde6200800d23f7c2c90d,"Mary Ann ""Nancy"" Clark",25,deceased,Victoria,female,Yes,1991
+5afcde6200800d23f7c2c933,Tammi-Lynn Cordone,43,deceased,Vancouver,female,No,2009
+5afcde6200800d23f7c2c935,Crystal Cosmano,16,missing,NA,female,No,2004
+5afcde6200800d23f7c2c93d,Ada Court,13,deceased,Coquitlam,female,Yes,1981
+5afcde6200800d23f7c2c946,Jessica Crane,Unknown,deceased,Okanagan valley,female,No,Unknown
+5afcde6200800d23f7c2c947,Carolyn Crawford,Unknown,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2c948,Wendy Crawford,43,deceased,Vancouver,female,Yes,1999
+5afcde6200800d23f7c2c951,Angela Crossman,39,deceased,Abbotsford,female,No,2009
+5afcde6200800d23f7c2c954,Allison Crowe,37,deceased,NA,female,Yes,2005
+5afcde6200800d23f7c2c962,Corrine Cunningham,19,missing,Maple Ridge,female,Yes,2005
+5afcde6200800d23f7c2c969,Catherine Daignault,40,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2c96a,Colleen Daignault,13,deceased,Delta,female,Yes,1981
+5afcde6200800d23f7c2c976,Carol Davie,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c979,Martha Davies,82,deceased,Vancouver,female,Yes,1976
+5afcde6200800d23f7c2c97b,Annie Davis,46,deceased,Chetwynd,female,Yes,2008
+5afcde6200800d23f7c2c989,Carol Deiter,32,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2c994,Shannon Deschamps,38,deceased,Surrey,female,No,Unknown
+5afcde6200800d23f7c2c996,Beverley Desjarlais,31,deceased,NA,female,Yes,1990
+5afcde6200800d23f7c2c9a0,Geraldine Devlin,61,missing,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2c9a1,Shelley Devoe,44,deceased,Surrey,female,No,2006
+5afcde6200800d23f7c2c9c2,Kristie Fowlie,18,deceased,Sooke,female,Yes,1982
+5afcde6200800d23f7c2c9c4,Rosemary Fox,32,deceased,Princeton,female,No,2013
+5afcde6200800d23f7c2c9d1,Marnie Frey,25,deceased,Vancouver,female,Yes,1997
+5afcde6200800d23f7c2c9d9,Jillian Fuller,28,deceased,Vancouver,female,No,1993
+5afcde6200800d23f7c2c9db,Jennifer Furminger,28,deceased,Vancouver,female,Yes,1999
+5afcde6200800d23f7c2c9de,Darshan Gakhal,45,deceased,Vernon,female,No,1996
+5afcde6200800d23f7c2c9df,Halvinder Gakhal,17,deceased,Vernon,female,No,1996
+5afcde6200800d23f7c2c9e0,Kalwinder Gakhal,21,deceased,Vernon,female,No,1996
+5afcde6200800d23f7c2c9e2,Tempest Gale,25,deceased,Hornby Island,female,Yes,2009
+5afcde6200800d23f7c2c9e4,Kimberley Gallup,17,deceased,Victoria,female,Yes,1990
+5afcde6200800d23f7c2c9ed,Hannah Gartry,50,deceased,Chilliwack,female,No,2003
+5afcde6200800d23f7c2c9fa,Inga Hall,46,deceased,Vancouver,female,No,1998
+5afcde6200800d23f7c2c9fe,Helen Hallmark,31,deceased,Vancouver,female,Yes,1997
+5afcde6200800d23f7c2ca16,Vera Harry,Unknown,deceased,Vancouver,female,Yes,1986
+5afcde6200800d23f7c2ca35,Lavina Henry,19,deceased,Lake Country,female,Yes,1966
+5afcde6200800d23f7c2ca38,Kathryn-Mary Herbert,11,deceased,Abbotsford,female,No,1975
+5afcde6200800d23f7c2ca3a,Violet Herman,39,deceased,Vancouver,female,Yes,2002
+5afcde6200800d23f7c2ca41,Theresa Hildebrant,15,deceased,Langley,female,No,Unknown
+5afcde6200800d23f7c2ca43,June Hill,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ca47,Sherri Lee Hiltz,44,deceased,Kamloops,female,No,2005
+5afcde6200800d23f7c2ca48,Shemina Hirji,41,deceased,Burnaby,female,No,2007
+5afcde6200800d23f7c2ca49,Claudia Ho,30,deceased,Vancouver,female,No,2011
+5afcde6200800d23f7c2ca54,Chelsea Holden,28,deceased,Vancouver,female,No,2012
+5afcde6200800d23f7c2ca58,Jenny Holtam,6,deceased,Mission,female,No,1997
+5afcde6200800d23f7c2ca59,Tanya Holyk,20,deceased,Vancouver,female,Yes,1996
+5afcde6200800d23f7c2ca5c,Vierra Homolova,54,missing,Vancouver,female,No,1999
+5afcde6200800d23f7c2ca60,Helen Hopcraft,17,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2ca62,Jessica Hopkins,36,missing,NA,female,No,2009
+5afcde6200800d23f7c2ca6c,Amber Huang,9,deceased,Vancouver,female,No,1996
+5afcde6200800d23f7c2ca6e,Jane Huang,40,deceased,Vancouver,female,No,1996
+5afcde6200800d23f7c2ca6f,Rebecca Huang,15,deceased,Vancouver,female,No,1996
+5afcde6200800d23f7c2ca70,Tsai Chin Chi Huang,68,deceased,Vancouver,female,No,1996
+5afcde6200800d23f7c2ca72,Lisa Hull,27,missing,Duncan,female,No,2005
+5afcde6200800d23f7c2ca73,Theresa Humchitt,Unknown,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2ca75,Tej Hundle,67,deceased,Vancouver,female,No,1988
+5afcde6200800d23f7c2ca77,Sheila Hunt,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ca79,Andrea Huth,5,missing,Vancouver,female,No,1997
+5afcde6200800d23f7c2ca7c,Chinah Huynh,34,deceased,Burnaby,female,No,2012
+5afcde6200800d23f7c2ca7d,Vicky Huynh,13,missing,NA,female,No,2006
+5afcde6200800d23f7c2ca7e,Ashlee Hyatt,16,deceased,Peachland,female,No,2010
+5afcde6200800d23f7c2ca85,Brittney Irving,24,deceased,Kelowna,female,No,2010
+5afcde6200800d23f7c2ca87,Deborah Isaac,47,deceased,Quesnel,female,No,2006
+5afcde6200800d23f7c2ca88,Florence Isaac,84,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ca89,Miranda Isaac,Unknown,unknown,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ca8d,Barbara Jack,14,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ca90,Helena Jack,71,deceased,Burns Lake,female,Yes,2004
+5afcde6200800d23f7c2ca91,Laverne Jack,39,deceased,NA,female,Yes,1988
+5afcde6200800d23f7c2ca99,Mary James,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ca9a,Mary Jamieson,89,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2ca9f,Angela Jardine,28,deceased,Vancouver,female,Yes,1998
+5afcde6200800d23f7c2caa9,Cheryl Ann Joe,26,deceased,Vancouver,female,Yes,1992
+5afcde6200800d23f7c2caab,Katherine Joe,27,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2caad,Santokh Johal,Unknown,missing,Quesnel,female,No,1978
+5afcde6200800d23f7c2caae,Sarabjit Johal,21,missing,Surrey,female,No,2010
+5afcde6200800d23f7c2cab2,Mary Johns,20,deceased,Vancouver,female,Yes,1982
+5afcde6200800d23f7c2cab4,Darlene Johnson,Unknown,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2cab5,Jasmine Johnson,26,missing,Vancouver,female,No,2005
+5afcde6200800d23f7c2cab8,Mandy Johnson,22,deceased,Abbotsford,female,No,2010
+5afcde6200800d23f7c2cab9,Mary Johnson,Unknown,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2cabb,Patricia Johnson,25,deceased,Vancouver,female,Yes,2001
+5afcde6200800d23f7c2cac9,Susan Jones,18,deceased,Cowichan Reserve,female,Yes,2011
+5afcde6200800d23f7c2caca,Tyeshia Jones,18,deceased,NA,female,Yes,2011
+5afcde6200800d23f7c2cacf,Diane Joseph,22,missing,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cad1,Nina Joseph,14,deceased,Prince George,female,Yes,1982
+5afcde6200800d23f7c2cae0,Lynn Kalmring,55,deceased,Penticton,female,No,2011
+5afcde6200800d23f7c2cafa,Margaret Kembo,44,deceased,Vancouver,female,No,2003
+5afcde6200800d23f7c2cb02,Charlene Kerr,29,deceased,Vancouver,female,Yes,1994
+5afcde6200800d23f7c2cb08,Naazish Khan,23,deceased,West Vancouver,female,No,1993
+5afcde6200800d23f7c2cb0c,Amarjit Khosa,34,deceased,Abbotsford,female,No,2010
+5afcde6200800d23f7c2cb1f,Ruby Ann Kirkpatrick,24,deceased,Kelowna,female,Yes,1998
+5afcde6200800d23f7c2cb2f,Catherine Knight,28,missing,Vancouver,female,No,1995
+5afcde6200800d23f7c2cb37,Cynthia Kollie,16,missing,Burnaby,female,No,2008
+5afcde6200800d23f7c2cb39,Lanyan Kong,28,deceased,Burnaby,female,No,2002
+5afcde6200800d23f7c2cb3a,Ann Konkin,56,deceased,Vancouver,female,No,1978
+5afcde6200800d23f7c2cb3d,Sheryl Koroll,50,deceased,Langley,female,No,2007
+5afcde6200800d23f7c2cb3e,Kerry Koski,39,deceased,Vancouver,female,No,1998
+5afcde6200800d23f7c2cb43,Jean Kovacs,36,deceased,Prince George,female,No,1981
+5afcde6200800d23f7c2cb47,Judy Kozma,14,deceased,New Westminster,female,Yes,1981
+5afcde6200800d23f7c2cb4e,Katalin Kunovits,63,missing,Vancouver,female,No,2010
+5afcde6200800d23f7c2cb52,Daisy Kwon,18,deceased,Surrey,female,No,2004
+5afcde6200800d23f7c2cb53,Keumhee Kwon,44,deceased,Surrey,female,No,2004
+5afcde6200800d23f7c2cb5a,Linda Lachance,38,missing,Enderby,female,No,1998
+5afcde6200800d23f7c2cb61,Michelle Lafleshe,Unknown,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2cb6a,Rodanthe Lake,80,missing,Sechelt,female,No,2005
+5afcde6200800d23f7c2cb6c,Maria Laliberte,Unknown,deceased,Vancouver,female,Yes,1996
+5afcde6200800d23f7c2cb73,Maureen Lambert,51,missing,Surrey,female,No,2005
+5afcde6200800d23f7c2cb7b,Barbara Lanes,Unknown,deceased,Quesnel,female,No,Unknown
+5afcde6200800d23f7c2cb80,January Lapuz,26,deceased,New Westminster,female,No,2019
+5afcde6200800d23f7c2cb85,Danielle Larson,29,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2cb92,Gwendolyn Lawton,46,deceased,Abbotsford,female,No,2007
+5afcde6200800d23f7c2cba1,Carolyn Lee,12,deceased,Port Alberni,female,No,1977
+5afcde6200800d23f7c2cba9,Lucia Leiser-Maika,55,missing,Vancouver,female,No,2007
+5afcde6200800d23f7c2cbae,Lisa Leo,24,deceased,Vancouver,female,Yes,1992
+5afcde6200800d23f7c2cbaf,Albina Lequia,96,deceased,Vancouver,female,No,1973
+5afcde6200800d23f7c2cbb0,Loren Leslie,15,deceased,Vanderhoof,female,No,2010
+5afcde6200800d23f7c2cbb3,Helen Lessardo (Bowers),Unknown,deceased,NA,female,No,2005
+5afcde6200800d23f7c2cbb6,Laura Letts-Beckett,50,deceased,Vernon,female,No,2010
+5afcde6200800d23f7c2cbc1,Rong Li,41,deceased,Richmond,female,No,2006
+5afcde6200800d23f7c2cbc4,Monika Lillmeier,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cbc9,Hope Lincoln,2,deceased,Bella Bella,female,Yes,2006
+5afcde6200800d23f7c2cbca,Roberta Lincoln,34,deceased,Vancouver,female,Yes,1993
+5afcde6200800d23f7c2cbce,Tawnya Megan Lisk,16,missing,Vernon,female,Yes,2004
+5afcde6200800d23f7c2cbd0,Kellie Richard Little,28,missing,Port Coquitlam,female,Yes,1997
+5afcde6200800d23f7c2cbd9,Brenda Logan,33,missing,Vancouver,female,Yes,1996
+5afcde6200800d23f7c2cbf0,Marcie Lunt,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cbf5,Jillian Lyons,45,deceased,New Westminster,female,No,2012
+5afcde6200800d23f7c2cbf6,Verna Lyons,Unknown,missing,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cc06,Leanne Macfarlane,43,deceased,Cranbrook,female,No,2010
+5afcde6200800d23f7c2cc09,Marjorie Mack,Unknown,missing,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cc10,Colleen Macmillen,16,deceased,Lac La Hache,female,No,1974
+5afcde6200800d23f7c2cc19,Laura Mah,42,missing,Vancouver,female,Yes,1985
+5afcde6200800d23f7c2cc1c,Margaret Mahseelah,Unknown,missing,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cc30,Delilah Martin,Unknown,missing,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cc36,Lisa Masã©E,39,missing,Vancouver,female,No,1994
+5afcde6200800d23f7c2cc3d,Sonia Mathews,Unknown,deceased,NA,female,Yes,1922
+5afcde6200800d23f7c2cc49,Genoa May,3,deceased,Sechelt,female,No,1985
+5afcde6200800d23f7c2cc4a,Maureen May,37,deceased,Kelowna,female,No,1991
+5afcde6200800d23f7c2cc4f,Ann Mcbryan,60,deceased,Vacouver,female,No,1978
+5afcde6200800d23f7c2cc50,Carmel Mccabe,45,deceased,Kelowna,female,Yes,1991
+5afcde6200800d23f7c2cc52,Mary Mccall,33,deceased,Vancouver,female,No,1980
+5afcde6200800d23f7c2cc5b,Catherine Mcclenaghan,48,deceased,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2cc5d,Christine Mccrae,Unknown,deceased,NA,female,No,1960
+5afcde6200800d23f7c2cc62,Jacqueline Mcdonell,22,deceased,Vancouver,female,No,1999
+5afcde6200800d23f7c2cc6a,Kayla Mckay,13,deceased,Prince Rupert,female,Yes,2004
+5afcde6200800d23f7c2cc6e,Lisa Mclaren,24,deceased,Vancouver,female,No,1993
+5afcde6200800d23f7c2cc75,Debbie Mcmath,Unknown,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2cc77,Mavis Mcmillan,22,deceased,Burnaby,female,No,1949
+5afcde6200800d23f7c2cc78,Nadine Mcmillan,19,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2cc7a,Senny-Rea Mcneil,15,missing,Surrey,female,No,2005
+5afcde6200800d23f7c2cc7d,Jennifer Mcpherson,41,deceased,Hanson Island,female,Yes,2013
+5afcde6200800d23f7c2cc83,Marilyn Meersman,28,deceased,Vancouver,female,No,1980
+5afcde6200800d23f7c2cc86,Diana Melnick,20,deceased,Vancouver,female,No,1995
+5afcde6200800d23f7c2cc8f,Rose Merasty,35,deceased,NA,female,Yes,1991
+5afcde6200800d23f7c2cc91,Cherissa-Lynn Mercer,14,missing,Surrey,female,Yes,2001
+5afcde6200800d23f7c2ccae,Maggie Mink,26,missing,Vancouver,female,Yes,1987
+5afcde6200800d23f7c2ccbf,Muriel Monk,47,deceased,Mission,female,No,2012
+5afcde6200800d23f7c2ccc0,Mary Anne Monroe,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ccc5,Marilyn Moore,34,missing,Vancouver,female,No,1985
+5afcde6200800d23f7c2ccc6,Lisa Moosomin,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cccb,Marilyn Moreside,34,missing,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ccd0,Lana Morin,Unknown,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2ccd5,Kristy Morrey,28,deceased,Port Alberni,female,No,2006
+5afcde6200800d23f7c2ccd6,Charmaine Morris,52,deceased,Surrey,female,No,2005
+5afcde6200800d23f7c2ccd9,Gale Morrison,29,deceased,Thornhill,female,Yes,1993
+5afcde6200800d23f7c2ccdc,Gloria Bernadette Maria Mott,26,deceased,Vancouver,female,No,1982
+5afcde6200800d23f7c2cce3,Audrianna Munroe,22,missing,NA,female,Yes,2007
+5afcde6200800d23f7c2cce7,Susan Musekamp,17,deceased,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2ccec,Karen Nabors,48,deceased,New Westminister,female,No,Unknown
+5afcde6200800d23f7c2ccef,Adina Napoleon,49,deceased,Moberly Lake,female,No,2012
+5afcde6200800d23f7c2ccf4,Debbie Neaslose,37,deceased,NA,female,Yes,1992
+5afcde6200800d23f7c2ccf6,Sheena Neifer,29,deceased,Vernon,female,No,2013
+5afcde6200800d23f7c2ccfc,Linda Nelson,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ccfd,Theresa Neville,26,deceased,Kelowna,female,No,2013
+5afcde6200800d23f7c2cd02,Lori Newman,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cd06,Oahn Ngoc Ha,19,deceased,Golden,female,No,1981
+5afcde6200800d23f7c2cd08,Tracy Nichol,45,deceased,Anglemont,female,No,2013
+5afcde6200800d23f7c2cd0c,Sarah Nickerson,53,deceased,Sooke,female,No,2012
+5afcde6200800d23f7c2cd15,Rumkahn Nuon,21,deceased,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2cd1b,Charlotte O'brien,22,deceased,Burnaby,female,No,1993
+5afcde6200800d23f7c2cd1c,Mary O'donnell,53,deceased,Vancouver,female,No,1988
+5afcde6200800d23f7c2cd27,Ruth Oliver,Unknown,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2cd29,Olivia Olson,4,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cd2b,Melanie O'neill,37,deceased,Vancouver,female,No,2011
+5afcde6200800d23f7c2cd2e,Cherish Oppenheim,16,deceased,Merritt,female,Yes,2001
+5afcde6200800d23f7c2cd3d,Manjit Panghali,31,deceased,Surrey,female,No,2006
+5afcde6200800d23f7c2cd3e,Raven Pantherbone-Hunt,15,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2cd44,Joyce Paquette,40,deceased,NA,female,Yes,1992
+5afcde6200800d23f7c2cd48,Faye Urry,41,deceased,Prince George,female,Yes,2002
+5afcde6200800d23f7c2cd4d,Nicole Parisien,33,deceased,Vancouver,female,Yes,2007
+5afcde6200800d23f7c2cd50,Sonny Yong Sun Park,32,deceased,Victoria,female,No,2007
+5afcde6200800d23f7c2cd56,Verna Parnell,Unknown,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2cd62,Barbara Paul,Unknown,deceased,Vancouver,female,Yes,Unknown
+5afcde6200800d23f7c2cd64,Harpreet Paul,1,missing,Coquitlam,female,No,1990
+5afcde6200800d23f7c2cd65,Lisa Paul,17,missing,Vancouver,female,Yes,2005
+5afcde6200800d23f7c2cd73,Tania Petersen,29,missing,Surrey,female,No,1998
+5afcde6200800d23f7c2cd79,Janet Pelletier,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cd7f,Patricia Pendleton,29,deceased,Chilliwack,female,Yes,1992
+5afcde6200800d23f7c2cd89,Laura Pesek,50,deceased,Missing,female,No,2013
+5afcde6200800d23f7c2cd8a,Jennifer Pete,36,deceased,NA,female,Yes,1992
+5afcde6200800d23f7c2cd8c,Bonnie Peters,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cda5,Birdena Pierce,38,deceased,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2cdc8,Catherine Pozzobon,16,deceased,Maple Ridge,female,No,1978
+5afcde6200800d23f7c2cdcd,Susan Presvich,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cdd1,Maijorie Prisnen,Unknown,deceased,NA,female,No,Unknown
+5afcde6200800d23f7c2cdda,Bonnie Pruden,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cddf,Angela Qiu,17,deceased,Surrey,female,No,2010
+5afcde6200800d23f7c2ce02,Michelle Lee-Anne Remi,17,missing,Surrey,female,Yes,2006
+5afcde6200800d23f7c2ce05,April Reoch,25,deceased,Vancouver,female,Yes,2000
+5afcde6200800d23f7c2ce1a,Delores Rivet,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ce1b,Laurie Rix,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ce28,Carmen Robinson,17,missing,Vancouver,female,No,1973
+5afcde6200800d23f7c2ce2d,Helga Rochon,45,deceased,Prince Rupert,female,No,1990
+5afcde6200800d23f7c2ce2e,Pauline Rochon,19,deceased,Prince Rupert,female,No,1990
+5afcde6200800d23f7c2ce2f,Sherri Rochon,26,deceased,Prince Rupert,female,No,1990
+5afcde6200800d23f7c2ce30,Dianne Marin-Rock,34,deceased,Vancouver,female,No,2001
+5afcde6200800d23f7c2ce39,Ry Rong,21,deceased,Vancouver,female,No,2001
+5afcde6200800d23f7c2ce3a,Rose Marie Roper,17,deceased,Williams Lake,female,Yes,1967
+5afcde6200800d23f7c2ce3b,Monica Jack,12,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ce3e,Heather Ross,27,missing,New Westminster,female,No,2002
+5afcde6200800d23f7c2ce47,Mertyl Roy,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ce4d,Jessica Russell,9,deceased,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2ce68,Jasbir Saran,30,deceased,Vernon,female,No,1996
+5afcde6200800d23f7c2ce6b,Janice Saul,44,deceased,Vancouver,female,Yes,1994
+5afcde6200800d23f7c2ce70,Frederick Savoy,27,deceased,Vancouver,female,No,1981
+5afcde6200800d23f7c2ce73,Shirley Scheeren,73,deceased,Victoria,female,No,2011
+5afcde6200800d23f7c2ce7b,Kaitlynne Schoenborn,10,deceased,Merritt,female,No,2008
+5afcde6200800d23f7c2ce7c,Laurie Scholtz,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2ce80,Elaine Schwartz,50,deceased,Gabriola Island,female,No,2011
+5afcde6200800d23f7c2ce87,Kataryna Semenova,27,deceased,New Westminster,female,No,2008
+5afcde6200800d23f7c2ce8c,Jennifer Seymour,25,missing,NA,female,Yes,2007
+5afcde6200800d23f7c2ce8e,Edna Shade,53,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cea0,Colleen Shook,24,deceased,New Westminster,female,Yes,1985
+5afcde6200800d23f7c2cea1,Dorcas Shorson,24,missing,Surrey,female,Yes,2005
+5afcde6200800d23f7c2ceb0,Ariana Simpson,20,deceased,Victoria,female,Yes,2009
+5afcde6200800d23f7c2ceba,Naiomi Skye,25,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cebc,Carla Slots,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cebe,Darlene Small-Legs,Unknown,unknown,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cec1,Carla Smith,27,deceased,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2cec7,Julie Smith,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cecd,Marietta Smoker,Unknown,missing,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cecf,Peggy Snow,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cee0,Brittany Stalman,17,missing,North Delta,female,No,2006
+5afcde6200800d23f7c2cee1,Bernadine Standingready,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cef9,Luanne Stolarchuk,Unknown,unknown,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cf12,Grace Theodorou,Unknown,deceased,Vancouver,female,No,Unknown
+5afcde6200800d23f7c2cf1e,Patricia Thomas,Unknown,deceased,Vancouver,female,Yes,1984
+5afcde6200800d23f7c2cf27,Arlene Thunder,Unknown,unknown,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cf30,Shelby Tracey Tom,40,deceased,Vancouver,female,No,2003
+5afcde6200800d23f7c2cf34,Elsie Tomma,Unknown,unknown,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cf42,Tami Tracey,17,deceased,NA,female,Yes,Unknown
+5afcde6200800d23f7c2cf46,Mindy Tran,8,deceased,Kelowna,female,No,1994
+5afcde6200800d23f7c2cf59,Lorna Ulmer-Billy,15,deceased,Port Coquitlam,female,Yes,2006
+5afcde6200800d23f7c2cf69,Jamie Dawn Vanwieren,17,deceased,Vernon,female,No,Unknown
+5afcde6200800d23f7c2cf75,Cheryle Vicklund,33,deceased,Vancouver,female,Yes,1996
+5afcde6200800d23f7c2cf78,Reena Virk,14,deceased,View Royal,female,No,1997
+5afcde6200800d23f7c2cf7a,Willliam Voght,24,deceased,Vancouver,female,No,1993
+5afcde6a00800d23f7c2cf7c,Breann Voth,19,deceased,Port Coquitlam,female,No,2002
+5afcde6a00800d23f7c2cf7e,Adriane Wadhams,6,deceased,Port Hardy,female,Yes,1989
+5afcde6a00800d23f7c2cf81,Christina Wallace,88,missing,Vancouver,female,Yes,2020
+5afcde6a00800d23f7c2cf82,Sherry Wallace,31,deceased,Vancouver,female,No,1984
+5afcde6a00800d23f7c2cf98,Christal Weaver,29,deceased,NA,female,No,Unknown
+5afcde6a00800d23f7c2cf9c,Siya Wei,29,unknown,Burnaby,female,No,2009
+5afcde6a00800d23f7c2cf9e,Christine Weller,12,deceased,Surrey,female,No,1980
+5afcde6a00800d23f7c2cfab,Hazel White,Unknown,deceased,Vanderhoof,female,No,1996
+5afcde6a00800d23f7c2cfb4,Chasidy Whitford,1,deceased,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2cfb8,Jeannie Wiebe,Unknown,deceased,NA,female,No,Unknown
+5afcde6a00800d23f7c2cfbc,Angela Williams,31,deceased,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2cfbd,Betty Williams,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2cfc0,Geraldine Williams,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2cfc1,Heather Williams,28,deceased,Burns Lake,female,Yes,2017
+5afcde6a00800d23f7c2cfc4,Ruby Williams,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2cfc5,Tara Williams,40,deceased,Vanderhoof,female,No,2013
+5afcde6a00800d23f7c2cfc6,Teressa Williams,16,missing,Vancouver,female,Yes,1988
+5afcde6a00800d23f7c2cfc7,Teri-Lyn Williams,43,deceased,Surrey,female,No,2010
+5afcde6a00800d23f7c2cfcc,Adrienne Wilson,6,deceased,Port Hardy,female,Yes,1989
+5afcde6a00800d23f7c2cfcd,Beverly Wilson,Unknown,unknown,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2cfce,Emma Wilson,20,deceased,Sli'ammon,female,Yes,2009
+5afcde6a00800d23f7c2cfd4,Michelle Wing,25,deceased,Vancouver,female,Yes,1994
+5afcde6a00800d23f7c2cfd6,Louise Wise,17,deceased,Vancouver,female,No,1971
+5afcde6a00800d23f7c2cfd8,Brenda Wolfe,30,deceased,Vancouver,female,Yes,1999
+5afcde6a00800d23f7c2cfdb,Sandra Wolfsteiner,16,deceased,Langley,female,Yes,1981
+5afcde6a00800d23f7c2cfde,Fang Wong,Unknown,deceased,NA,female,No,Unknown
+5afcde6a00800d23f7c2cfe9,Brenda Woodward,34,deceased,Kimberly,female,No,2003
+5afcde6a00800d23f7c2cfec,Gail Worm,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2cff0,Chrystal Wright,19,deceased,Kelowna,female,Yes,1991
+5afcde6a00800d23f7c2cff4,Shih Hsueh Wu,30,missing,Richmond,female,No,2012
+5afcde6a00800d23f7c2cffd,Rita Yeung,21,deceased,Richmond,female,No,2005
+5afcde6a00800d23f7c2d02b,Brent Forsyth,11,missing,Hazelton,male,No,1974
+5afcde6a00800d23f7c2d037,Russell Fabien Jack,9,missing,Prince George,male,Yes,1989
+5afcde6a00800d23f7c2d038,Ryan Paul Jack,4,missing,Prince George,male,Yes,1989
+5afcde6a00800d23f7c2d04f,Tom Anthony Marsden,17,missing,NA,male,No,1984
+5afcde6a00800d23f7c2d050,Edna Bette-Jean Masters,2,missing,Kamloops,female,No,1960
+5afcde6a00800d23f7c2d06b,Denny-Ray Poole,14,missing,NA,male,Yes,2016
+5afcde6a00800d23f7c2d09a,Ray James Harry,33,missing,Quesnel,male,Yes,2015
+5afcde6a00800d23f7c2d09f,Lonnie Widdoes,49,missing,Williams Lake,male,No,2015
+5afcde6a00800d23f7c2d0a1,Colleen Smith,50,missing,Kelowna,female,No,2016
+5afcde6a00800d23f7c2d0a3,George Lorry Wood,53,missing,Surrey,male,No,2015
+5afcde6a00800d23f7c2d0a9,Nicholas Rubini,19,missing,Surrey,male,No,2016
+5afcde6a00800d23f7c2d0ad,Dan Ross,33,missing,Penticton,male,No,2016
+5afcde6a00800d23f7c2d0b2,Christopher David Floyd,56,missing,Surrey,male,No,2015
+5afcde6a00800d23f7c2d0b3,Caitlyn Murray-Carr,21,missing,Quesnel,female,No,2013
+5afcde6a00800d23f7c2d0b4,Kim Rogelstad,43,missing,Coquitlam,female,No,2007
+5afcde6a00800d23f7c2d0ba,Igor Dostal,41,missing,North Vancouver,male,No,2016
+5afcde6a00800d23f7c2d0bb,Anthony Adevai,70,deceased,Kinaskan Lake,male,No,2016
+5afcde6a00800d23f7c2d0bc,Miles Mccallum,32,missing,Mission,male,No,2016
+5afcde6a00800d23f7c2d0bf,Kyonghee Kim,54,missing,Surrey,female,No,Unknown
+5afcde6a00800d23f7c2d0c0,Jade Kozma,21,missing,Victoria,female,No,2021
+5afcde6a00800d23f7c2d0c1,Brianna Mason,42,missing,Duncan,female,No,2017
+5afcde6a00800d23f7c2d0c3,Sydney Robillard,24,missing,Cranbrook,female,No,2017
+5afcde6a00800d23f7c2d0c7,Roberta Sims,55,missing,Prince George,female,No,2017
+5afcde6a00800d23f7c2d0c8,Gregory Tiffin,44,deceased,Agassiz,male,No,2017
+5afcde6a00800d23f7c2d0c9,Adam Nichols,34,missing,Vernon,male,No,2017
+5afcde6a00800d23f7c2d0ca,Joseph Peters,43,missing,Maple Ridge,male,Yes,2017
+5afcde6a00800d23f7c2d0cb,Reginald Wills,59,missing,Mission,male,No,2017
+5afcde6a00800d23f7c2d0cc,Jared Szabo,Unknown,deceased,Beaton,male,No,2017
+5afcde6a00800d23f7c2d0cd,Allan Ellsworth,53,deceased,West Kootenay,male,No,2017
+5afcde6a00800d23f7c2d0ce,Michael David Jeff,67,deceased,Kamloops,male,No,2017
+5afcde6a00800d23f7c2d125,Scott Brown,50,missing,Nanaimo,male,No,2020
+5afcde6a00800d23f7c2d149,Winfried Thomas,31,missing,Vancouver,male,No,1979
+5afcde6a00800d23f7c2d180,Lon Batchelor,43,missing,Burnaby,male,No,Unknown
+5afcde6a00800d23f7c2d193,Steven Anthony Begg,36,missing,Surrey,male,No,2011
+5afcde6a00800d23f7c2d1b0,Michael James Bosma,25,missing,Kelowna,male,No,2006
+5afcde6a00800d23f7c2d1b8,Harley William Boxall,46,missing,Nanaimo,male,No,2012
+5afcde6a00800d23f7c2d1d3,Belinda Cameron,42,missing,Victoria,female,Yes,2005
+5afcde6a00800d23f7c2d1e8,Asim Chaudhry,24,missing,Burnaby,male,No,2007
+5afcde6a00800d23f7c2d1f8,Harley John Metheral,31,missing,Vancouver,male,No,1980
+5afcde6a00800d23f7c2d228,Delvin D'arcy,55,missing,Fort Fraser,male,No,2013
+5afcde6a00800d23f7c2d24e,Emerson Dobroskay,21,missing,Vancouver,male,No,1988
+5afcde6a00800d23f7c2d26e,Robert Angelo Furgiuele,24,missing,Squamish,male,No,1992
+5afcde6a00800d23f7c2d31a,Roxanne Fleming,18,missing,Lillooet,female,Yes,1982
+5afcde6a00800d23f7c2d328,Wesley Foulds,51,missing,Abbotsford,male,No,2009
+5afcde6a00800d23f7c2d36f,Rodney Ernie Hicks,27,missing,Burnaby,male,No,1989
+5afcde6a00800d23f7c2d37f,Ronald Paul Jack,26,missing,Prince George,male,Yes,1989
+5afcde6a00800d23f7c2d380,Doreen Ann Jack,26,missing,Prince George,female,Yes,1989
+5afcde6a00800d23f7c2d388,Randolph Berle Johanson,45,missing,Richmond,male,No,1982
+5afcde6a00800d23f7c2d38d,Bonnie Joseph,31,missing,NA,female,Yes,2007
+5afcde6a00800d23f7c2d3c6,Jacek Laskowski,41,missing,Golden,male,No,2005
+5afcde6a00800d23f7c2d402,Amelie Elizabeth Mcarthur,36,missing,Taylor,female,No,1973
+5afcde6a00800d23f7c2d475,Genevieve Bouchard,26,missing,Vancouver,female,No,2011
+5afcde6a00800d23f7c2d4a8,Lester Sampson,57,missing,Glen Vowell,male,Yes,2015
+5afcde6a00800d23f7c2d4ab,Alfred Sassin,79,missing,Vancouver,male,No,2012
+5afcde6a00800d23f7c2d4b7,Raymon Shaw,53,missing,Langley,male,No,1964
+5afcde6a00800d23f7c2d4bd,So Huy Tran,59,missing,Port McNeill,male,No,2011
+5afcde6a00800d23f7c2d4be,Yanting Hu,27,deceased,Coquitlam,female,No,2011
+5afcde6a00800d23f7c2d4bf,Patric Graham,58,deceased,Kitimat,male,No,2017
+5afcde6a00800d23f7c2d4d3,Dorothy Spence,32,missing,Vancouver,female,Yes,1995
+5afcde6a00800d23f7c2d4ed,Mary Agnes Thomas,Unknown,missing,Quesnel,female,Yes,Unknown
+5afcde6a00800d23f7c2d51e,Belinda Williams,24,missing,Mission,female,Yes,1976
+5afcde6a00800d23f7c2d525,George Wood,53,missing,Surrey,male,No,2015
+5afcde6a00800d23f7c2d531,Gerald Jensen,Unknown,missing,Surrey,male,No,1997
+5afcde6a00800d23f7c2d534,Margaret Schochenmaier,40,missing,New Westminster,female,No,1985
+5afcde6a00800d23f7c2d535,Kenneth Brown,23,missing,New Westminister,male,No,1984
+5afcde6a00800d23f7c2d546,Delores (Lolly) Marie Whiteman,42,missing,Vancouver,female,Yes,1970
+5afcde6a00800d23f7c2d55c,Douglas Sawatzky,42,deceased,Chilliwack,male,No,2012
+5afcde6a00800d23f7c2d561,Fribjon Bjornson,28,deceased,Vanderhoof,male,No,2012
+5afcde6a00800d23f7c2d562,Marcia Wilson,Unknown,missing,Chilliwack,female,No,2011
+5afcde6a00800d23f7c2d570,Frances Ann Grant,33,deceased,Vancouver,female,Yes,Unknown
+5afcde6a00800d23f7c2d574,Tracey Chartrand,25,deceased,Vancouver,female,Yes,Unknown
+5afcde6a00800d23f7c2d575,Glenna Sowan,25,deceased,Vancouver,female,Yes,1988
+5afcde6a00800d23f7c2d57a,Rose Minnie Peters,28,deceased,Vancouver,female,Yes,1988
+5afcde6a00800d23f7c2d580,Chantal  Marie Venne,21,deceased,Esquimalt,female,Yes,Unknown
+5afcde6a00800d23f7c2d58b,Nancy Joan Johnsen,7,deceased,Surrey,female,No,1967
+5afcde6a00800d23f7c2d591,Catherine Laraway,16,deceased,Vancouver,female,No,1971
+5afcde6a00800d23f7c2d595,Barbara Ann Laroque,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2d59a,Gayle (Sam) Rogers,26,deceased,Vancouver,female,No,Unknown
+5afcde6a00800d23f7c2d59b,Margie Melinda Blackwell,21,deceased,NA,female,No,Unknown
+5afcde6a00800d23f7c2d59c,Ruth Mallenby,26,deceased,Vancouver,female,No,1976
+5afcde6a00800d23f7c2d5a4,Theresa Hildebrandt,Unknown,deceased,Vancouver,female,No,Unknown
+5afcde6a00800d23f7c2d5a7,Rhona Duncan,16,deceased,Vancouver,female,No,1976
+5afcde6a00800d23f7c2d5aa,Lillianâ  O'dare,34,deceased,Vancouver,female,No,1978
+5afcde6a00800d23f7c2d5c1,Shana Labatte,31,deceased,Kamloops,female,Yes,2004
+5afcde6a00800d23f7c2d5d5,Jennifer Andrews,Unknown,deceased,Abbotsford,female,No,2006
+5afcde6a00800d23f7c2d5db,John Edwards,45,missing,Courtenay,male,No,2020
+5afcde6a00800d23f7c2d5df,Debra Jones,43,deceased,Vancouver,female,No,2000
+5afcde6a00800d23f7c2d5e1,Dawn Crey,42,deceased,Vancouver,female,Yes,2000
+5afcde6a00800d23f7c2d612,Josee-Lynn Savard-Tefler,15,missing,North Vancouver,female,No,2011
+5afcde6a00800d23f7c2d613,Robert Milwrick,80,missing,Burnaby,male,No,2011
+5afcde6a00800d23f7c2d615,Orlando Graham,16,missing,Hornby Island,male,No,2011
+5afcde6a00800d23f7c2d61a,Janice Demkiw,Unknown,missing,Surrey,female,No,2011
+5afcde6a00800d23f7c2d61c,Linda Stephen,58,missing,Coquitlam,female,No,2011
+5afcde6a00800d23f7c2d61e,Michael Dunahee,4,missing,Victoria,male,No,1991
+5afcde6a00800d23f7c2d61f,Miguel Goncalves,49,deceased,Keremos,male,No,2007
+5afcde6a00800d23f7c2d620,Ebony Wilson,17,missing,Courtenay,female,No,2012
+5afcde6a00800d23f7c2d621,William Mchendry,67,missing,Kelowna,male,No,2011
+5afcde6a00800d23f7c2d622,Seyed Nourbakhsh-Saleh,26,missing,Vancouver,male,No,2011
+5afcde6a00800d23f7c2d623,Tam Pham,22,missing,Vancouver,male,No,2012
+5afcde6a00800d23f7c2d626,Rory Mcgillivray,56,deceased,Kamloops,male,No,2011
+5afcde6a00800d23f7c2d627,Ian Vissers,46,missing,Penticton,male,No,2011
+5afcde6a00800d23f7c2d628,Alanna Tatchell,14,missing,Chilliwack,female,No,2009
+5afcde6a00800d23f7c2d629,Brian Mbaruk,20,deceased,Vancouver,male,No,2011
+5afcde6a00800d23f7c2d62b,Taylor Van Diest,18,deceased,Armstrong,female,No,2011
+5afcde6a00800d23f7c2d62d,Gary Orgill,52,missing,McBride,male,No,2011
+5afcde6a00800d23f7c2d62e,Julian Gordziejewski,50,missing,Burnaby,male,No,2011
+5afcde6a00800d23f7c2d62f,Tyler Fetterly,26,missing,prince george,male,No,Unknown
+5afcde6a00800d23f7c2d631,Twyla Roscovich,38,deceased,Campbell River,female,No,2017
+5afcde6a00800d23f7c2d633,Euarchol Wanichpan,25,deceased,Vancouver Island,female,No,2017
+5afcde6a00800d23f7c2d645,Joan Keebler,26,deceased,Kemano,female,No,1955
+5afcde6a00800d23f7c2d646,Vincent Grunau,23,missing,Vancouver,male,No,1990
+5afcde6a00800d23f7c2d649,John Fulton,12,deceased,Grand Forks,male,No,2009
+5afcde6a00800d23f7c2d64e,Jackie Myerion,25,missing,NA,female,Yes,2004
+5afcde6a00800d23f7c2d650,Alfred Jimmy Gardiner,77,missing,Burnaby,male,No,2007
+5afcde6a00800d23f7c2d652,Kim Rogelstand,43,missing,Coquitlam,female,No,2007
+5afcde6a00800d23f7c2d653,Julie Oakley-Parker,33,missing,Quesnel,female,No,2006
+5afcde6a00800d23f7c2d655,Odessa Manville,29,missing,Kamloops,female,No,2005
+5afcde6a00800d23f7c2d657,Narajan Singh Sohal,81,deceased,Surrey,male,No,2005
+5afcde6a00800d23f7c2d658,Amanda Gore,20,deceased,Quesnel,female,No,2005
+5afcde6a00800d23f7c2d65b,Stephanie Langthorne,16,missing,NA,female,No,2004
+5afcde6a00800d23f7c2d65c,Leah Nestegard,14,missing,Coquitlam,female,No,2004
+5afcde6a00800d23f7c2d65d,Sarah Strachan,16,missing,Coquitlam,female,Yes,2004
+5afcde6a00800d23f7c2d660,Shelley Harrison,28,missing,Vancouver,female,No,2002
+5afcde6a00800d23f7c2d662,Lee Ann Parker,36,missing,Prince George,female,Yes,2002
+5afcde6a00800d23f7c2d664,Joseph James Andrew,10,missing,Prince George,male,No,2002
+5afcde6a00800d23f7c2d669,Julie Louis Young,31,missing,Vancouver,female,No,1998
+5afcde6a00800d23f7c2d66a,Brianne Wolgram,19,missing,revelstoke,female,No,Unknown
+5afcde6a00800d23f7c2d671,Wendy Ratte,44,deceased,Prince George,female,Yes,1997
+5afcde6a00800d23f7c2d675,Olivia Williams,22,missing,Vancouver,female,Yes,1996
+5afcde6a00800d23f7c2d678,Barbara Ellen Killon,Unknown,missing,Richmond,female,Yes,1995
+5afcde6a00800d23f7c2d679,Catherine Maureen Knight,32,missing,Vancouver,female,No,1995
+5afcde6a00800d23f7c2d67a,Catherine Louise Gonzalez,30,missing,Vancouver,female,No,1995
+5afcde6a00800d23f7c2d67c,Leigh Miner,34,missing,Vancouver,female,No,1993
+5afcde6a00800d23f7c2d67d,Sherri Mclaughlin,21,missing,Kamloops,female,No,1993
+5afcde6a00800d23f7c2d680,Gloria Fedyshyn,27,missing,Vancouver,female,No,1993
+5afcde6a00800d23f7c2d682,Elsie Sebastien,40,missing,Vancouver,female,Yes,1992
+5afcde6a00800d23f7c2d683,Kathleen Dale Wattley,33,missing,Vancouver,female,No,1992
+5afcde6a00800d23f7c2d686,Cecilia Nikal,15,missing,Vancouver,female,Yes,1989
+5afcde6a00800d23f7c2d687,Lenora Olding,19,missing,Vancouver,female,No,1986
+5afcde6a00800d23f7c2d68a,Sherry Rail,27,missing,Vancouver,female,No,1986
+5afcde6a00800d23f7c2d68c,Janice Hackh,16,missing,Quesnel,female,Yes,1979
+5afcde6a00800d23f7c2d68d,Diane Lynn Buckley,18,missing,Vancouver,female,Yes,1979
+5afcde6a00800d23f7c2d68f,Verna Littlechief,34,missing,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2d6c5,Terry Beckett,55,missing,Burnaby,male,No,2008
+5afcde6a00800d23f7c2d6c6,Brandyn Thomas Dirienzo,20,missing,Chilliwack,male,No,2006
+5afcde6a00800d23f7c2d6cd,Martin Balfour,26,missing,Pitt Meadows,male,No,2001
+5afcde6a00800d23f7c2d6d2,Dennis Cornish,37,deceased,Kelowna,male,No,2008
+5afcde6a00800d23f7c2d6d8,Kerri Ann Stone,42,deceased,Duncan,female,No,2010
+5afcde6a00800d23f7c2d6d9,Shannon Rogers,26,deceased,Victoria,female,No,2011
+5afcde6a00800d23f7c2d6e1,Barbara Joseph,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2d6e7,Mary Jimmie,Unknown,deceased,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2d6e8,Ann Ruby Threlfell,24,deceased,Vancouver,female,No,1980
+5afcde6a00800d23f7c2d6e9,Colleen Mcmillan,Unknown,missing,NA,female,No,Unknown
+5afcde6a00800d23f7c2d718,Charles Munro,20,missing,Vancouver,male,No,2016
+5afcde6a00800d23f7c2d7ac,Kevin Campbell,38,deceased,Prince Rupert,male,No,2013
+5afcde6a00800d23f7c2d84b,Maxwell Brown,29,missing,Klemtu,male,Yes,2012
+5afcde6a00800d23f7c2d88a,Brian Cretney,59,missing,Fraser Lake,male,No,2008
+5afcde6a00800d23f7c2d88e,Wendy Lee Richards,41,missing,Langley,female,No,2008
+5afcde6a00800d23f7c2d896,Manvir (Munny) Sidhu,17,missing,Abbotsford,male,No,2006
+5afcde6a00800d23f7c2d898,Michael Scuillion,30,deceased,Agassiz,male,No,2008
+5afcde6a00800d23f7c2d899,Kenneth Shigehiro,46,missing,Port Coquitlam,male,No,2008
+5afcde6a00800d23f7c2d89a,Anthony Carroll Lee,22,deceased,Prince George,male,No,2008
+5afcde6a00800d23f7c2d89b,Kellen Charles Mcelwee,25,deceased,Langley Twp,male,No,2008
+5afcde6a00800d23f7c2d89e,Irvin Michell,32,missing,Prince George,male,No,2007
+5afcde6a00800d23f7c2d89f,Ira Chidlow,77,missing,Coquitlam,male,No,2008
+5afcde6a00800d23f7c2d8a0,Shawn West,34,missing,NA,male,No,2007
+5afcde6a00800d23f7c2d8a1,Fiona Shan Lin,17,missing,Vancouver,female,No,2007
+5afcde6a00800d23f7c2d8a2,Zhe Gao,28,missing,Richmond,male,No,Unknown
+5afcde6a00800d23f7c2d8a3,Alexis Diede-Devlin,14,missing,Surrey,female,No,2007
+5afcde6a00800d23f7c2d8a6,Beric Bason,26,missing,Clinton,male,No,2007
+5afcde6a00800d23f7c2d8af,David Cox,27,missing,Cranbrook,male,No,2011
+5afcde6a00800d23f7c2d8b3,Cassandra Wilson,41,missing,Kamloops,female,No,2012
+5afcde6a00800d23f7c2d8c7,Bhagatpreet (Preet) Khangura,29,missing,Chilliwack,male,No,2015
+5afcde6a00800d23f7c2d8c8,Berhane Beraky,38,missing,Burnaby,male,No,2015
+5afcde6a00800d23f7c2d8c9,Carly Joy Fraser,19,deceased,Vancouver,female,No,2014
+5afcde6a00800d23f7c2d8cb,Candace Shpeley,23,missing,Surrey,female,No,Unknown
+5afcde6a00800d23f7c2d8ce,Dennis Morgan,56,deceased,Oak Bay,male,No,2015
+5afcde6a00800d23f7c2d8cf,Nicholas Hannon,19,deceased,Langley,male,No,2014
+5afcde6a00800d23f7c2d8e2,Alvin Dunic,57,deceased,Crawford Bay,male,No,2017
+5afcde6a00800d23f7c2d8e3,Joel Arkinson,29,deceased,Vancouver,male,No,2017
+5afcde6a00800d23f7c2d8e6,Jake Fehr,17,deceased,West Kelowna,male,No,2017
+5afcde6a00800d23f7c2d8f1,Keith Relkey,60,missing,Prince George,male,No,Unknown
+5afcde6a00800d23f7c2d8f4,Kevin Nicholson,59,missing,Vernon,male,No,2017
+5afcde6a00800d23f7c2d908,Audra Jager,47,missing,Surrey,female,No,2017
+5afcde6a00800d23f7c2d90a,Frances Brown,53,missing,Smithers,female,Yes,2017
+5afcde6a00800d23f7c2d90b,Jennifer Lynn Larocque,61,missing,Williams Lake,female,No,2017
+5afcde6a00800d23f7c2d90d,Aaron Charles Derbyshire,22,missing,Kelowna,male,No,2006
+5afcde6a00800d23f7c2d90e,Sarah Tizya,29,missing,Surrey,female,Yes,2017
+5afcde6a00800d23f7c2d90f,Marlon Orozco-Castillo,40,deceased,Sooke,male,No,2016
+5afcde6a00800d23f7c2d912,Shane Anderson,46,missing,Victoria,male,No,2016
+5afcde6a00800d23f7c2d913,Krzysztof Rafal Syrzycki,16,missing,Coquitlam,male,No,2002
+5afcde6a00800d23f7c2d914,Rosalie (Rose) Jean Allan,46,missing,Abbotsford,female,No,2013
+5afcde6a00800d23f7c2d916,Dennis James (Dj) Bastillo,19,missing,West Vancouver,male,No,2011
+5afcde6a00800d23f7c2d917,Robert Brooks,74,deceased,Langley,male,No,2014
+5afcde6a00800d23f7c2d918,Alice Susan Bullington,46,missing,Surrey,female,Yes,2014
+5afcde6a00800d23f7c2d91a,Dietmar Faeth,73,missing,Prince George,male,No,2011
+5afcde6a00800d23f7c2d91d,Ginger Jackson George,70,missing,Prince George,female,No,Unknown
+5afcde6a00800d23f7c2d923,Nikita Lorraine Joseph,Unknown,unknown,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2d924,Wayne King,56,missing,Maple Ridge,male,No,2010
+5afcde6a00800d23f7c2d932,Lilith Bentley,15,deceased,Nananimo,female,No,2018
+5afcde6a00800d23f7c2d93b,Qiru Chen,46,missing,Richmond,male,No,2013
+5afcde6a00800d23f7c2d93c,Xiaohis (Robert) Cheng,37,missing,Coquitlam,male,No,2011
+5afcde6a00800d23f7c2d93d,Kyung Chun,71,deceased,Kootenays,male,No,2013
+5afcde6a00800d23f7c2d942,Darren Cunningham,32,missing,Quesnel,male,Yes,2011
+5afcde6a00800d23f7c2d943,David Czerman,67,missing,Surrey,male,Yes,2013
+5afcde6a00800d23f7c2d947,Dale Disimone,41,missing,Vancouver,male,No,2011
+5afcde6a00800d23f7c2d94d,Serena Flavel,30,missing,Terrace,female,Yes,2013
+5afcde6a00800d23f7c2d94f,Emma Fillipoff,26,missing,Victoria,female,No,2012
+5afcde6a00800d23f7c2d953,Ronald Hansen,61,missing,Coquitlam,male,No,2013
+5afcde6a00800d23f7c2d955,Jodi Henrickson,17,missing,Boden Island,female,Yes,2009
+5afcde6a00800d23f7c2d960,Roxanne Louie,26,deceased,NA,female,Yes,Unknown
+5afcde6a00800d23f7c2d967,Christopher Meriwether,47,missing,Vancouver,male,No,2010
+5afcde6a00800d23f7c2d968,Shane Metcalfe,44,missing,Coquitlam,male,No,2014
+5afcde6a00800d23f7c2d969,Aaron Myles Mickey,18,missing,Prince George,male,No,2015
+5afcde6a00800d23f7c2d96a,Anthony Morley,79,deceased,Duncan,male,No,2014
+5afcde6a00800d23f7c2d96b,Thomas Alan Morris,58,missing,Abbotsford,male,No,2014
+5afcde6a00800d23f7c2d96c,Adam Myers,33,missing,Burnaby,male,No,2010
+5afcde6a00800d23f7c2d970,Dean Morrison,44,missing,Kamloops,male,No,2013
+5afcde6a00800d23f7c2d973,Jade Giesen,47,deceased,Nelson,female,No,2014
+5afcde6a00800d23f7c2d974,Randy Peal,56,missing,Prince George,male,Yes,2006
+5afcde6a00800d23f7c2d978,Taylor Racine,16,missing,Burnaby,female,No,2013
+5afcde6a00800d23f7c2d979,Andrew Radhuber,27,missing,West Vancouver,male,No,2014
+5afcde6a00800d23f7c2d97a,Harjinder Rai,34,deceased,Surrey,male,No,2013
+5afcde6a00800d23f7c2d97e,Christopher Seargent,Unknown,missing,Courtenay,male,No,Unknown
+5afcde6a00800d23f7c2d97f,Harvinder Singh 1,33,missing,Surrey,male,No,Unknown
+5afcde6a00800d23f7c2d981,Shengyun Song,80,missing,Langley,male,No,2013
+5afcde6a00800d23f7c2d983,Dustin Steele,23,missing,Nass Camp,male,No,2014
+5afcde6a00800d23f7c2d984,Kyler Stevens,16,missing,Prince George,male,No,2012
+5afcde6a00800d23f7c2d985,Kenneth Strong,54,missing,Vancouver,male,Yes,2014
+5afcde6a00800d23f7c2d986,Stephen Thomson,18,missing,NA,male,No,2013
+5afcde6a00800d23f7c2d987,Anita Thorne,49,missing,Prince George,female,No,2014
+5afcde6a00800d23f7c2d988,Amanda Todd,15,deceased,Port Coquitlam,female,No,2012
+5afcde6a00800d23f7c2d98a,Darcy Turner,55,missing,Lytton,male,Yes,2011
+5afcde6a00800d23f7c2d98b,Steven Yip,45,missing,Richmond,male,No,2013
+5afcde6a00800d23f7c2d98c,Gladys Ynzon,37,missing,Port Coquitlam,female,No,2014
+5afcde6a00800d23f7c2d98d,Hee Sook Youn,59,deceased,Burnaby,female,No,2016
+5afcde6a00800d23f7c2d98e,Caitlin Murray,21,missing,Quesnel,female,No,2013
+5afcde6a00800d23f7c2d98f,Oscar Bot,44,deceased,Castlegar,male,No,2016
+5afcde6a00800d23f7c2d991,David Christopher Floyd,56,missing,Surrey,male,No,2015
+5afcde6a00800d23f7c2d993,Randy Galawan,36,missing,Vancouver,male,No,2016
+5afcde6a00800d23f7c2d997,Jastinder Athwal,34,deceased,Vancouver,male,No,2016
+5afcde6a00800d23f7c2d998,Richard Blair Young,72,deceased,Victoria,male,No,2017
+5afcde6a00800d23f7c2d999,Lyall Eriksen,53,deceased,Colwood,male,No,2017
+5afcde6a00800d23f7c2d9a1,Christopher Allbury,70,deceased,Salmon Arm,male,No,2016
+5afcde6a00800d23f7c2d9a2,Edward Luvuuma,32,deceased,Burnaby,male,No,2015
+5afcde6a00800d23f7c2d9a3,Tom Billings,22,deceased,Vancouver,male,No,2013
+5afcde6a00800d23f7c2d9a6,Karamjit Khangura,35,missing,New Weatminster,male,No,2016
+5afcde6a00800d23f7c2d9a9,Dave Hepper,74,deceased,Gabriola,male,No,2016
+5afcde6a00800d23f7c2d9aa,Richard Mindlin,56,missing,Vancouver,male,No,2016
+5afcde6a00800d23f7c2d9ab,Ryan Everett Jenkins,36,missing,Prince George,male,No,2016
+5afcde6a00800d23f7c2d9ac,Brandon Warren Lawrence,31,missing,Prince George,male,No,2016
+5afcde6a00800d23f7c2d9b6,Steven Abramovic,37,deceased,Maple Ridge,male,No,2016
+5afcde6a00800d23f7c2d9b7,Melville Donald Mclean,83,missing,Lindell Beach,male,No,2016
+5afcde6a00800d23f7c2d9c1,Russell Walkus,26,missing,Nanaimo,male,Yes,2017
+5afcde6a00800d23f7c2da2b,Lacey Tom,26,deceased,Lillooet,female,Yes,2017
+5afcde6a00800d23f7c2da31,Yannick Myers,37,deceased,Chilliwack,male,No,2017
+5afcde6a00800d23f7c2da32,Caitlyn Avril Murray,26,missing,West Quesnal,female,No,2013
+5afcde6a00800d23f7c2da33,Brian Wahl,51,missing,Langley,male,No,2017
+5afcde6a00800d23f7c2da35,John Seeland,70,missing,Nanoose Bay,male,No,2017
+5afcde6a00800d23f7c2da37,Faye Paul,18,missing,Vancouver,female,Yes,2017
+5afcde6a00800d23f7c2da38,Eugene Hogan,54,missing,Surrey,male,No,2017
+5afcde6a00800d23f7c2da3a,Aaron Goff,24,missing,Saanich,male,No,2017
+5afcde6a00800d23f7c2da3c,Deborah Hycha,52,deceased,Abbotsford,female,No,2017
+5afcde6a00800d23f7c2da3e,Natasha Wink,29,missing,New Westminster,female,No,2017
+5afcde6a00800d23f7c2da3f,San Li Liao,54,missing,Surrey,female,No,2017
+5afcde6a00800d23f7c2da41,Debra Kumar,60,missing,Abbotsford,female,No,2017
+5afcde6a00800d23f7c2da43,Shawna Cornish,23,missing,Chilliwack,female,No,2018
+5afcde6a00800d23f7c2da44,Ray Sanche,29,missing,Dawson Creek,male,No,2016
+5afcde6a00800d23f7c2da45,Leo Remy,59,missing,Castlegar,male,No,2020
+5afcde6a00800d23f7c2da46,Jordan Mcburney,31,missing,Kelowna,male,No,2017
+5afcde6a00800d23f7c2da47,Steve Gardin,40,missing,Vancouver,male,No,2016
+5afcde6a00800d23f7c2da49,Spencer Dore,37,missing,Langley City,male,No,2016
+5afcde6a00800d23f7c2da4d,Robert Jeaurond,55,missing,Nanaimo,male,No,2016
+5afcde6a00800d23f7c2da4f,Zachary Webb,33,deceased,Vancouver,male,No,2017
+5afcde6a00800d23f7c2da50,Claudia Jang,23,deceased,North Shore,female,No,2017
+5afcde6a00800d23f7c2da51,Matthew Lebel,27,deceased,Vancouver,male,Yes,2017
+5afcde6a00800d23f7c2da96,Daniel Lockhart,61,missing,Gold River,male,No,2018
+5afcde6a00800d23f7c2da99,Andrew Jutte,20,missing,Vancouver,male,No,2017
+5afcde6a00800d23f7c2da9c,Danielle Mackenzie,29,missing,Vancouver,female,No,2017
+5afcde6d00800d23f7c2dc54,Andrea Scherpf,22,deceased,Chetwynd,female,No,1983
+5afcde6d00800d23f7c2dc56,Ryan Shtuka,20,missing,Sun Peaks Village,male,No,2018
+5afcde6d00800d23f7c2dc58,Carlton Leith,42,missing,Chilliwack,male,No,2018
+5afcde6d00800d23f7c2dc5a,Thelma Vaughan,62,deceased,Kamloops,female,No,2018
+5afcde6d00800d23f7c2dc5b,Keith Campbell,36,missing,Comox Valley,male,No,2018
+5afcde6d00800d23f7c2dc61,Alison Raspa,25,deceased,Whistler,female,No,2017
+5afcde6d00800d23f7c2dc63,Cathy Berard,61,deceased,Vancouver,female,Yes,1996
+5afcde6d00800d23f7c2dc64,Chantel Gillade,28,deceased,Vancouver,female,No,1995
+5afcde6d00800d23f7c2dc66,Mayvette Monzon,31,deceased,Vancouver,female,No,2005
+5afcde6d00800d23f7c2dc67,Helen Pauls,47,deceased,Vancouver,female,No,1958
+5afcde6d00800d23f7c2dc68,David Pauls,53,deceased,Vancouver,male,No,1958
+5afcde6d00800d23f7c2dc69,Craig Abrahams,28,deceased,Vancouver,male,No,1995
+5afcde6d00800d23f7c2dc72,Richard Chacon,31,deceased,Vancouver,male,No,1999
+5afcde6d00800d23f7c2dc74,Sheila Henry,26,deceased,Vancouver,female,No,1993
+5afcde6d00800d23f7c2dcbe,Monique Stewart,14,deceased,Atlin,female,No,1978
+5afcde6d00800d23f7c2dd1e,Marrisa Shen,13,deceased,Burnaby,female,No,2017
+5afcde6d00800d23f7c2dd7a,Danny Bayer,48,missing,Surrey,male,No,2018
+5afcde6d00800d23f7c2dd7f,Jacob Clemens,30,missing,Vancouver,male,No,2016
+5afcde6d00800d23f7c2ddf8,Chonticha Galamae Ellefson Toassami,1,missing,Comox,male,No,2010
+5afcde6d00800d23f7c2ddfa,Casey Rose Mary Dora Bohun,3,missing,Delta,female,No,1989
+5afcde6d00800d23f7c2ddfb,Michael Hammond,16,missing,Richmond,male,No,1991
+5afcde6d00800d23f7c2de78,Alan Martin-Macdonald,58,deceased,Delta,male,No,2000
+5afcde6d00800d23f7c2de7c,Mehdi Naqvi,53,deceased,Vancouver,male,No,1999
+5afcde6d00800d23f7c2de81,David Malloy,44,deceased,North Vancouver,male,No,1996
+5afcde6d00800d23f7c2de93,John Mckechnie,38,deceased,Vancouver,male,No,1992
+5afcde6d00800d23f7c2de96,William Burton,28,deceased,Maple Ridge,male,No,1991
+5afcde6d00800d23f7c2df05,Reginald Claude Price,39,deceased,Vancouver,male,No,1945
+5afcde6d00800d23f7c2df08,Philip Davis,27,deceased,Vancouver,male,No,1943
+5afcde7100800d23f7c2df1b,Anneta Justice,15,deceased,Victoria,female,No,1943
+5afcde7100800d23f7c2df1d,Lindsay Buziak,24,deceased,Victoria,female,No,2008
+5afcde7100800d23f7c2df3d,Clara Soledad Forman,33,deceased,Kelowna,male,No,Unknown
+5afcde7100800d23f7c2df3f,Jonathan Bacon,30,deceased,Kelowna,male,No,2011
+5afcde7100800d23f7c2e050,Bonnie Whalan,32,deceased,Vancouver,female,No,1989
+5afcde7100800d23f7c2e051,Cheri Lynn Smith,18,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e052,Crystal Wright,19,deceased,Kelowna,female,Yes,1991
+5afcde7100800d23f7c2e055,Lalonnie Frances Thibert,25,missing,NA,female,No,Unknown
+5afcde7100800d23f7c2e056,Dayle Patterson,32,deceased,Victoria,female,No,1993
+5afcde7100800d23f7c2e058,Vicki Rosalind Black,23,deceased,Vancouver,female,Yes,Unknown
+5afcde7100800d23f7c2e05b,Crysta Lynn David,21,deceased,New Westminster,female,Yes,1992
+5afcde7100800d23f7c2e05d,Pamela Joy Cameron,16,deceased,Surrey,female,Yes,1994
+5afcde7100800d23f7c2e0f0,Simin Falahati,43,deceased,Coquitlam,female,No,Unknown
+5afcde7100800d23f7c2e0f1,Rishi Kant Singh,20,deceased,Vancouver,male,No,Unknown
+5afcde7100800d23f7c2e0f3,Roy Andrew Nahanee,20,deceased,Squamish Lake,male,No,1997
+5afcde7100800d23f7c2e0f4,Kathleen Kermode,73,deceased,NA,female,No,Unknown
+5afcde7100800d23f7c2e0f5,Ming Kuo Wong,49,deceased,Vancouver,male,No,Unknown
+5afcde7100800d23f7c2e0f8,Karl Ostermeier,26,deceased,Vancouver,male,No,Unknown
+5afcde7100800d23f7c2e0f9,Jean Jacques Schmidt,40,deceased,Vancouver,male,No,Unknown
+5afcde7100800d23f7c2e14c,Kimberley Ansell,31,deceased,Kelowna,female,No,2016
+5afcde7100800d23f7c2e152,Clayton Mark Bussiere,25,missing,Mission,male,No,1982
+5afcde7100800d23f7c2e153,Jeffrey Heywood Morgan,21,missing,Chilliwack,male,No,1992
+5afcde7100800d23f7c2e16d,John Doe 90 Na,7,deceased,Vancouver,male,No,Unknown
+5afcde7100800d23f7c2e29d,Julia Baptiste,43,missing,Quesnel,female,Yes,Unknown
+5afcde7100800d23f7c2e2a0,Marion Billy,23,deceased,Vancouver,female,Yes,1958
+5afcde7100800d23f7c2e2a1,Tilly Rose Billy,23,deceased,Vancouver,female,Yes,1956
+5afcde7100800d23f7c2e2a4,Nancy Bob,21,deceased,Vancouver,female,Yes,1990
+5afcde7100800d23f7c2e2a7,Catherine Brown,41,missing,Vancovuer,female,Yes,Unknown
+5afcde7100800d23f7c2e2a8,Melanie Brown,31,deceased,Prince George,female,Yes,Unknown
+5afcde7100800d23f7c2e2ab,Terri Lyn Carson,15,deceased,Surrey,female,No,1981
+5afcde7100800d23f7c2e2ac,Chasidy Charlie,17,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2ad,Donna Charlie,22,deceased,Prince George,female,Yes,Unknown
+5afcde7100800d23f7c2e2af,Verna Chartrand,Unknown,deceased,Vancouver,female,Yes,1987
+5afcde7100800d23f7c2e2b0,Heather Chinnock,30,deceased,Surrey,female,Yes,2001
+5afcde7100800d23f7c2e2b1,Christina Christison,27,deceased,Surrey,female,Yes,Unknown
+5afcde7100800d23f7c2e2b6,Sarah Jean De Vries,28,deceased,Vancouver,female,Yes,1998
+5afcde7100800d23f7c2e2b7,Judy Marie Dick,14,deceased,Richmond,female,Yes,1975
+5afcde7100800d23f7c2e2ba,Ann Ducharme,27,deceased,Vancouver,female,Yes,1975
+5afcde7100800d23f7c2e2bb,Glennis Elizabeth Edwards,48,deceased,NA,female,Yes,2006
+5afcde7100800d23f7c2e2bc,Cara Louise Ellis,25,deceased,Vancouver,female,Yes,1997
+5afcde7100800d23f7c2e2c3,Alishia Germaine,15,deceased,Prince George,female,Yes,1994
+5afcde7100800d23f7c2e2c7,Lisa Marie Graveline,20,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2c8,Tracy Ann Guthrie,Unknown,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2cb,Ruby Anne Hardy (Gallaway),32,missing,Vancouver,female,Yes,1998
+5afcde7100800d23f7c2e2cc,Elizabeth Harry,Unknown,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2d1,Sherry Leigh Irving,24,deceased,Comox,female,Yes,1996
+5afcde7100800d23f7c2e2d3,Martha Jackson Hernandez,17,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2d4,Irene Ruth James,26,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2d8,Sheila Joe,Unknown,deceased,Vancouver,female,Yes,1987
+5afcde7100800d23f7c2e2d9,Andrea Joesbury,22,deceased,Vancouver,female,Yes,2001
+5afcde7100800d23f7c2e2da,Kayla Nichole John,13,deceased,Vancouver Island,female,Yes,2004
+5afcde7100800d23f7c2e2db,Martina May Johnnie,Unknown,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2dc,Pauline Eliza Irma Johnson,30,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2dd,Shannon Jones,Unknown,missing,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2de,Catalina Joseph,Unknown,missing,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2df,Deborah Anne Joseph,Unknown,unknown,Kamloops,female,Yes,Unknown
+5afcde7100800d23f7c2e2e2,Sandy Korba,22,deceased,NA,female,Yes,2001
+5afcde7100800d23f7c2e2e4,Elizabeth Marie Lagis,33,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2e6,Kayla Lalonde,16,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2e7,Barbara Larocque,22,deceased,Howe Street,female,Yes,1974
+5afcde7100800d23f7c2e2e8,Brenda Hazel Larose,Unknown,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2ea,Tina Leadley,Unknown,deceased,Kelowna,female,Yes,1993
+5afcde7100800d23f7c2e2eb,Helen Louise Leyden,36,missing,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2ed,Roberta Marlene Lincoln,34,unknown,Vancouver,female,Yes,Unknown
+5afcde7100800d23f7c2e2ef,Cynthia Frances Maas,35,deceased,Prince George,female,Yes,2010
+5afcde7100800d23f7c2e2f0,Kristal Eileen Martin,Unknown,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2f1,Shyanne Mcgregor,Unknown,missing,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2f3,Monica Angela Mckay,19,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2f4,Julie Mcleod,21,deceased,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2f6,Donna Mitchell,31,deceased,Victoria,female,Yes,1983
+5afcde7100800d23f7c2e2f7,Gloria Moody,26,deceased,"Williams Lake, Cariboo Regional District",female,Yes,1969
+5afcde7100800d23f7c2e2f8,Lisa Moosomin,Unknown,missing,NA,female,Yes,Unknown
+5afcde7100800d23f7c2e2f9,Jacqueline Murdock,26,deceased,Vancouver,female,Yes,1996
+5afcde7100800d23f7c2e2fa,Pamela Napoleon,42,deceased,Buick,female,Yes,2014
+5afcde7100800d23f7c2e2fb,Heather Nelson,18,deceased,NA,female,Yes,1982
+5afcde7100800d23f7c2e2fc,Melissa Nicholson,17,deceased,Victoria,female,Yes,1991
+5afcde7100800d23f7c2e2fd,Delphine Nikal,16,missing,Smithers,female,Yes,1990
+5afcde7100800d23f7c2e2fe,Umi O'brien,34,deceased,Vancouver,female,No,1989
+5afcde7100800d23f7c2e2ff,Mabel Olson,Unknown,deceased,Vancouver,female,Yes,1987
+5afcde7100800d23f7c2e302,Georgina Papin,34,deceased,Vancouver,female,Yes,1999
+5afcde7600800d23f7c2e303,Faye Paquette,42,deceased,Prince George,female,Yes,2002
+5afcde7600800d23f7c2e305,Tina Parr,25,deceased,Kelowna,female,Yes,1994
+5afcde7600800d23f7c2e306,Kelly Parsons,30,deceased,Surrey,female,Yes,1998
+5afcde7600800d23f7c2e307,Lori Anne Pennycook,29,deceased,Vancouver,female,Yes,1993
+5afcde7600800d23f7c2e30a,Stephanie Lane,21,deceased,Vancouver,female,Yes,1997
+5afcde7600800d23f7c2e30d,Shirley Redman,32,deceased,Vancouver,female,Yes,1978
+5afcde7600800d23f7c2e30f,Maureen Riding-At-The-Door,Unknown,missing,NA,female,Yes,Unknown
+5afcde7600800d23f7c2e310,Darlinda Ritchey,26,deceased,Vancouver,female,Yes,1986
+5afcde7600800d23f7c2e312,Ivy Rose (Doreen) Oswald,17,deceased,Vancouver,female,No,1965
+5afcde7600800d23f7c2e313,Tasha Rossette,21,deceased,Surrey,female,Yes,2005
+5afcde7600800d23f7c2e314,Aielah Saric-Auger,14,missing,Prince George,female,Yes,2006
+5afcde7600800d23f7c2e315,Elsie Louise Jones,40,missing,Vancouver,female,Yes,1992
+5afcde7600800d23f7c2e316,Cheryl Lynn Sim,53,deceased,Nanaimo,female,Yes,2010
+5afcde7600800d23f7c2e31b,Karen-Lee Violet Taylor,19,deceased,Vancouver,female,Yes,1990
+5afcde7600800d23f7c2e31c,Stephanie Thomas,21,deceased,Saanichton,female,Yes,1988
+5afcde7600800d23f7c2e31d,Ann Ruby Threlfall,24,deceased,Vancouver,female,Yes,1980
+5afcde7600800d23f7c2e321,Adriane Wadhmans,6,deceased,Fort Rupert,female,Yes,1989
+5afcde7600800d23f7c2e326,Angela Williams,31,deceased,Vancouver,female,Yes,2001
+5afcde7600800d23f7c2e328,Teressa Williams,26,deceased,Vancouver,female,Yes,1988
+5afcde7600800d23f7c2e329,Yvonne Williams,Unknown,unknown,NA,female,Yes,Unknown
+5afcde7600800d23f7c2e32a,Mona Wilson,26,deceased,Vancouver,female,Yes,2001
+5afcde7600800d23f7c2e32b,Rosemary Wilson,Unknown,deceased,Vancouver,female,Yes,1987
+5afcde7600800d23f7c2e39d,Cindy Burk,21,deceased,Prophet River,female,Yes,1990
+5afcde7600800d23f7c2e419,Elaine Keewatin Flowers,21,deceased,Vancouver,female,Yes,Unknown
+5afcde7600800d23f7c2e482,Cody Foster,26,deceased,Kamloops,male,No,2017
+5afcde7600800d23f7c2e49c,Birinderjeet Justin Banhgu,29,deceased,Vancouver,male,No,2017
+5b01f24daaa57d0004a1aa18,Marilyn Whiskey-Jack,42,deceased,Vancouver,female,Yes,2007
+5b01f26aaaa57d0004a1aa1a,Jean Sampare,18,missing,Gitsegulka,female,Yes,1971
+5b01f27baaa57d0004a1aa1b,Marjorie Piironen,51,deceased,Vancouver,female,Yes,1991
+5b01f28baaa57d0004a1aa1c,Crystal Okimaw,24,missing,Prince George,female,Yes,2006
+5b01f2a3aaa57d0004a1aa1e,Annabelle Mark,Unknown,deceased,NA,female,Yes,Unknown
+5b01f2b3aaa57d0004a1aa1f,Neskie Manuel,30,deceased,NA,female,Yes,Unknown
+5b01f2c2aaa57d0004a1aa20,Candace Kalmokoff,Unknown,deceased,NA,female,Yes,Unknown
+5b01f2d1aaa57d0004a1aa21,Shirley Joseph,Unknown,deceased,NA,female,Yes,Unknown
+5b032b57b9ae2b0004dfe7fc,Florence Joseph,26,deceased,Port Alberni,female,Yes,1975
+5b032b68b9ae2b0004dfe7fd,Andrea Jonesbury,Unknown,unknown,NA,female,Yes,Unknown
+5b032b74b9ae2b0004dfe7fe,Helena Howard,16,deceased,NA,female,Yes,Unknown
+5b032b84b9ae2b0004dfe7ff,Christine Howard,Unknown,unknown,NA,female,Yes,Unknown
+5b032babb9ae2b0004dfe801,Summer Fowler,16,deceased,Kamloops,female,Yes,2012
+5b032bbeb9ae2b0004dfe802,Elaine Dan,24,deceased,NA,female,Yes,Unknown
+5b032be0b9ae2b0004dfe804,Mary Costin,Unknown,unknown,Vancouver,female,Yes,Unknown
+5b032befb9ae2b0004dfe805,Loren Carpenter,Unknown,deceased,NA,female,Yes,Unknown
+5b032c02b9ae2b0004dfe806,Victoria Brass,Unknown,deceased,New Westminster,female,Yes,Unknown
+5b0ea6c92b751a0004a97b2d,Laura Banman,23,deceased,Campbell River,female,Yes,Unknown
+5b15152443d3b7000454955c,Paul Tayes,57,deceased,Nelson,male,No,2014
+5b1da438702281000402cda7,Daniel Archbald,37,deceased,Ucluelet,male,No,2018
+5b1da453702281000402cda8,Ryan Daley,43,deceased,Ucluelet,male,No,2018
+5b2abb4495c48100048b7f15,Benjamin Kilmer,41,deceased,Duncan,male,No,2018
+5b2abcca95c48100048b7f16,Jacob Williams,27,missing,Port Alberni,male,Yes,2018
+5b2ac07a95c48100048b7f1a,Colten Fleury,16,missing,Prince George,male,Yes,2018
+5b2ac1bc95c48100048b7f1c,Kaven Ouellette,35,missing,Coquitlam,male,No,2018
+5b2ac2e795c48100048b7f20,Brent Galster,62,deceased,Vernon,male,No,2017
+5b2ac38295c48100048b7f21,Carmel Gilmour,36,missing,Qualicum Beach,female,No,2017
+5b2ac69095c48100048b7f22,Jordan Holling,17,missing,Campbellton,male,No,2017
+5b2ac89e95c48100048b7f27,Nicole Wear,26,missing,Abbotsford,female,No,2018
+5b2c721c71954900040ec616,Bertha Hanson,73,deceased,Nanaimo,female,No,2017
+5b30ead2ca21fb0004c4b065,John Connor,52,missing,Chilliwack,male,No,2018
+5b30ec2cca21fb0004c4b06e,Edward Billingsley,60,missing,Prince George,male,No,2018
+5b32e190579af700045079ff,Tanya Van Cuylenborg,18,deceased,Victoria,female,No,1987
+5b3a233f288d1100041d668c,Megan Terpsma,24,missing,Surrey,female,No,2018
+5b3a246a288d1100041d6692,Charlane Langevin,49,missing,Baldonnel,female,No,2018
+5b3a2b5c288d1100041d66a7,Amina Moussa,16,missing,Port Alberni,female,Yes,2018
+5b3e35fe3f818200045a6b2a,Elena Bristol,47,missing,Chilliwack,female,No,2018
+5b3e375f3f818200045a6b32,Duane Aleck,59,deceased,NA,male,Yes,2018
+5b3e38713f818200045a6b36,Charles Horvath-Allan,20,missing,Kelowna,male,No,1989
+5b40be44bf7a8b000484d55d,Matthew Leblanc,22,missing,Victoria,male,No,1999
+5b4fb5601b93de000405cad7,Shane Tolmie,26,deceased,Vancouver,male,No,2018
+5b4fb5881b93de000405cad8,Abeal Abera,26,deceased,Vancouver,male,No,2018
+5b4fb6321b93de000405cadd,Gregory Scuby,42,deceased,NA,male,No,Unknown
+5b4fb6551b93de000405cade,Amanjoy Hans,31,deceased,Langley,male,No,2018
+5b4fb6781b93de000405cadf,Terrence Smith,37,deceased,NA,male,No,Unknown
+5b4fb6cc1b93de000405cae1,Ian Roberts,43,deceased,NA,male,No,Unknown
+5b4fb6f71b93de000405cae2,Amin Vinepal,24,deceased,NA,male,No,Unknown
+5b4fb7141b93de000405cae3,Christopher Schiller,37,deceased,Vancouver,male,No,2018
+5b4fb7821b93de000405cae6,Pardip Brar,23,deceased,Surrey,male,No,2018
+5b4fb7a61b93de000405cae7,Donald Kelly,45,deceased,Coquitlam,male,No,2018
+5b4fb7c41b93de000405cae8,Kaminder Rai,32,deceased,Vancouver,male,No,2018
+5b4fb8011b93de000405caea,Tarek Al-Romeshi,23,deceased,NA,male,No,Unknown
+5b4fb8211b93de000405caeb,Cody Isaacson,28,deceased,Chilliwack,male,No,2018
+5b4fb8401b93de000405caec,Kalwinder Thind,23,deceased,Vancouver,male,No,2018
+5b4fb8a41b93de000405caef,Lovepreet Â€˜Jasonâ€™ Dhaliwal,24,deceased,Abbotsford,male,No,2018
+5b4fb8c11b93de000405caf0,Alfred Wong,15,deceased,Vancouver,male,No,2018
+5b4fb8db1b93de000405caf1,Kevin Whiteside,23,deceased,NA,male,No,2018
+5b4fb9161b93de000405caf3,Orlando Ocampo,86,deceased,Vancouver,male,No,2017
+5b4fb9621b93de000405caf5,Shawnn Cotter,37,deceased,NA,male,No,Unknown
+5b4fb97b1b93de000405caf6,Jwada Hedar-Kadhim,47,deceased,Burnaby,male,No,2018
+5b4fd5fb1b93de000405cb05,Russell Armfelt,53,deceased,NA,male,No,Unknown
+5b4fd6701b93de000405cb06,Donna Humeny,71,deceased,Vancouver,female,No,Unknown
+5b4fd6991b93de000405cb07,Lucito Castillo,42,deceased,Langley,male,No,Unknown
+5b4fd6b21b93de000405cb08,Greg Lupel,27,deceased,Surrey,male,No,2016
+5b4fd6df1b93de000405cb09,Lisa Macpherson,41,deceased,North Vancouver,female,No,2018
+5b4fd73d1b93de000405cb0b,Letisha Reimer,13,deceased,Abbotsford,female,No,2016
+5b4fd7581b93de000405cb0c,Jia Chen,25,deceased,Vancouver,male,No,2016
+5b4fd7721b93de000405cb0d,Bradley Nielsen,53,deceased,NA,male,No,Unknown
+5b4fd7ac1b93de000405cb0f,Ashim Raza,19,deceased,Surrey,male,No,2016
+5b4fd7c91b93de000405cb10,Shaun Clary,27,deceased,Langly,male,No,Unknown
+5b4fd7eb1b93de000405cb11,Kevin Knuff,56,deceased,NA,male,No,Unknown
+5b4fd8181b93de000405cb12,Jason Zellmer,39,deceased,NA,male,No,Unknown
+5b4fd8401b93de000405cb13,Diane Johner,52,deceased,Chilliwack,female,No,2016
+5b4fd85b1b93de000405cb14,Gurdev (Dave) Hair,45,deceased,Abbotsford,male,No,Unknown
+5b4fd8871b93de000405cb15,Sean Kelly,27,deceased,Surrey,male,No,2017
+5b4fd8c41b93de000405cb16,Brendan Chand,27,deceased,NA,male,No,Unknown
+5b4fd8e11b93de000405cb17,Justin Chan,26,deceased,NA,male,No,Unknown
+5b4fd91e1b93de000405cb19,Kennith Leung,23,deceased,Vancouver,male,No,2016
+5b4fd9a11b93de000405cb1c,Ray Jopowicz,41,deceased,Burnaby,male,No,2016
+5b4fd9d21b93de000405cb1d,Ryan Hardy,38,deceased,Vancouver,male,No,2016
+5b4fda5c1b93de000405cb21,Adam Palsson,27,deceased,NA,male,No,2016
+5b4fdaad1b93de000405cb22,Yonatan (Jk) Kassa,Unknown,deceased,Port Coquitlam,male,No,2016
+5b4fdac71b93de000405cb23,Kevin Brunelle,36,deceased,Langley,male,No,2016
+5b4fdada1b93de000405cb24,Juan Avis,45,deceased,Vancouver,male,No,2016
+5b4fdaf21b93de000405cb25,Robinder Virk,32,deceased,Surrey,male,No,2016
+5b50c6e91b93de000405cb37,Jin Cheng,Unknown,deceased,Richmond,female,No,2014
+5b50c7ac1b93de000405cb3c,Maurine Arogie,19,deceased,Surrey,female,No,2014
+5b5494e54546f000044667e4,Alexander Blanarau,24,deceased,Abbotsford,male,No,2017
+5b5495054546f000044667e5,Manricco Sansalone,26,deceased,Maple Ridge,male,No,2018
+5b54974e4546f000044667f8,Tyrell Sinnott,20,deceased,Langley,male,No,2017
+5b54bc694546f00004466807,Les Tarnowski,55,deceased,Burnaby,male,No,2001
+5b54c0084546f00004466823,Ardon Samuel,38,deceased,Vancouver,male,No,2003
+5b54c0384546f00004466825,Edgar Leonardo,36,deceased,Vancouver,male,No,2003
+5b54c1854546f00004466827,Jason Benneke,31,deceased,Surrey,male,Yes,2018
+5b574d065e778c0004731d7a,Donald Stevens,57,missing,New Westminster,male,No,2016
+5b574de55e778c0004731d81,Michael Antic,46,missing,New Westminster,male,No,2009
+5b58e420557f4a0004388359,Dante Ponzanetti,20,deceased,New Westminster,male,No,2003
+5b593c71557f4a000438836c,Rosaline Allan,48,missing,Abbotsford,female,No,2013
+5b59ce40557f4a000438837c,Ping Ao,74,deceased,Abbotsford,male,No,2015
+5b59d038557f4a000438838a,Joey Arraance,34,deceased,Coquitlam,male,No,2013
+5b59d09e557f4a000438838c,Dilber Atwal,49,deceased,Surrey,male,No,2013
+5b5b1d2593c6960004045c31,Apollo-Lyn Simpson,28,deceased,Surrey,male,No,2011
+5b5b23b893c6960004045c4a,Ron Stewart,40,deceased,Vancouver,male,No,2005
+5b5b240193c6960004045c4c,Somsack Xoumanivong,25,deceased,Surrey,male,No,2005
+5b5b25fa93c6960004045c52,Darlene Brown,52,deceased,Langley,female,No,2005
+5b645a4e8fe30f0004f7bea7,Tracy Olajide,30,deceased,Vancouver,female,No,1995
+5b645a7b8fe30f0004f7bea8,Tammy Pipe,24,deceased,Vancouver,female,Yes,1995
+5b645a9a8fe30f0004f7bea9,Victoria Younker,35,deceased,Vancouver,female,Yes,1995
+5b645af38fe30f0004f7beaa,Janet Faith Henry,36,deceased,Vancouver,female,Yes,1997
+5b7f846a83f69a0004cdaa9a,Alvin Clayton,Unknown,missing,terrace,male,No,Unknown
+5b7f850383f69a0004cdaa9b,Warren Sill,26,deceased,NA,male,No,2012
+5b7f855883f69a0004cdaa9c,Joseph Foster,Unknown,missing,Salmon River,male,No,Unknown
+5b8d68da781ddb00048756a4,Regnald Waite,68,deceased,Prince Groege,male,No,2018
+5b8d699d781ddb00048756a9,Miter Singh,44,missing,Surrey,male,No,2018
+5b8d6a4b781ddb00048756af,Lucius Leitner,14,missing,Richmond,male,Yes,2018
+5b8d6d3c781ddb00048756c5,Douglas Thornburn,61,missing,New Westminster,male,No,2018
+5b8d6db5781ddb00048756c7,Guofeng Jin,24,missing,Burnaby,male,No,2018
+5ba860b5646b080004a6ba46,Kathryn Kliewer,26,deceased,Vernon,female,No,1976
+5bb6a8dd21da6a00042b862b,Ryan Duncan,44,missing,Lumby,male,No,2018
+5bb6aa4c21da6a00042b862c,Troy Gold,35,deceased,Kamloops,male,No,2018
+5bb791a99fa1ad0004626bd3,Jack Henderson,48,missing,Vancouver,male,Yes,2017
+5bb909816980f30004847a38,Anton Reeves,17,missing,Surrey,male,No,2018
+5bba7a5dc2c5d300047551d0,Jerry Krietz,42,missing,Prince George,male,No,2017
+5bbc0b383e2d5d00041e721b,Travis Thomas,40,missing,Tofino,male,Yes,2018
+5bc007ac0e64c40004b09419,Joel Cumming,29,missing,Nanaimo,male,No,2018
+5bc781c82b991500049b3988,Chelsea Gauthier,22,deceased,Abbotsford,female,No,2017
+5bd9124b68cbcf0004812836,John Larson,72,missing,Nanaimo,male,No,2018
+5bdb9b630a8588000464f3a6,Sungho Park,24,missing,Nanaimo,male,No,Unknown
+5bdba4ef0a8588000464f3a8,Kien Quoc Luu,17,missing,Richmond,male,No,2018
+5bde73ae7bae4b000405f10b,Gerard Krausnig,Unknown,missing,Smithers,male,No,1977
+5bdee7957bae4b000405f10c,Alex Lekei,39,missing,New Westminster,male,No,2018
+5bdee8a07bae4b000405f111,Bertram Rese,59,missing,Victoria,male,No,2018
+5bdeea037bae4b000405f117,Sarah Rekrut,30,missing,Nanaimo,female,No,2017
+5bdeeaea7bae4b000405f11b,Jasmine Zavaglia,Unknown,missing,Abbotsford,female,Yes,2018
+5bdeeb857bae4b000405f11c,Kahlilah Ketlo,21,missing,Vancouver,female,Yes,2018
+5c4e777b63ee2c0004be90af,Pierrette Joseph,33,missing,Richmond,female,Yes,2019
+5c4e7e4663ee2c0004be90b4,John Macmillan,31,missing,Surrey,male,No,2018
+5c5444fd2643c7000401b5e6,Robert (Bob) Poulin,54,missing,Prince George,male,No,2018
+5c547d092643c7000401b5e8,Cynthia Martin,50,missing,New Hazelton,female,Yes,2018
+5c547e5c2643c7000401b5ea,James Warren,30,missing,North Vancouver,male,No,2018
+5c561d1b17dd5a0004946e75,Robert Brown,62,missing,Surrey,male,No,2019
+5c6965f35133060004f05df3,Elizabeth Stewart,76,missing,Invermere,female,No,2019
+5c696abf5133060004f05e02,Justin Robert Joseph Ferrier,42,missing,Kamloops,male,No,2019
+5c6977195133060004f05e1a,Michael Thompson,37,deceased,Richmond,male,No,Unknown
+5c75aaaa48d4120004f4b5fa,Ryan Mcauley,34,missing,Maple Ridge,male,No,2019
+5c8710dba01cfb0004b245fa,Ethan Dillon,22,missing,Peachland,male,No,2018
+5c871415a01cfb0004b245fd,Michelle Neufeld,23,missing,Chilliwack,female,No,2018
+5cbe219a7226a20004a1782c,Ngamphon Khamkong,36,missing,Abbotsford,male,No,2018
+5cbe24cb7226a20004a1782e,Andrew Pinchbeck,57,missing,Kelowna,male,No,2018
+5cc8d31fb5dc8d0004bf29de,Lucas Matkowski,34,missing,Richmond,male,No,2018
+5cc8db50b5dc8d0004bf29e5,Paul Braumberger,66,missing,Chilliwack,male,No,2019
+5cc8debbb5dc8d0004bf29e9,Ben Tyner,32,missing,Merritt,male,No,2019
+5cc8dff7b5dc8d0004bf29eb,Sheng Tang Lin,57,missing,Richmond,male,No,2019
+5ccdff5bcea2570004f918d5,Vincent Koeman,40,missing,Abbotsford,male,No,2018
+5cce02eecea2570004f918d9,Stuart Barclay,40,missing,Vancouver,male,No,2018
+5cce072ecea2570004f918de,Sang Vo,61,missing,Langley,male,No,2018
+5ce98411507e800004f0c728,Mark Istephan,47,missing,Port Moody,male,No,2018
+5cea21dffaa91c0004baeb23,Kristin Turton,29,missing,Victoria,female,Yes,2018
+5cea24a3faa91c0004baeb25,Jeremy Bauer,40,missing,Penticton,male,No,2018
+5cea3400faa91c0004baeb2f,Vicky Anderson,58,missing,Tofino,female,No,2018
+5cf4765d543fc1000435af7a,Brandon Beck,Unknown,deceased,Deroche,male,No,2018
+5cf483e0128cf700046b0a26,Mabel James-Jones,17,missing,Nanaimo,female,Yes,2018
+5cfabb5d9e2825000491b800,Kevin Tripp,55,missing,Chilliwack,male,No,2019
+5cfabc049e2825000491b802,Kristofer Couture,25,missing,Burnaby,male,No,2019
+5cfabca69e2825000491b804,Madison Scott,20,missing,Vanderhoof,female,No,2011
+5cfabe6d9e2825000491b806,Brent Fulljames,32,deceased,Prince George,male,Yes,2019
+5cfac14c9e2825000491b80a,Zygmunt Janiewicz,71,missing,Okanagan,male,No,2019
+5cfac1f39e2825000491b80c,Timothy Delahaye,29,missing,Cultus Lake,male,No,2019
+5cfbb5b40e01ea00048952f0,Ross Runciman,71,missing,Saanich,male,No,2019
+5cfbb62e0e01ea00048952f2,Vincent Che,60,missing,Vancouver,male,No,2019
+5cfbba0d0e01ea00048952f5,Elgin Mackinnon,70,missing,Chilliwack,male,No,2019
+5cfbbce50e01ea00048952f8,Stephen Young,62,missing,Burnaby,male,No,Unknown
+5d1aa1aaaf89ad00044f2f25,Binh Tran,27,missing,Prince Rupert,male,No,2018
+5d1aa54caf89ad00044f2f29,Pamela Fletcher,59,missing,Victoria,female,No,2019
+5d1e2e7220e8240004bdeb9a,Steven Forsyth,48,missing,Nanaimo,male,No,Unknown
+5d1e2f2920e8240004bdeb9c,Donovan Williams,14,missing,Nanaimo,male,No,2019
+5d1e3b6220e8240004bdebb3,Wolf Wagner,74,missing,Coquitlam,male,No,2019
+5d39081c68ed7c0004b497f9,Lucas Fowler,23,deceased,Liard Hot Springs,male,No,2019
+5d39083968ed7c0004b497fa,Chynna Deese,24,deceased,Liard Hot Springs,female,No,2019
+5d39090768ed7c0004b497fb,Young Soon Koh,44,deceased,NA,female,No,2003
+5d39093468ed7c0004b497fc,David Johnston,56,missing,Duncan,male,No,2019
+5d390a3368ed7c0004b497fe,John Mciver,78,deceased,Vancouver,male,No,2019
+5d390a7f68ed7c0004b497ff,Mankaran (Austin) Grewal,18,deceased,Surrey,male,No,2019
+5d390acc68ed7c0004b49800,Khan Bourne,32,deceased,Surrey,male,No,2019
+5d390b0168ed7c0004b49802,Manoj Kumar,30,deceased,Vancouver,male,No,2019
+5d390b4368ed7c0004b49803,Ngoc Mai (Anita) Nguyen,32,deceased,Vancouver,female,No,2019
+5d390b7668ed7c0004b49804,James Vidal,33,deceased,Chilliwack,male,No,2019
+5d390bb268ed7c0004b49805,Bikramjit (Bicky) Khakh,30,deceased,Surrey,male,No,2019
+5d390bee68ed7c0004b49806,Matthew Johnson,39,deceased,Vancouver,male,No,2019
+5d390c2068ed7c0004b49807,Rock Habib-Joumaa,25,deceased,Vancouver,male,No,2018
+5d390c5e68ed7c0004b49808,Ranjeev Sangha,41,deceased,Surrey,male,No,2018
+5d390c9868ed7c0004b49809,Chad Wilson,43,deceased,Vancouver,male,No,Unknown
+5d390cc968ed7c0004b4980a,Jagvir Malhi,19,deceased,Abbotsford,male,No,2018
+5d390d1468ed7c0004b4980b,Wesley Rideout,39,deceased,Surrey,male,No,2018
+5d390d4d68ed7c0004b4980c,Sumeet Randhawa,30,deceased,Surrey,male,No,2018
+5d390d9a68ed7c0004b4980d,Kyle Cromarty,27,deceased,Chilliwack,male,No,2018
+5d390dc768ed7c0004b4980e,Varinderpal Singh Gill,19,deceased,Mission,male,No,2018
+5d390df668ed7c0004b4980f,Lakhwinder Singh Bal,48,deceased,Surrey,male,No,2018
+5d390e2468ed7c0004b49810,Willis Hunt,33,deceased,Vancouver,male,No,2018
+5d390e4b68ed7c0004b49812,Leonardo Ngo,20,deceased,Surrey,male,No,2018
+5d390e6d68ed7c0004b49813,Gagandeep Singh Dhaliwa,19,deceased,Abbotsford,male,No,2018
+5d390e8e68ed7c0004b49814,Chelsea Lynn De Forge,31,deceased,NA,female,Yes,Unknown
+5d390ed868ed7c0004b49815,Abeal Negussie Abera,26,deceased,Vancouver,male,No,2018
+5d390f0668ed7c0004b49816,Paul Bennett,47,deceased,Surrey,male,No,2018
+5d390f2368ed7c0004b49817,Zacharia Nicolli Cross,25,deceased,Chilliwack,male,No,2018
+5d390f8068ed7c0004b49819,Jaskaran (Jesse) Singh Bhangal,17,deceased,Surrey,male,No,2018
+5d3913f968ed7c0004b4981b,Ryan Provencher,38,deceased,Surrey,male,No,2019
+5d39152368ed7c0004b4981d,Richard Scurr,37,missing,Surrey,male,No,2019
+5d3917c268ed7c0004b4981f,Leonard Dyck,64,deceased,NA,male,No,Unknown
+5d399e7eb849880004a04ff3,Ibrahim Amjad Ibrahim,30,deceased,Richmond,male,No,Unknown
+5d3b2c2f0ad2c300044ef148,Brandon Cairney,31,missing,Port Alberni,male,No,2017
+5d3b2d900ad2c300044ef14b,Everett Jones,47,missing,Duncan,male,Yes,2016
+5d3b2fa20ad2c300044ef14c,Desmond Peter,14,missing,Duncan,male,Yes,2007
+5d3b322c0ad2c300044ef14f,Joshua Bennett,Unknown,deceased,Victoria,male,No,Unknown
+5d3b52d00ad2c300044ef150,Sharon Dawson,61,missing,Qualicum Beach,female,No,2010
+5d3dba97c6297c00047b225a,Vikram Toor,24,deceased,Surrey,male,No,2016
+5d3dbc3ac6297c00047b225c,Jatinder (Michael) Sandhu,28,deceased,Surrey,male,No,2016
+5d3dbc91c6297c00047b225d,Christopher Serrano,29,deceased,Burnaby,male,No,2016
+5d3dbce8c6297c00047b225f,Amarjit Sandhu,56,deceased,Richmond,male,No,2016
+5d3dbdb0c6297c00047b2262,Jane Doe Na,53,deceased,Mission,female,No,2016
+5d3dbf65c6297c00047b2265,Sui Leung,61,missing,Surrey,male,No,2019
+5d3dc0efc6297c00047b2267,Lawrence Maitland,42,missing,Lax Kw'alaams,male,Yes,2019
+5d3dc150c6297c00047b2268,Ethel Baranyk,86,deceased,Chilliwack,female,No,2019
+5d3dc183c6297c00047b2269,Jessica Wilson,25,missing,North Vancouver,female,No,Unknown
+5d3dc1a9c6297c00047b226a,Cory Mckay,58,missing,Castlegar,male,No,2019
+5d3fa7e42438530004ae39a1,Zeyu Qu,18,missing,Burnaby,male,No,2009
+5d4096a5cb6d950004a13960,Jessica Patrick-Balczer,18,deceased,Smithers,female,Yes,2018
+5d40a3a9cb6d950004a13966,Paul Hare,64,deceased,North Saanich,male,No,2019
+5d464b486968ff00045c548e,Daryn Johnsrude,16,deceased,Coquitlam,male,No,1981
+5d464d6b6968ff00045c5490,Travis Sauls,33,missing,Chase,male,Yes,2019
+5d486a709047e4000455fd9b,Anthony Smith,58,missing,Duncan,male,No,2019
+5d4c9863aecc5f00049c29ea,Katherine Mary Daignault,Unknown,deceased,NA,female,No,Unknown
+5d4c9d86aecc5f00049c29f5,Vivian Morzach,15,deceased,NA,female,No,Unknown
+5d4c9e14aecc5f00049c29f8,Sally Winter,70,deceased,Kelowna,female,No,1985
+5d4c9ff2aecc5f00049c29ff,Victoria Mai-Lai Chan,41,missing,Chilliwack,female,No,2009
+5d4d723201c56800044e71c9,Simon Partington,9,deceased,Surrey,male,No,1981
+5d4d726201c56800044e71ca,Raymond King Jr.,15,deceased,New Westminster,male,No,1981
+5d4d72c801c56800044e71cb,Louise Chartrand,17,deceased,Maple Bridge,female,No,1981
+5d4d770401c56800044e71ce,Tamara Blowers,15,missing,Vancouver,female,Yes,1986
+5d4d806b01c56800044e71f0,Jeremy Phillips,33,deceased,Agassiz,male,No,2010
+5d4dc87001c56800044e7219,Garry Billings,11,deceased,Vancouver,male,No,1946
+5d4f40e31ac0a70004122533,Christopher Sanford,35,deceased,Nakusp,male,No,2019
+5d50013a3e0dd0003289800c,Sui 'Elvie' Ma,55,deceased,Delta,female,No,2004
+5d500f353e0dd00032898035,Kevin Hodgson,46,missing,Vancouver,male,No,2019
+5d500f553e0dd00032898036,Nicholas (Nick) Masee,55,missing,Vancouver,male,No,1994
+5d52bc98b0930300323b7cc4,Anthony Porter,16,missing,Kimberley,male,No,1969
+5d52c188b0930300323b7cce,Branton Regner,34,deceased,NA,male,No,2019
+5d52c1acb0930300323b7ccf,Easha Rayel,36,missing,Sidney North Saanich,female,No,2019
+5d52c1c4b0930300323b7cd0,James Evans,23,missing,Sidney North Saanich,male,No,2019
+5d52c1ddb0930300323b7cd1,Alyssa Deboer,23,missing,Nanaimo,female,No,2019
+5d558c006305bf00324e98a1,Ci Liao,31,missing,Abbotsford,male,No,2019
+5d558c3a6305bf00324e98a2,Richard Duncan Jr.,43,deceased,Williams Lake,male,Yes,2019
+5d55be3f6305bf00324e98ba,Nicholas Sonier,32,missing,Langley,male,No,2019
+5d57e89d79349a003236a419,Donna Stone,35,deceased,Burnaby,female,Yes,1994
+5d57e93b79349a003236a41a,Cecilia Grono,64,deceased,Summerland,female,Yes,1997
+5d57e95379349a003236a41b,Tammy Grono,27,deceased,Summerland,female,Yes,1997
+5d58b5d579349a003236a436,Cody Kolodychuk,Unknown,missing,NA,male,No,Unknown
+5d58b5f979349a003236a437,Roxanne Mcgrath,47,missing,Coquitlam,female,No,2019
+5d58b61679349a003236a438,Russell Kasoney,Unknown,missing,NA,male,No,Unknown
+5d58b70f79349a003236a43d,Cody (Elle) Smith,32,missing,Vancouver,female,No,2019
+5d58b75479349a003236a43e,Richard Konechny,Unknown,missing,NA,male,No,Unknown
+5d58b79679349a003236a440,Trevor Smith,Unknown,missing,NA,male,No,Unknown
+5d58b7e479349a003236a442,Jonah Donato,Unknown,missing,NA,male,No,Unknown
+5d5950bf960dcb00327870d9,David Sullivan,Unknown,missing,NA,male,No,Unknown
+5d59562e960dcb00327870db,Colin Palmer,41,deceased,Summerland,male,No,2019
+5d595663960dcb00327870dc,Jason James Waddle,Unknown,missing,NA,male,No,Unknown
+5d5956c2960dcb00327870dd,Monique Hanley,Unknown,missing,New Westminster,female,No,2019
+5d59594c960dcb00327870e1,Micheal Smith,Unknown,missing,NA,male,No,Unknown
+5d595970960dcb00327870e2,Jason Aasen,43,missing,Langley,male,No,2019
+5d5959db960dcb00327870e4,Dreydon Dejarlais,Unknown,missing,Falkland,male,Yes,Unknown
+5d595a06960dcb00327870e5,Ryan Terrien,Unknown,missing,NA,male,No,Unknown
+5d595a29960dcb00327870e6,Thomas Hines,26,deceased,NA,male,No,Unknown
+5d595a56960dcb00327870e7,Michael Skene,Unknown,missing,Fort Fraser Lake,male,No,Unknown
+5d595ab6960dcb00327870e8,Grace Billikwa,27,missing,New Westminster,female,No,2019
+5d595b17960dcb00327870e9,Kiera Ranger,60,missing,Burnaby,female,No,2020
+5d595b39960dcb00327870ea,Robert Willems,46,missing,Vancouver,male,No,2019
+5d595cb6960dcb00327870ed,Autum Pepion,18,missing,New Westminster,female,Yes,2019
+5d595d0b960dcb00327870ee,Craig Hughes,Unknown,missing,NA,male,No,Unknown
+5d595d77960dcb00327870ef,Charlene Sim,33,missing,Port Coquitlam,female,No,2019
+5d595dfd960dcb00327870f2,Lee Mccarron,52,missing,Fraser Lake,male,No,2019
+5d595e1c960dcb00327870f3,Sooner Plantinga,19,missing,Surrey,female,No,2019
+5d595ea8960dcb00327870f6,Patrick Judge,Unknown,missing,NA,male,No,Unknown
+5d595ecd960dcb00327870f7,David Johnson,56,missing,Duncan,male,No,2019
+5d595fd2960dcb00327870fc,Jarett Sutherland,27,missing,Fort St. James,male,Yes,2019
+5d596099960dcb00327870ff,Kevin Bell,45,missing,Prince Rupert,male,Yes,2019
+5d596162960dcb0032787102,Robert Rhodes,29,missing,New Westminster,male,No,2019
+5d5962ab960dcb0032787108,David Grainger,48,missing,Fraser Valley,male,No,2019
+5d596426960dcb003278710d,Tammy Stewart,49,missing,New Westminster,female,No,2019
+5d59660d960dcb003278710f,Rajwinder Bains,38,deceased,Surrey,female,No,2019
+5d596676960dcb0032787110,Asher Paglaro,13,missing,Vancouver,male,No,2019
+5d596692960dcb0032787111,Carter Crispens,42,missing,New Westminster,male,No,2018
+5d5ab3ec8f5c73003207e398,Cara Lynn Dalum,27,missing,Abbotsford,female,No,2018
+5d5ab5878f5c73003207e39e,Harvinder Singh 2,36,missing,New Westminster,male,No,2018
+5d5ab5bc8f5c73003207e39f,Cassandra Miller,28,deceased,Kelowna,female,No,2018
+5d5cbc6232f2270040dcad55,Edna Slade,Unknown,deceased,Vancouver,female,Yes,Unknown
+5d747dd72722900032b264ea,Sherry Baker,25,missing,Vancouver,female,No,1992
+5d7fec59957a6000320589ac,Daniel Macdonnell,44,missing,Port Alberni,male,No,2016
+5d919756a42abb0032c2eac3,Arsim Leku,29,deceased,James Bay,male,No,2010
+5d9f73e0c93e150043de2d3c,Doreta Andrews,49,deceased,Newton,female,Yes,1993
+5d9fc4bdc93e150043de2d46,Blake Moorehouse,36,missing,Richmond,male,No,1983
+5da3703c74c45b0032649008,Jade Allen,27,deceased,Forest Grove,female,Yes,2001
+5db2eef510a3f20032afaa4a,Kevin Fry,20,deceased,Surrey,male,No,2013
+5de034e898402b0032b82c64,Marshal Iwaasa,27,missing,LethbridgeSquamish-Lillooet,male,No,2019
+5de27f49e39c810032117642,Virginia Gerlitz,52,deceased,NA,female,Yes,Unknown
+5de3182be39c810032117652,Christa George,27,deceased,NA,female,Yes,2003
+5e76853f6b1f8500327eaccc,Gregory Welstead,56,deceased,Gibson,male,No,2012
+5e7687976b1f8500327eacce,Ming Xu,38,deceased,Burnaby,male,No,2017
+5ea26e959e484b0032811c80,Bruce Van Haastrecht,57,deceased,Enderby,male,No,2017
+5ea26f849e484b0032811c83,Willem Rennie,25,deceased,Courtenay,male,No,2016
+5eab39eb208ef000321d86ab,Benjamin Reichert,39,deceased,Kelowna,male,No,2016
+5eab443b208ef000321d86af,Michelle Moss,38,deceased,Saanich,female,No,2016
+5f29f495ad67720032fcef25,Mackenzie Russ-Morrison,18,missing,Burnaby,female,Yes,2019
+5f2db0b61ddac1003a2f3568,Cheryl Smith,37,missing,Squamish,female,Yes,2019
+5f2db16f1ddac1003a2f356c,William Williams,63,missing,Kelowna,male,No,2019
+5fa1729d298eb2004525f778,Daniel Reoch,29,missing,Squamish,male,Yes,2019
+5fa41e3e872b1b0042505a44,Brandon Sakebow,23,missing,Mission,male,Yes,2020
+5fa41fdc872b1b0042505a4b,Feng Zhou,75,missing,Richmond,female,No,2019
+5fa42025872b1b0042505a4c,Gregory Agnew,65,missing,New Aiyansh,male,No,2019
+5fa5c7d177f225003c1b1003,Le Roi Francis La France,19,missing,Coquitlam,male,Yes,1964
+5fa693a46640a700458e15da,Kaleigh Eden-Fiddler,26,missing,Penticton,female,No,Unknown
+5fa8006b2781b30045d07ecd,Stephen Dobson,53,missing,Prince George,male,No,2020
+5fa801bf2781b30045d07ed3,Ashley Virtue,25,missing,Nanaimo,female,No,Unknown
+5fa802cd2781b30045d07ed7,Jordan Thomas Moffitt,33,missing,Nanaimo,male,No,2020
+5fa8030e2781b30045d07ed8,Lance Geddes,64,missing,Nanaimo,male,No,2020
+5fa803a42781b30045d07eda,Shaylanna Lewis,23,missing,Masset,female,Yes,2021
+60206f2f3cd7410045d714f5,Daniel Halak,84,missing,Mission,male,No,2020
+60206f813cd7410045d714f7,Ioan Mihai,68,missing,Surrey,male,No,2020
+60206fa63cd7410045d714f8,John Wayne Luste,23,missing,Surrey,male,No,2020
+6020726a3cd7410045d71505,Lawrence Nadessan,44,deceased,Maple Ridge,male,No,2020
+602073843cd7410045d71508,Steven Grant,53,missing,Sooke,male,No,2021
+602073b13cd7410045d71509,Shaelene Keeler Bell,23,missing,Chilliwack,female,No,2021
+602073dc3cd7410045d7150a,Gurwinder Kular,32,missing,Surrey,male,No,2021
+602074163cd7410045d7150b,Geoffrey Irwin,35,missing,Colwood,male,No,2020
+602074633cd7410045d7150c,Laureen Fabian,69,missing,NA,female,No,2019
+602075333cd7410045d7150e,Sophia Armstrong,72,missing,Vancouver,female,No,1981
+602075953cd7410045d7150f,Nathaniel Fraser,41,missing,NA,male,No,2020
+602076de3cd7410045d71511,Michael Gazetas,51,missing,Vancouver,male,No,2020
+6020775e3cd7410045d71512,Philippe Wyckhuyse,68,missing,NA,male,No,2019
+602077d43cd7410045d71513,Angelina Brown,30,missing,Victoria,female,Yes,2019
+602078793cd7410045d71514,Gary Ritchie,71,missing,Port McNeill,male,No,2020
+6020795d3cd7410045d71515,Chelsea Poorman,24,deceased,Vancouver,female,Yes,2020
+602079873cd7410045d71516,Darcy Wild,49,missing,Vancouver,male,No,2020
+603d7f40700a8e00457a63ab,Clara Loski,95,deceased,Kelowna,female,No,1995
+60649e95d8b835004573478a,Trina Hunt,48,deceased,Port Moody,female,No,Unknown
+62433e197c056e0034a6ae8c,Hailey Mcclelland,18,missing,Surrey,female,No,2022
+62433e647c056e0034a6ae8e,Douglas Lennon,Unknown,missing,SURREY,male,No,2021
+62433e807c056e0034a6ae8f,Bhavneet Singh,22,deceased,Surrey,male,No,2020
+62433e9d7c056e0034a6ae90,Shannon White,32,missing,Kamloops,female,No,2021
+624342a47c056e0034a6ae92,Anthony James Graham,35,missing,Prince George,male,No,2021
+624343167c056e0034a6ae93,Gerald Kearney,61,missing,NA,male,No,Unknown
+6243434f7c056e0034a6ae94,Rory Jantz,Unknown,missing,NA,male,No,Unknown
+624343857c056e0034a6ae95,Michael Kitchener,21,missing,NA,male,No,2021
+624343b17c056e0034a6ae96,Daniel Ritchie,35,missing,NA,male,No,2021
+624343d77c056e0034a6ae97,Jesse Markwart,21,missing,Salmo,male,Yes,2021
+6243441e7c056e0034a6ae98,Serge Sauvã©,68,missing,NA,male,No,2021
+6243450c7c056e0034a6ae99,Shawn Weaver,43,missing,Kelowna,male,Yes,Unknown
+6243456b7c056e0034a6ae9a,Donald Malbeuf,77,missing,NA,male,No,2021
+624345b57c056e0034a6ae9b,Jason Lambert,34,missing,Oliver,male,No,Unknown
+624346287c056e0034a6ae9c,Cameron Blake Beaven,Unknown,missing,Duncan,male,No,2021
+624346487c056e0034a6ae9d,Bernard Grempel,29,missing,New Westminster,male,No,2021
+6243467b7c056e0034a6ae9e,Rory Gordon Mcdonald,59,missing,Vernon,male,No,2021
+624346ef7c056e0034a6ae9f,Jacob Wilson,42,missing,Kelowna,male,No,2021
+62443be41de888003448d93f,Albina Christiana Lequiea,96,deceased,North Vancouver,female,No,1973
+62443c721de888003448d940,David Dâ€™Alton,6,deceased,NA,male,No,Unknown
+62443c931de888003448d941,Derek Dâ€™Alton,7,deceased,NA,male,No,Unknown
+62443d411de888003448d942,Prabhraj Sekhon,24,missing,Surrey,male,No,2021
+62443e5d1de888003448d943,Quia Birch,Unknown,missing,Penticton,male,No,2021
+62443ea71de888003448d944,Jarrett Shane Whitford,32,missing,Hope,male,No,2020
+62443ef11de888003448d945,Timothy Ross,38,deceased,NA,male,No,2021
+6245b8e417c63900362be66c,Maxime Ouellet,43,missing,Port Alberni,male,No,2020
+6245b93f17c63900362be66d,William Price,55,missing,NA,male,No,2020
+6245b97317c63900362be66e,Alan Baker,36,missing,NA,male,Yes,Unknown
+6245b9af17c63900362be66f,William Bird,Unknown,missing,Chetwynd,male,Yes,2019
+6245ba8917c63900362be670,Lalie Honeywell,44,missing,Merritt,female,Yes,2020
+6245bb1517c63900362be671,Dayna Lee-Ann West,33,missing,Fort Nelson,female,Yes,2020
+6245bc4b17c63900362be672,Jason Redhead,42,missing,Kamloops,male,Yes,2020
+6245bf0117c63900362be673,Tyler Walton,28,missing,Williams Lake,male,No,2009
+6245c46917c63900362be674,Charles Gay,38,missing,Skagway,male,No,2000
+6245c8c817c63900362be675,Eddie Frank,Unknown,missing,Iskut,male,Yes,2021
+6245d0da17c63900362be676,Bob Boychuk,61,missing,Revelstoke,male,No,Unknown
+6245d13e17c63900362be677,Owen Rooney,24,deceased,Grand Forks,male,No,2010
+6245d27a17c63900362be678,Carmel Gilmor,36,missing,Parksville,female,No,2012
+6245d2b717c63900362be679,Kelly Mcleod,50,missing,Campbell River,male,No,2019
+6245d2e417c63900362be67a,Ethan Sampson,28,missing,Duncan,male,Yes,2020
+6245d30a17c63900362be67b,Granger Taylor,32,missing,Duncan,male,No,1980
+6245d33917c63900362be67c,Mo Shah,34,missing,Lake Cowichan,male,No,Unknown
+6245d36617c63900362be67d,Colin Court,70,deceased,Cowichan Lake,male,No,2019
+6245d3e017c63900362be67e,Shelley Hofmann,49,missing,Port Alberni,female,No,Unknown
+6245d46017c63900362be67f,Laurence Phillipsen,65,deceased,NA,male,No,2020
+6245de3b17c63900362be680,Richard Grey,23,missing,NA,male,No,Unknown
+6245de7b17c63900362be681,Lesley Evans,Unknown,missing,NA,male,No,1966
+6245deda17c63900362be682,John Evans,Unknown,missing,Maple Ridge,male,No,1966
+6245dff917c63900362be683,Meredith Sambu,25,missing,Squamish,male,No,2018
+6245e06a17c63900362be684,Ioan Pop,79,deceased,Chilliwack,male,No,2019
+6245e0b317c63900362be685,Valentina Kushnareva,Unknown,missing,Columbia Valley,female,No,Unknown
+6245e10717c63900362be686,Lorne Herron,80,missing,Fort Langley,male,No,2019
+6245e15017c63900362be688,Jordan Naterer,25,deceased,Manning Park,male,No,2020
+624c511e88a3010034f79136,Noelle O'soup,14,deceased,Surrey,female,Yes,2021
+626b49b667a5ab004560bc1e,Taressa Williams,15,missing,Vancouver,female,Yes,Unknown
+626b4c9167a5ab004560bc1f,Dustin Lee Wester,Unknown,deceased,Abbotsford,male,No,Unknown
+626b50de67a5ab004560bc20,Lorianne Pennycook,29,deceased,Chilliwack,female,Yes,1993
+626d5d48119aa00036d69045,Thomas Feeney,75,deceased,Rossland,male,No,Unknown
+626d5d8b119aa00036d69046,Jordan Workman,38,deceased,Genelle,male,No,2018
+626d5ea5119aa00036d69049,Peter Thompson,49,deceased,Victoria,male,No,Unknown
+626d6003119aa00036d6904b,Bernd Goericke,24,deceased,Chetwynd,male,No,1983
+626fff72aaea0d0045d10874,Gerry Supernault,37,deceased,NA,male,Yes,2008
+6270012faaea0d0045d10875,Arlene Westervelt,56,deceased,Kelowna,female,No,2016
+627001e4aaea0d0045d10876,Annette Lubovicki,21,deceased,Squamish,female,Yes,Unknown
+627416dd0a1cee0045179030,Catherine Louise Gonzalez,Unknown,missing,Vancouver,female,No,Unknown
+627417aa0a1cee0045179031,Jacqueline Na,Unknown,deceased,NA,female,No,Unknown
+62746b35da6f850045cbac8b,Vickie Roe,Unknown,deceased,New Westminster,female,No,Unknown
+62746e2eda6f850045cbac90,Charles Painter,Unknown,deceased,Vancouver,male,No,Unknown
+62746f1dda6f850045cbac91,Brenda Byman,Unknown,missing,Invermere,female,No,Unknown
+6277c7d505a91c0045cfe810,Charles Henry Klose,58,deceased,Chilliwack,male,No,Unknown
+6277c87d05a91c0045cfe811,Stuart Schellenberg,39,deceased,Chilliwack,male,No,Unknown
+6277c8fa05a91c0045cfe813,Ravinder Singh Sandhu,42,deceased,Langley,male,No,Unknown
+6277c97105a91c0045cfe814,Julian Johnson,28,deceased,Burnaby,male,No,Unknown
+6277ca0705a91c0045cfe815,Tonya Hyer,45,deceased,Vancouver,female,No,2020
+6277cab705a91c0045cfe816,Mathieu Flynn,Unknown,deceased,Vancouver,male,No,Unknown
+6277dd4a05a91c0045cfe817,Joseph Vincent Morrissey,Unknown,deceased,Vancouver,male,No,Unknown
+6277dd8f05a91c0045cfe818,Edi Bogere-Nyigwo,Unknown,deceased,Vancouver,male,No,Unknown
+6279a3b97a1af20045c5d1b4,Keeshawn Brown,Unknown,deceased,Surrey,male,No,Unknown
+6279a4447a1af20045c5d1b5,Verron Nand,Unknown,deceased,Vancouver,male,No,Unknown
+6279a4a27a1af20045c5d1b6,Maggie Nelson,Unknown,deceased,Vancouver,female,No,Unknown
+6279a66f7a1af20045c5d1b7,Kristijan Coric,29,deceased,Vancouver,male,No,Unknown
+6279a6d37a1af20045c5d1b8,Justin Haevischer,Unknown,deceased,Aldergrove,male,No,Unknown
+627ab777e7791500428c10c1,Mankaran Â€Œaustinâ€ Grewal,Unknown,deceased,Surrey,male,No,Unknown
+62e7024429f6aa0034c4326d,"Donald ""Donnie"" Preston",57,missing,Quesnel,male,No,2021
+62e7037b29f6aa0034c4326e,Crystal Lynn Mattie,37,missing,Surrey,female,No,2022
+62eb031a9951240034e36e97,Lawrence Allard,35,missing,Kamloops,male,Yes,1975
+62ed080807d2b90034577a82,Spencer Shinjo Aoki,31,missing,Vancouver,male,No,2002
+62f19e7eade3720034338a07,Brent Bassett,Unknown,missing,Esquimalt,male,No,1987
+62f446727e797200363bcc1c,Vaughn Baumgardt,33,missing,Powell River,male,No,2021
+630690a91304110045bee917,Jackelene Beth Bylow,40,missing,Burnaby,female,No,1994
+6307ef40e1250900420e9002,David George Campbell,21,missing,Burnaby,male,No,1984
+6307f005e1250900420e9007,Horacio Calderon Alvidrez,41,missing,New Westminster,male,No,2020
+6307f167e1250900420e9009,Robert Caldicott,34,missing,Vancouver,male,No,1979
+6356a981d23b7700451dff30,Edward Allen Street,35,missing,Kamloops,male,No,2000
+6356aa58d23b7700451dff31,Patricia Elizebeth Flynn,Unknown,missing,Yarrow,female,No,Unknown
+63a323bef61f9d004568708d,Katrina Louise Wilson,28,missing,Vancouver,female,Yes,2022
+63a32439f61f9d004568708f,Michael Titian,39,missing,Vancouver,male,Yes,2022
+63aefee49ff455003ca3d07f,Leon Benjamin Sinclair,56,missing,Houston,male,Yes,2022
+63aeff3b9ff455003ca3d080,Tamara Mcgee,38,missing,Vancouver,female,Yes,2022
+63b17da04c465e00450ec01b,Karissa Nellie Koks,26,missing,Vancouver,female,Yes,2017
+63b447cfb1289a003c34ff6a,Clarence (Reuben) Moyah,43,missing,Dawson Creek,male,Yes,2022
+63b4485eb1289a003c34ff6b,Kennedy Dunning,18,missing,Vancouver,female,Yes,2022
+63b448a3b1289a003c34ff6c,Morgan Joe,27,missing,Vancouver,female,Yes,2022
+63b448efb1289a003c34ff6d,Dashia Lawrence,25,missing,Cold Lake,female,Yes,2022
+63b451c4b1289a003c34ff70,Daniel Meeker,41,missing,Nicola Lake,male,Yes,2022
+63b45287b1289a003c34ff73,Jaimie Mckay,Unknown,missing,Kelowna,female,Yes,2022
+63b45356b1289a003c34ff76,Joseph Thomas Chief,42,missing,Boya Lake,male,Yes,2022
+63befbc69bbb03003c164f41,Frankie Rivera-King,Unknown,missing,Vancouver,male,Yes,2022
+63bf0c0c9bbb03003c164f4c,Dakota Elsie Rhea Jackson,29,missing,Vacnouver,female,Yes,2021
+63bf0c569bbb03003c164f4d,Alfred Dick,Unknown,missing,Victoria,male,Yes,2021
+63c032f7dd69870045791c0e,Adrienne Billy,32,missing,Surrey,female,Yes,2021
+63c046e1dd69870045791c18,Kristina Joanne Ward,20,missing,Surrey,female,Yes,2017
+63c05963dd69870045791c19,Sidney Ryan Boyd,27,missing,Quesnel,male,Yes,2021
+63c189a553aa8c0045793a5c,Tyler Desourcy,31,missing,Victoria,male,Yes,2020
+63c18a3153aa8c0045793a5e,Christopher Haines,34,missing,Burnaby,male,Yes,2021
+63c2a33d53aa8c0045793a66,Denise Hamill,Unknown,deceased,Kamloops,female,Yes,2002
+63c3e90f63441c003f41b1c4,Stacey Sam,35,missing,Saanich,female,Yes,2019
+63c3e9d963441c003f41b1c6,Trevor Batoche,37,missing,Penticton,male,Yes,2019
+63c3eaf663441c003f41b1c8,April Lee-Ann Christine Parisian,45,missing,Spuzzum,female,Yes,2020
+63c61dc192a78c003aacccfa,Zailey Smith,22,deceased,Coquitlam,female,No,2022
+63c621b592a78c003aacccfb,Amber Manthorne,40,missing,Port Alberni,female,No,2022
+63c6270192a78c003aacccfc,Laura Huebner,45,missing,North Saanich,female,No,2022
+63f516d14badbf004355698d,John Kahler,Unknown,deceased,Fraser Valley,male,No,2007
+63fccbbec0f94500341a6f42,Sophie Barr,31,missing,Whistler,female,No,2023
+640e2c46291f490033473c36,Deborah Roe,22,deceased,Surrey,female,No,1975
+6422fa094e593f004346c47b,Bonnie Kate Whalen,32,deceased,Vancouver,female,Yes,1989
+64357cbc1c541a0033d9fa94,Jiexiong Xu,28,missing,Burnaby,male,No,2022
+6435800c1c541a0033d9faa0,Jonathan White,35,missing,Whistler,male,No,2023
+64452031532b0f002c64d6a1,Richard Wyandt,31,missing,Cassiar,male,No,1973
+64452158532b0f002c64d6a5,Lester White,43,missing,NA,male,No,1987
+6477fe46fc27fe002ce09fba,Patrick Jordan,48,missing,Kilby,male,No,2023
+6477fe9efc27fe002ce09fbb,Jo-Anne Donovan,57,missing,Westsyde,female,No,2023
+6477fedcfc27fe002ce09fbc,Bradley James Cadden,39,missing,Revelstoke,male,No,2023
+6477ffa1fc27fe002ce09fbd,Melissa Koks,28,missing,Vancouver,female,Yes,2022
+6477ffedfc27fe002ce09fbe,Miguel Mack,Unknown,missing,Merritt,male,Yes,2023
+6478003bfc27fe002ce09fbf,Joseph Chen,14,missing,Surrey,male,No,2023
+647800a0fc27fe002ce09fc0,Andrea Mcintyre,Unknown,missing,Coquitlam,female,No,2023
+64780511fc27fe002ce09fc3,"Shirita ""Simone"" Beans",16,missing,Victoria,female,Yes,2022
+647a08de5dd1cc00345aea41,Daralyn Supernant,29,missing,Dawson Creek,female,Yes,2023
+647a0a615dd1cc00345aea47,Jay Preston Raphael,27,missing,Vanderhoof,male,Yes,2023
+6481dd3d49167c003137cfb9,Patrick Louie Noel John,35,missing,Prince George,male,Yes,Unknown
+648750d72ec5c6002c0ca7c8,Aaron Webster,41,deceased,Vancouver,male,No,2001
+648ab9782ed52d002c9c8b47,Bruno Minici,22,missing,Burnaby,male,No,1993
+64933228ac8d73002eb2f660,Robert Hopkins,48,deceased,Vancouver,male,No,1954
+6493b32231f63e002e6f5598,Bruce Madill,35,missing,Chilliwack,male,No,2020
+64a353142e4ce500375f3a5c,Irshaad Ikbal,36,deceased,Vancouver,male,No,2023
+64bc6c69e522b1002c539474,Ryan Liu,22,missing,Richmond,male,No,2023
+64c79d568bd09f002c5905de,Gordon Thomas Clark,Unknown,missing,Richmond,male,No,Unknown
+64cbbcb2eccfc6002cbcafb1,Yingying Sun,39,deceased,Vancouver,female,No,2022
+64d6987a2e8436002c78848d,Kaylee Gunanoot,Unknown,deceased,NA,female,No,Unknown
+64dcd313a791a0002c9b8b96,Jay Cook,20,deceased,Victoria,male,Yes,1987
+64f9b68350bf9e002c3fd933,Chelsey Acorn,14,deceased,Hope,female,Yes,Unknown
+64f9b78c50bf9e002c3fd936,Rachel Adams,23,deceased,Vancouver,female,Yes,Unknown
+64f9ba3e50bf9e002c3fd938,Celestine Bob,Unknown,missing,Lillooet,female,Yes,Unknown
+64f9bb3d50bf9e002c3fd939,Nancy Jane Bob,21,deceased,Langley,female,Yes,Unknown
+64f9bee050bf9e002c3fd93a,Catherine Mary Brown,30,missing,Vancouver,female,Yes,Unknown
+64fb11107b094f002c2342f2,Shirley Lee Clethroe,45,missing,Fort St. John,female,Yes,Unknown
+64fd1ea040dc1c0031627fbc,Marina George,Unknown,deceased,NA,female,Yes,Unknown
+64fd1ec540dc1c0031627fbd,Brenda George,Unknown,deceased,NA,female,Yes,Unknown
+64fd20cd40dc1c0031627fbe,Barbara Gus,Unknown,missing,NA,female,Yes,Unknown
+64fd22fd40dc1c0031627fc0,Dora Patrick,Unknown,deceased,NA,female,Yes,Unknown
+64fd233e40dc1c0031627fc1,Lorna George,Unknown,deceased,NA,female,Yes,Unknown
+64fd237340dc1c0031627fc2,Majorie Susan Prionen,Unknown,deceased,NA,female,Yes,Unknown
+64fd24da40dc1c0031627fc3,Rita Holy Holy-White-Man,Unknown,deceased,NA,female,Yes,1989
+64fd250440dc1c0031627fc4,Ronda Macdonald,Unknown,missing,NA,female,Yes,Unknown
+64fd25ca40dc1c0031627fc5,Marg Lejarry,Unknown,deceased,NA,female,Yes,Unknown
+64fd261940dc1c0031627fc6,Helen Lessard,Unknown,deceased,NA,female,Yes,Unknown
+64fda64da483ed00325f66e7,Janet Gail Henry,Unknown,deceased,NA,female,Yes,Unknown
+64fda682a483ed00325f66e8,Levina Henry,Unknown,deceased,NA,female,No,Unknown
+64fda70ba483ed00325f66e9,Raena Henry,Unknown,deceased,NA,female,Yes,Unknown
+64fdacbda483ed00325f66ea,Sally Jackson,Unknown,missing,NA,female,Yes,Unknown
+65004edd17eec2002c498be7,Debbie Kennedy,Unknown,missing,NA,female,Yes,Unknown
+65004f9217eec2002c498be8,Kayla Koks,32,missing,NA,female,Yes,Unknown
+6501f5c9807b8c002cce8870,Lois Mackie,Unknown,deceased,NA,female,Yes,Unknown
+6502ef824602cd002c70cf86,Stephanie Lane Pineault,20,deceased,Vancouver,female,Yes,Unknown
+65059af76188dd002c5257fd,Margaret Vedan,41,deceased,NA,female,Yes,Unknown
+65059d256188dd002c5257fe,Beverly Williams,32,deceased,NA,female,Yes,Unknown
+6508d60c039104002c31f34a,Roberta Nikal,19,deceased,Cultus Lake,female,Yes,1988
+650dd7ebc66804003152d98c,Kari Anne Gordon,26,deceased,NA,female,Yes,1996
