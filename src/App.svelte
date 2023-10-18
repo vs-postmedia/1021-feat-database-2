@@ -12,11 +12,9 @@
 
     // VARIABLES
     let city, data, value, sortedMenuItems, person, status, pronoun, year;
-    // const defaultSelectValue = menuItems[0].value;
 
     // REACTIVE VARIABLES
     $: value, updateData(value);
-    $: person;
 
     function updateData(selector) {
         if (!selector || !selector.value) return;
@@ -29,10 +27,12 @@
         if (person.person_state === 'missing') {
             status = 'last seen';
         } else if (person.person_state === 'deceased') {
-            status = 'killed';
+            status = 'found dead';
         }
 
         if (person.location_last_seen_suburb === 'unknown'.toLowerCase()) {
+            city = 'an unknown location';
+        } else if (person.location_last_seen_suburb === 'NA') {
             city = 'an unknown location';
         } else {
             city = person.location_last_seen_suburb;
@@ -75,7 +75,7 @@
 </script>
 
 <header>
-    <h1>These are the names of all B.C.’s missing people and unsolved murder victims</h1>
+    <h1>B.C.’s 1,725 <span class="missing">missing people</span> and  <span class="deceased">unsolved murders</span> in the Midnight Order database</h1>
     <!-- <p class="subhead">Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> -->
 </header>
 
@@ -83,13 +83,13 @@
     <Select items={sortedMenuItems}
         bind:value
         change={updateData}
-        placeholder="Search for a name..."
+        placeholder="Search for a person..."
 		showChevron="true"
 		listOpen={false}
     />
 
     {#if person}
-        <p id="descriptor">{person.name} was {status} in {city} {year}. {pronoun} was {person.age}.</p>
+        <p id="descriptor">{person.name} was {status} in {city} {year}. {pronoun} was {person.age} years old.</p>
     {/if}
     
     <Chart 
@@ -125,8 +125,15 @@
     #descriptor {
         font-size: 1.6rem;
         line-height: 1.3;
-        margin: 25px 0;
+        margin: 25px auto;
+        max-width: 90%;
         text-align: center;
+    }
+    :global(.deceased) {
+        color: #009775;
+    }
+    :global(.missing) {
+        color: #9b3f86;
     }
 
     /* COMBOBOX SELECTOR */

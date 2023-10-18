@@ -6,17 +6,14 @@
     console.log(menu)
 </script>
 
-<h2></h2>
-
-<!-- <pre>CHART: Combobox value = {menu || 'No selection'}</pre> -->
-
-<!-- <h3 id="names-header">These are the names of all the missing people and unsolved murder victims in British Columbia...</h3> -->
+<!-- HTML -->
 <div id="names">
     {#each data as d} 
-        <p class={d.sex}>{d.name}</p>
+        <p class={d.person_state}>{d.name}</p>
     {/each}
 </div>
 
+<!-- CSS -->
 <style>
     #names-header {
         line-height: 1.3;
@@ -33,13 +30,13 @@
         margin: 3px 5px;
     }
 
-    #names p.male {
+    #names p.deceased {
         color: #009775;
     }
-    #names p.female {
+    #names p.missing {
         color: #9b3f86;
     }
-    #names p.other {
+    #names p.unknown {
         color: #898B8E;
     }
 </style>
