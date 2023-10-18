@@ -4,10 +4,6 @@
     import { createEventDispatcher } from "svelte";
     const dispatch = createEventDispatcher();
 
-
-    console.log(data)
-    console.log(menu)
-
     function handleClick(e) {
        dispatch('event', {value: e.target.getAttribute('data-id')});
     }
@@ -30,14 +26,14 @@
     #names {
         display: flex;
         flex-wrap: wrap;
-        height: 400px;
-        justify-content: space-between;
+        height: 375px;
+        justify-content: space-evenly;
         overflow-y: scroll;
         padding: 0 3px;
     }
     #names p {
         cursor: pointer;
-        margin: 3px 0;
+        margin: 3px 4px;
     }
 
     #names p.deceased {

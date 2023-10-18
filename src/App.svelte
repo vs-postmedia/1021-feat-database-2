@@ -41,7 +41,7 @@
         }
 
         if (person.last_seen_year === 'Unknown') {
-            year = 'at an unconfirmed date';
+            year = 'on an unconfirmed date';
         } else {
             year = `in ${person.last_seen_year}`;
         }
@@ -80,7 +80,7 @@
 </script>
 
 <header>
-    <h1>B.C.’s 1,725 <span class="missing">missing people</span> and  <span class="deceased">unsolved murders</span> in the Midnight Order database</h1>
+    <h1>B.C.’s 1,725 <span class="missing">missing people</span> and  <span class="deceased">unsolved deaths</span> in the Midnight Order database</h1>
     <!-- <p class="subhead">Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> -->
 </header>
 
@@ -88,7 +88,7 @@
     <Select items={sortedMenuItems}
         bind:value
         change={updateData}
-        placeholder="Search for a person..."
+        placeholder="Search for a name or click one below..."
 		showChevron="true"
 		listOpen={false}
     />
@@ -107,6 +107,7 @@
 
 <footer>
     <p class="note">If you know of someone that should be included in the database, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBbrOu7zBvVcdeoOj1Idi1lnaLyIMMwoPn4FtePNNgDL5-FA/viewform" target="_blank">this form</a>. Questions, corrections and comments should be sent to <a href="mailto:Midnightordermmd@gmail.com" target="_blank">midnightordermmd@gmail.com</a>.</p>
+    <p class="note">Researchers also included a few deaths, suicides and overdoses that appeared suspicious; all Indigenous murders, whether solved or unsolved, to help build a complete list of Indigenous victims in Canada; and victims of serial killers to allow for the study of patterns.</p>
     <p class="source">Source: Midnight Order</p>
 </footer>
   
@@ -120,6 +121,7 @@
 		margin-bottom: 2rem;
 	}
 	header > h1 {
+        font-size: 1.8rem !important;
         line-height: 1.1;
 		text-align: center;
 	}
