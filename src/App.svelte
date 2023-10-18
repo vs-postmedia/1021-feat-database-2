@@ -33,9 +33,9 @@
         }
 
         if (person.location_last_seen_suburb === 'unknown'.toLowerCase()) {
-            city = 'an unknown location';
+            city = 'an unconfirmed location';
         } else if (person.location_last_seen_suburb === 'NA') {
-            city = 'an unknown location';
+            city = 'an unconfirmed location';
         } else {
             city = person.location_last_seen_suburb;
         }
@@ -106,8 +106,7 @@
 </main>
 
 <footer>
-    <p class="note">If you know of someone that should be included in the database, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBbrOu7zBvVcdeoOj1Idi1lnaLyIMMwoPn4FtePNNgDL5-FA/viewform" target="_blank">this form</a>.</p>
-    <p class="note">Questions, corrections and comments should be sent to <a href="mailto:Midnightordermmd@gmail.com" target="_blank">midnightordermmd@gmail.com</a>.</p>
+    <p class="note">If you know of someone that should be included in the database, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBbrOu7zBvVcdeoOj1Idi1lnaLyIMMwoPn4FtePNNgDL5-FA/viewform" target="_blank">this form</a>. Questions, corrections and comments should be sent to <a href="mailto:Midnightordermmd@gmail.com" target="_blank">midnightordermmd@gmail.com</a>.</p>
     <p class="source">Source: Midnight Order</p>
 </footer>
   
