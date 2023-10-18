@@ -31,12 +31,13 @@
         display: flex;
         flex-wrap: wrap;
         height: 400px;
-        justify-content: space-around;
+        justify-content: space-between;
         overflow-y: scroll;
+        padding: 0 3px;
     }
     #names p {
         cursor: pointer;
-        margin: 3px 5px;
+        margin: 3px 0;
     }
 
     #names p.deceased {
