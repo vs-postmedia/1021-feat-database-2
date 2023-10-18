@@ -2,57 +2,57 @@
     // COMPONENTS
     import { onMount } from 'svelte';
     import { csvParse } from 'd3-dsv';
-    import Chart from "$components/Chart.svelte";
-    import Select from "svelte-select"; // https://github.com/rob-balfre/svelte-select
+    import Search from 'svelte-search'; // https://github.com/metonym/svelte-search
 
     // DATA
-    import { menuItems } from "$data/menu-items";
     const dataUrl = 'https://vs-postmedia-data.sfo2.digitaloceanspaces.com/midnight-order-mmd/db-output.csv';
 
     // VARIABLES
-    let age_known, city, data, value, sortedMenuItems, person, status, pronoun, year;
+    let age_known, city, data, value, sortedMenuItems, status, pronoun, year, person;
 
     // REACTIVE VARIABLES
-    $: value, updateData(value);
+    // $: value, returnResults(value);
 
-    function handleClickEvent(e) {
-        updateData(e.detail);
-    }
-
-    function updateData(selector) {
-        if (!selector || !selector.value) return;
+    function returnResults(selector) {
+        console.log(value);
 
         // filter for our selected person
-        person = data.filter(d => d.id === selector.value)[0];
+        person = data.filter(d => d.name.toLowerCase() === value.toLowerCase());
+
+        console.log(person)  
         
-        // tidy up the text...
-        if (person.person_state === 'missing') {
+        // dead/missing
+        if (person[0].person_state === 'missing') {
             status = 'last seen';
-        } else if (person.person_state === 'deceased') {
+        } else if (person[0].person_state === 'deceased') {
             status = 'found dead';
         }
 
-        if (person.location_last_seen_suburb === 'unknown'.toLowerCase()) {
+        // city last seen
+        if (person[0].location_last_seen_suburb === 'unknown'.toLowerCase()) {
             city = 'an unconfirmed location';
-        } else if (person.location_last_seen_suburb === 'NA') {
+        } else if (person[0].location_last_seen_suburb === 'NA') {
             city = 'an unconfirmed location';
         } else {
-            city = person.location_last_seen_suburb;
+            city = person[0].location_last_seen_suburb;
         }
 
-        if (person.last_seen_year === 'Unknown') {
+        // year last seen
+        if (person[0].last_seen_year === 'Unknown') {
             year = 'on an unconfirmed date';
         } else {
-            year = `in ${person.last_seen_year}`;
+            year = `in ${person[0].last_seen_year}`;
         }
 
-        if (person.sex === 'male') {
+        // pronoun
+        if (person[0].sex === 'male') {
             pronoun = 'He';
-        } else if (person.sex === 'female') {
+        } else if (person[0].sex === 'female') {
             pronoun = 'She';
         }
 
-        if (person.age === 'Unknown') {
+        // age
+        if (person[0].age === 'Unknown') {
             age_known = false;
         } else {
             age_known = true;
@@ -70,44 +70,40 @@
         
         // get the data
         data = await fetchData(dataUrl);
-        // console.log(data)
-
-        // sort names 
-        sortedMenuItems = menuItems.sort((a,b) => a.name_last.toLowerCase().localeCompare(b.name_last.toLowerCase()))
     }
 
     onMount(init);
 </script>
 
 <header>
-    <h1>B.C.’s 1,725 <span class="missing">missing people</span> and  <span class="deceased">unsolved deaths</span> in the Midnight Order database</h1>
-    <!-- <p class="subhead">Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> -->
+    <h1>Search the Midnight Order database of missing people and unsolved deaths in B.C.</h1>
 </header>
 
 <main>
-    <Select items={sortedMenuItems}
+    <Search
         bind:value
-        change={updateData}
-        placeholder="Search for a name or click one below..."
-		showChevron="true"
-		listOpen={false}
+        label=""
+        placeholder="Search for a name..."
+        on:submit={() => returnResults(value)}
     />
 
-    {#if person}
-        <p id="descriptor">{person.name} was {status} in {city} {year}. {#if age_known} {pronoun} was {person.age} years old.{/if}</p>
+    <!-- svelte-ignore empty-block -->
+    {#if !Array.isArray(person) }
+    {:else if person.length === 0}
+        <p class="descriptor">No one by that name was found in the database.</p>
+    {:else if person.length > 0}
+        <p class="descriptor">{person[0].name} was {status} in {city} {year}. {#if age_known} {pronoun} was {person[0].age} years old.{/if}</p>
     {/if}
-    
-    <Chart 
-        bind:value
-        on:event={handleClickEvent}
-        data={data}
-        menu={value}
-    />
+
+    <h2>Stories from the missing and murdered database</h2>
+    <iframe src='https://flo.uri.sh/visualisation/15410744/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:450px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/15410744/?utm_source=embed&utm_campaign=visualisation/15410744' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 </main>
 
 <footer>
-    <p class="note">If you know of someone that should be included in the database, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBbrOu7zBvVcdeoOj1Idi1lnaLyIMMwoPn4FtePNNgDL5-FA/viewform" target="_blank">this form</a>. Questions, corrections and comments should be sent to <a href="mailto:Midnightordermmd@gmail.com" target="_blank">midnightordermmd@gmail.com</a>.</p>
     <p class="note">Researchers also included a few deaths, suicides and overdoses that appeared suspicious; all Indigenous murders, whether solved or unsolved, to help build a complete list of Indigenous victims in Canada; and victims of serial killers to allow for the study of patterns.</p>
+
+    <p class="note">If you know of someone that should be included in the database, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBbrOu7zBvVcdeoOj1Idi1lnaLyIMMwoPn4FtePNNgDL5-FA/viewform" target="_blank">this form</a>. Questions, corrections and comments should be sent to <a href="mailto:Midnightordermmd@gmail.com" target="_blank">midnightordermmd@gmail.com</a>.</p>
+   
     <p class="source">Source: Midnight Order</p>
 </footer>
   
@@ -131,34 +127,28 @@
 		text-align: center;
 	}
 
-    #descriptor {
+    .descriptor {
         font-size: 1.6rem;
         line-height: 1.3;
         margin: 25px auto;
         max-width: 90%;
         text-align: center;
     }
-    :global(.deceased) {
-        color: #009775;
-    }
-    :global(.missing) {
-        color: #9b3f86;
+
+    #app main h2 {
+        margin-top: 2rem;
     }
 
-    /* COMBOBOX SELECTOR */
-  	:global(.svelte-select) {
-		margin: 1rem auto !important;
-		max-width: 325px;
-  	}
-  	:global(input:focus) {
-		outline: none;
-  	}
-
-	:global(
-		.svelte-select .selected-item,
-		.svelte-select .item,
-		.svelte-select input
-	) {
-		font-family: 'BentonSansCond-Regular', sans;
-	}
+    :global([data-svelte-search] input) {
+        width: 100%;
+        font-size: 1rem;
+        font-family: 'BentonSansCond-Regular', sans;
+        padding: 0.5rem;
+        max-width: 350px;
+        margin: 0.5rem auto;
+        display: block;
+        border: 1px solid #e0e0e0;
+        border-radius: 0.25rem;
+    }
+    
 </style>

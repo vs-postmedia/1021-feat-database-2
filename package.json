@@ -17,11 +17,11 @@
 		"prettier": "^2.8.0",
 		"prettier-plugin-svelte": "^2.10.1",
 		"svelte": "^4.0.5",
+		"svelte-search": "^2.0.1",
 		"vite": "^4.4.2"
 	},
 	"type": "module",
 	"dependencies": {
-		"d3-dsv": "^3.0.1",
-		"svelte-select": "^5.7.0"
+		"d3-dsv": "^3.0.1"
 	}
 }
