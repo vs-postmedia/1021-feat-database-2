@@ -35,6 +35,7 @@
         overflow-y: scroll;
     }
     #names p {
+        cursor: pointer;
         margin: 3px 5px;
     }
 

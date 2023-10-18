@@ -4,7 +4,7 @@ import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // base: '/1021-feat-database-2/',
+  base: '/1021-feat-database-2/',
   plugins: [svelte()],
   resolve: {
     alias: {

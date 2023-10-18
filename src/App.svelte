@@ -10,7 +10,7 @@
     const dataUrl = 'https://vs-postmedia-data.sfo2.digitaloceanspaces.com/midnight-order-mmd/db-output.csv';
 
     // VARIABLES
-    let city, data, value, sortedMenuItems, person, status, pronoun, year;
+    let age_known, city, data, value, sortedMenuItems, person, status, pronoun, year;
 
     // REACTIVE VARIABLES
     $: value, updateData(value);
@@ -51,6 +51,12 @@
         } else if (person.sex === 'female') {
             pronoun = 'She';
         }
+
+        if (person.age === 'Unknown') {
+            age_known = false;
+        } else {
+            age_known = true;
+        }
     }
 
     async function fetchData(url) {
@@ -88,7 +94,7 @@
     />
 
     {#if person}
-        <p id="descriptor">{person.name} was {status} in {city} {year}. {pronoun} was {person.age} years old.</p>
+        <p id="descriptor">{person.name} was {status} in {city} {year}. {#if age_known} {pronoun} was {person.age} years old.{/if}</p>
     {/if}
     
     <Chart 
