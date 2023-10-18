@@ -1,10 +1,10 @@
-import { defineConfig } from 'vite'
-import { svelte } from '@sveltejs/vite-plugin-svelte'
-import path from 'path'
+import { defineConfig } from 'vite';
+import { svelte } from '@sveltejs/vite-plugin-svelte';
+import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/1021-feat-database-2/',
+  // base: '/1021-feat-database-2/',
   plugins: [svelte()],
   resolve: {
     alias: {
@@ -14,4 +14,4 @@ export default defineConfig({
 	    "$fonts": path.resolve("./static/fonts")
     }
   }
-})
+});

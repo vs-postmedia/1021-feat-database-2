@@ -2,7 +2,6 @@
     // COMPONENTS
     import { onMount } from 'svelte';
     import { csvParse } from 'd3-dsv';
-    import Example from "$components/Example.svelte";
     import Chart from "$components/Chart.svelte";
     import Select from "svelte-select"; // https://github.com/rob-balfre/svelte-select
 
@@ -16,14 +15,17 @@
     // REACTIVE VARIABLES
     $: value, updateData(value);
 
+    function handleClickEvent(e) {
+        updateData(e.detail);
+    }
+
     function updateData(selector) {
         if (!selector || !selector.value) return;
 
-        console.log(selector);
-
+        // filter for our selected person
         person = data.filter(d => d.id === selector.value)[0];
-        console.log(person)
         
+        // tidy up the text...
         if (person.person_state === 'missing') {
             status = 'last seen';
         } else if (person.person_state === 'deceased') {
@@ -66,9 +68,6 @@
 
         // sort names 
         sortedMenuItems = menuItems.sort((a,b) => a.name_last.toLowerCase().localeCompare(b.name_last.toLowerCase()))
-
-        // default display selector value
-		// value = defaultSelectValue;
     }
 
     onMount(init);
@@ -93,14 +92,17 @@
     {/if}
     
     <Chart 
+        bind:value
+        on:event={handleClickEvent}
         data={data}
         menu={value}
     />
 </main>
 
 <footer>
-    <p class="note">NOTE: tk.</p>
-    <p class="source">Source:  <a href="https:vancouversun.com" target="_blank">TK</a></p>
+    <p class="note">If you know of someone that should be included in the database, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBbrOu7zBvVcdeoOj1Idi1lnaLyIMMwoPn4FtePNNgDL5-FA/viewform" target="_blank">this form</a>.</p>
+    <p class="note">Questions, corrections and comments should be sent to <a href="mailto:Midnightordermmd@gmail.com" target="_blank">midnightordermmd@gmail.com</a>.</p>
+    <p class="source">Source: Midnight Order</p>
 </footer>
   
 <style>
