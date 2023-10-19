@@ -13,9 +13,11 @@
     // REACTIVE VARIABLES
     // $: value, returnResults(value);
 
-    function returnResults(selector) {
+    function returnResults(value) {
         // filter for our selected person
         person = data.filter(d => d.name.toLowerCase() === value.toLowerCase());
+
+        if (person.length < 1) return;
 
         // dead/missing
         if (person[0].person_state === 'missing') {
