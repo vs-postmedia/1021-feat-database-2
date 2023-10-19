@@ -96,7 +96,7 @@
     <Search
         bind:value
         label=""
-        placeholder="Search for a last name..."
+        placeholder="Search by last name..."
         on:submit={() => returnResults(value)}
     />
 
