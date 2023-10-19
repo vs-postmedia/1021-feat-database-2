@@ -15,47 +15,60 @@
 
     function returnResults(value) {
         // filter for our selected person
-        person = data.filter(d => d.name.toLowerCase() === value.toLowerCase());
+        person = data.filter(d => d.name.split(' ').pop().toLowerCase() === value.toLowerCase());
+        // person = data.filter(d => d.name.toLowerCase() === value.toLowerCase());
 
         // return if no results
         if (person.length < 1) return;
 
+        console.log(person)
+
+        prepDescriptionText(person);
+    }
+
+    function prepDescriptionText(person) {
         // dead/missing
-        if (person[0].person_state === 'missing') {
+        if (person.person_state === 'missing') {
             status = 'last seen';
-        } else if (person[0].person_state === 'deceased') {
+        } else if (person.person_state === 'deceased') {
             status = 'found dead';
         }
 
         // city last seen
-        if (person[0].location_last_seen_suburb === 'unknown'.toLowerCase()) {
+        if (person.location_last_seen_suburb === 'unknown'.toLowerCase()) {
             city = 'an unconfirmed location';
-        } else if (person[0].location_last_seen_suburb === 'NA') {
+        } else if (person.location_last_seen_suburb === 'NA') {
             city = 'an unconfirmed location';
         } else {
-            city = person[0].location_last_seen_suburb;
+            city = person.location_last_seen_suburb;
         }
 
         // year last seen
-        if (person[0].last_seen_year === 'Unknown') {
+        if (person.last_seen_year === 'Unknown') {
             year = 'on an unconfirmed date';
         } else {
-            year = `in ${person[0].last_seen_year}`;
+            year = `in ${person.last_seen_year}`;
         }
 
         // pronoun
-        if (person[0].sex === 'male') {
+        if (person.sex === 'male') {
             pronoun = 'He';
-        } else if (person[0].sex === 'female') {
+        } else if (person.sex === 'female') {
             pronoun = 'She';
         }
 
         // age
-        if (person[0].age === 'Unknown') {
+        if (person.age === 'Unknown') {
             age_known = false;
         } else {
             age_known = true;
         }
+
+        const p_tag = document.createElement('p').classList.add('descriptor');
+        const p1 = `${person.name} was ${status} in ${city} ${year}.`
+        const p2 = age_known ? `${pronoun} was ${person.age} years old.` : '';
+
+        return `${p1} ${p2}`;
     }
 
     async function fetchData(url) {
@@ -67,6 +80,7 @@
     async function init() {     
         // get the data
         data = await fetchData(dataUrl);
+        // console.log(data[0])
     }
 
     onMount(init);
@@ -80,16 +94,18 @@
     <Search
         bind:value
         label=""
-        placeholder="Enter a person’s full name..."
+        placeholder="Search for a last name..."
         on:submit={() => returnResults(value)}
     />
 
     <!-- svelte-ignore empty-block -->
-    {#if !Array.isArray(person) }
+    {#if !Array.isArray(person)}
     {:else if person.length === 0}
         <p class="descriptor">No one by that name was found in the database.</p>
     {:else if person.length > 0}
-        <p class="descriptor">{person[0].name} was {status} in {city} {year}. {#if age_known} {pronoun} was {person[0].age} years old.{/if}</p>
+        {#each person as p}
+            <p class="descriptor">{prepDescriptionText(p)}</p>
+        {/each}
     {/if}
 
     <h2>Stories from the missing and murdered database</h2>
@@ -125,7 +141,7 @@
 	}
 
     .descriptor {
-        font-size: 1.6rem;
+        font-size: 1.2rem;
         line-height: 1.3;
         margin: 25px auto;
         max-width: 90%;
