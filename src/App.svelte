@@ -17,6 +17,7 @@
         // filter for our selected person
         person = data.filter(d => d.name.toLowerCase() === value.toLowerCase());
 
+        // return if no results
         if (person.length < 1) return;
 
         // dead/missing
