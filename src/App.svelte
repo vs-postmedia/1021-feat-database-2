@@ -14,13 +14,9 @@
     // $: value, returnResults(value);
 
     function returnResults(selector) {
-        console.log(value);
-
         // filter for our selected person
         person = data.filter(d => d.name.toLowerCase() === value.toLowerCase());
 
-        console.log(person)  
-        
         // dead/missing
         if (person[0].person_state === 'missing') {
             status = 'last seen';
@@ -65,9 +61,7 @@
         return csvParse(data);
     }
 
-    async function init() {
-        console.log("INIT!");
-        
+    async function init() {     
         // get the data
         data = await fetchData(dataUrl);
     }
@@ -83,7 +77,7 @@
     <Search
         bind:value
         label=""
-        placeholder="Search for a name..."
+        placeholder="Enter a person’s full name..."
         on:submit={() => returnResults(value)}
     />
 
