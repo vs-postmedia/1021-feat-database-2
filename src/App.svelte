@@ -16,14 +16,15 @@
     function returnResults(value) {
         // filter for our selected person
         person = data.filter(d => d.name.split(' ').pop().toLowerCase() === value.toLowerCase());
-        // person = data.filter(d => d.name.toLowerCase() === value.toLowerCase());
 
         // return if no results
         if (person.length < 1) return;
 
-        console.log(person)
-
         prepDescriptionText(person);
+    }
+    
+    function prepNameText(person) {
+        return person.name;
     }
 
     function prepDescriptionText(person) {
@@ -44,10 +45,10 @@
         }
 
         // year last seen
-        if (person.last_seen_year === 'Unknown') {
+        if (person.year === 'NA') {
             year = 'on an unconfirmed date';
         } else {
-            year = `in ${person.last_seen_year}`;
+            year = `in ${person.year}`;
         }
 
         // pronoun
@@ -64,11 +65,12 @@
             age_known = true;
         }
 
-        const p_tag = document.createElement('p').classList.add('descriptor');
-        const p1 = `${person.name} was ${status} in ${city} ${year}.`
-        const p2 = age_known ? `${pronoun} was ${person.age} years old.` : '';
+        // let's build some sentences!!!
+        const p1 = `was ${status} in ${city} ${year}.`
+        const p2 = age_known ? `${pronoun} was ${person.age} years old` : '';
+        const p3 = parseInt(person.year_last_seen) < parseInt(person.year) ? ` in ${person.year_last_seen} when ${pronoun.toLowerCase()} went missing.` : '.';
 
-        return `${p1} ${p2}`;
+        return `${p1} ${p2}${p3}`;
     }
 
     async function fetchData(url) {
@@ -98,15 +100,17 @@
         on:submit={() => returnResults(value)}
     />
 
-    <!-- svelte-ignore empty-block -->
-    {#if !Array.isArray(person)}
-    {:else if person.length === 0}
-        <p class="descriptor">No one by that name was found in the database.</p>
-    {:else if person.length > 0}
-        {#each person as p}
-            <p class="descriptor">{prepDescriptionText(p)}</p>
-        {/each}
-    {/if}
+    <div id="descriptor-block">
+        <!-- svelte-ignore empty-block -->
+        {#if !Array.isArray(person)}
+        {:else if person.length === 0}
+            <p class="descriptor">No one by that name was found in the database.</p>
+        {:else if person.length > 0}
+            {#each person as p}
+                <p class="descriptor"><span class="bold">{prepNameText(p)}</span> {prepDescriptionText(p)}</p>
+            {/each}
+        {/if}
+    </div>
 
     <h2>Stories from the missing and murdered database</h2>
     <iframe src='https://flo.uri.sh/visualisation/15410744/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:450px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/15410744/?utm_source=embed&utm_campaign=visualisation/15410744' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
@@ -140,12 +144,20 @@
 		text-align: center;
 	}
 
+    #descriptor-block {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
     .descriptor {
         font-size: 1.2rem;
         line-height: 1.3;
         margin: 25px auto;
-        max-width: 90%;
+        max-width: 45%;
         text-align: center;
+    }
+    .descriptor > span {
+        font-family: 'BentonSansCond-Bold', bold;
     }
 
     #app main h2 {
