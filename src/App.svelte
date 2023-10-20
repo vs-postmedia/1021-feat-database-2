@@ -66,11 +66,11 @@
         }
 
         // let's build some sentences!!!
-        const p1 = `was ${status} in ${city} ${year}.`
+        const p1 = `was ${status} in ${city} ${year}`
         const p2 = age_known ? `${pronoun} was ${person.age} years old` : '';
-        const p3 = parseInt(person.year_last_seen) < parseInt(person.year) ? ` in ${person.year_last_seen} when ${pronoun.toLowerCase()} went missing.` : '.';
-
-        return `${p1} ${p2}${p3}`;
+        const p3 = parseInt(person.year_last_seen) < parseInt(person.year) ? ` in ${person.year_last_seen} when ${pronoun.toLowerCase()} went missing` : '';
+        
+        return `${p1}. ${p2}${p3}.`.replace(/date\. \./g, 'date.');
     }
 
     async function fetchData(url) {
